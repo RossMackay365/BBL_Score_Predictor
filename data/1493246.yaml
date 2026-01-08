@@ -1,0 +1,2177 @@
+---
+meta:
+  data_version: 0.92
+  created: '2025-12-30'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Canberra
+  competition: Big Bash League
+  dates:
+  - '2025-12-22'
+  gender: male
+  match_type: T20
+  outcome:
+    winner: Sydney Thunder
+    by:
+      runs: 34
+  overs: 20
+  player_of_match:
+  - M Gilkes
+  players:
+    Sydney Thunder:
+    - S Konstas
+    - M Gilkes
+    - SW Billings
+    - DA Warner
+    - DR Sams
+    - CJ Green
+    - CT Bancroft
+    - Shadab Khan
+    - N McAndrew
+    - T Sangha
+    - RJW Topley
+    Brisbane Heat:
+    - C Munro
+    - JD Wildermuth
+    - MT Renshaw
+    - HD Weibgen
+    - TP Alsop
+    - M Bryant
+    - JJ Peirson
+    - XC Bartlett
+    - Shaheen Shah Afridi
+    - MP Kuhnemann
+    - L Haskett
+  registry:
+    people:
+      C Munro: af2c687b
+      CA Polosak: 26a360d2
+      CJ Green: 19b9f399
+      CT Bancroft: 399b0b94
+      D Brigham: 464daf41
+      D Crozier: 635509c0
+      DA Warner: dcce6f09
+      DR Sams: caf69bf7
+      HD Weibgen: 2535b30f
+      JD Wildermuth: f1c61793
+      JJ Peirson: 2b55c3b4
+      Kent Hannam: 8cc171e7
+      L Haskett: '037429dc'
+      M Bryant: f32012f4
+      M Gilkes: d85b0f8b
+      MP Kuhnemann: 7b953689
+      MT Renshaw: 218d4d78
+      N McAndrew: 38c276e1
+      RJW Topley: 8db7f47f
+      S Konstas: 3c34c9e1
+      SAJ Craig: 689f2eed
+      SW Billings: c16d4035
+      Shadab Khan: 9de62878
+      Shaheen Shah Afridi: 45a7e761
+      T Sangha: 52c952d9
+      TP Alsop: 961b8ff1
+      XC Bartlett: 3b53243a
+  teams:
+  - Sydney Thunder
+  - Brisbane Heat
+  toss:
+    winner: Brisbane Heat
+    decision: field
+  umpires:
+  - CA Polosak
+  - SAJ Craig
+  venue: Manuka Oval, Canberra
+innings:
+- 1st innings:
+    team: Sydney Thunder
+    deliveries:
+    - 0.1:
+        non_striker: M Gilkes
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: S Konstas
+    - 0.2:
+        non_striker: S Konstas
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Gilkes
+    - 0.3:
+        non_striker: S Konstas
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M Gilkes
+    - 0.4:
+        non_striker: S Konstas
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Gilkes
+    - 0.5:
+        non_striker: M Gilkes
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Konstas
+    - 0.6:
+        non_striker: M Gilkes
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Konstas
+    - 0.7:
+        non_striker: M Gilkes
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Konstas
+    - 1.1:
+        non_striker: M Gilkes
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Konstas
+    - 1.2:
+        non_striker: M Gilkes
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Konstas
+    - 1.3:
+        non_striker: M Gilkes
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Konstas
+    - 1.4:
+        non_striker: M Gilkes
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Konstas
+    - 1.5:
+        non_striker: M Gilkes
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Konstas
+    - 1.6:
+        non_striker: S Konstas
+        bowler: XC Bartlett
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M Gilkes
+    - 1.7:
+        non_striker: S Konstas
+        bowler: XC Bartlett
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M Gilkes
+    - 1.8:
+        non_striker: S Konstas
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: M Gilkes
+    - 2.1:
+        non_striker: M Gilkes
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Konstas
+    - 2.2:
+        non_striker: M Gilkes
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Konstas
+    - 2.3:
+        non_striker: S Konstas
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Gilkes
+    - 2.4:
+        non_striker: M Gilkes
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Konstas
+    - 2.5:
+        non_striker: M Gilkes
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Konstas
+    - 2.6:
+        non_striker: M Gilkes
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Konstas
+    - 3.1:
+        non_striker: S Konstas
+        bowler: L Haskett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Gilkes
+    - 3.2:
+        non_striker: S Konstas
+        bowler: L Haskett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Gilkes
+    - 3.3:
+        non_striker: M Gilkes
+        bowler: L Haskett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Konstas
+    - 3.4:
+        non_striker: M Gilkes
+        bowler: L Haskett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Konstas
+    - 3.5:
+        non_striker: S Konstas
+        bowler: L Haskett
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M Gilkes
+    - 3.6:
+        non_striker: S Konstas
+        bowler: L Haskett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Gilkes
+    - 3.7:
+        non_striker: M Gilkes
+        bowler: L Haskett
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Konstas
+    - 4.1:
+        non_striker: S Konstas
+        bowler: MP Kuhnemann
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Gilkes
+    - 4.2:
+        non_striker: S Konstas
+        bowler: MP Kuhnemann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Gilkes
+    - 4.3:
+        non_striker: M Gilkes
+        bowler: MP Kuhnemann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Konstas
+    - 4.4:
+        non_striker: S Konstas
+        bowler: MP Kuhnemann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Gilkes
+    - 4.5:
+        non_striker: M Gilkes
+        bowler: MP Kuhnemann
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Konstas
+    - 4.6:
+        non_striker: M Gilkes
+        bowler: MP Kuhnemann
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Konstas
+    - 5.1:
+        non_striker: S Konstas
+        bowler: JD Wildermuth
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: M Gilkes
+    - 5.2:
+        non_striker: M Gilkes
+        bowler: JD Wildermuth
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Konstas
+    - 5.3:
+        non_striker: M Gilkes
+        bowler: JD Wildermuth
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Konstas
+    - 5.4:
+        non_striker: S Konstas
+        bowler: JD Wildermuth
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Gilkes
+    - 5.5:
+        non_striker: S Konstas
+        bowler: JD Wildermuth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Gilkes
+    - 5.6:
+        non_striker: S Konstas
+        bowler: JD Wildermuth
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Gilkes
+    - 6.1:
+        non_striker: S Konstas
+        bowler: L Haskett
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: M Gilkes
+    - 6.2:
+        non_striker: S Konstas
+        bowler: L Haskett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Gilkes
+    - 6.3:
+        non_striker: M Gilkes
+        bowler: L Haskett
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Konstas
+    - 6.4:
+        non_striker: M Gilkes
+        bowler: L Haskett
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Konstas
+    - 6.5:
+        non_striker: M Gilkes
+        bowler: L Haskett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Konstas
+    - 6.6:
+        non_striker: M Gilkes
+        bowler: L Haskett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Konstas
+    - 7.1:
+        non_striker: M Gilkes
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Konstas
+    - 7.2:
+        non_striker: S Konstas
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Gilkes
+    - 7.3:
+        non_striker: M Gilkes
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Konstas
+    - 7.4:
+        non_striker: M Gilkes
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Konstas
+    - 7.5:
+        non_striker: S Konstas
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Gilkes
+    - 7.6:
+        non_striker: S Konstas
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: M Gilkes
+    - 8.1:
+        non_striker: M Gilkes
+        bowler: MP Kuhnemann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Konstas
+    - 8.2:
+        non_striker: S Konstas
+        bowler: MP Kuhnemann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Gilkes
+    - 8.3:
+        non_striker: M Gilkes
+        bowler: MP Kuhnemann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Konstas
+    - 8.4:
+        non_striker: S Konstas
+        bowler: MP Kuhnemann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Gilkes
+    - 8.5:
+        non_striker: M Gilkes
+        bowler: MP Kuhnemann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Konstas
+    - 8.6:
+        non_striker: M Gilkes
+        bowler: MP Kuhnemann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Konstas
+    - 9.1:
+        non_striker: M Gilkes
+        bowler: MT Renshaw
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Konstas
+    - 9.2:
+        non_striker: S Konstas
+        bowler: MT Renshaw
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Gilkes
+    - 9.3:
+        non_striker: S Konstas
+        bowler: MT Renshaw
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Gilkes
+    - 9.4:
+        non_striker: S Konstas
+        bowler: MT Renshaw
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Gilkes
+    - 9.5:
+        non_striker: S Konstas
+        bowler: MT Renshaw
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Gilkes
+    - 9.6:
+        non_striker: S Konstas
+        bowler: MT Renshaw
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Gilkes
+    - 10.1:
+        non_striker: M Gilkes
+        bowler: JD Wildermuth
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Konstas
+    - 10.2:
+        non_striker: S Konstas
+        bowler: JD Wildermuth
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Gilkes
+    - 10.3:
+        non_striker: M Gilkes
+        bowler: JD Wildermuth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Konstas
+    - 10.4:
+        non_striker: M Gilkes
+        bowler: JD Wildermuth
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Konstas
+    - 10.5:
+        non_striker: S Konstas
+        bowler: JD Wildermuth
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Gilkes
+    - 10.6:
+        non_striker: M Gilkes
+        bowler: JD Wildermuth
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Konstas
+    - 11.1:
+        non_striker: M Gilkes
+        bowler: L Haskett
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Konstas
+    - 11.2:
+        non_striker: M Gilkes
+        bowler: L Haskett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Konstas
+    - 11.3:
+        non_striker: S Konstas
+        bowler: L Haskett
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Gilkes
+    - 11.4:
+        non_striker: S Konstas
+        bowler: L Haskett
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Gilkes
+    - 11.5:
+        non_striker: S Konstas
+        bowler: L Haskett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Gilkes
+    - 11.6:
+        non_striker: M Gilkes
+        bowler: L Haskett
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Konstas
+    - 12.1:
+        non_striker: S Konstas
+        bowler: MP Kuhnemann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Gilkes
+    - 12.2:
+        non_striker: M Gilkes
+        bowler: MP Kuhnemann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Konstas
+    - 12.3:
+        non_striker: S Konstas
+        bowler: MP Kuhnemann
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: M Gilkes
+    - 12.4:
+        non_striker: M Gilkes
+        bowler: MP Kuhnemann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Konstas
+    - 12.5:
+        non_striker: S Konstas
+        bowler: MP Kuhnemann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Gilkes
+    - 12.6:
+        non_striker: M Gilkes
+        bowler: MP Kuhnemann
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Konstas
+    - 13.1:
+        non_striker: S Konstas
+        bowler: JD Wildermuth
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Gilkes
+    - 13.2:
+        non_striker: M Gilkes
+        bowler: JD Wildermuth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Konstas
+        wicket:
+          player_out: S Konstas
+          fielders:
+          - C Munro
+          kind: caught
+    - 13.3:
+        non_striker: M Gilkes
+        bowler: JD Wildermuth
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Billings
+    - 13.4:
+        non_striker: SW Billings
+        bowler: JD Wildermuth
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Gilkes
+    - 13.5:
+        non_striker: M Gilkes
+        bowler: JD Wildermuth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Billings
+    - 13.6:
+        non_striker: M Gilkes
+        bowler: JD Wildermuth
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SW Billings
+    - 14.1:
+        non_striker: SW Billings
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Gilkes
+    - 14.2:
+        non_striker: M Gilkes
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Billings
+    - 14.3:
+        non_striker: SW Billings
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Gilkes
+    - 14.4:
+        non_striker: M Gilkes
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Billings
+    - 14.5:
+        non_striker: M Gilkes
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SW Billings
+    - 14.6:
+        non_striker: M Gilkes
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SW Billings
+    - 15.1:
+        non_striker: SW Billings
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Gilkes
+    - 15.2:
+        non_striker: SW Billings
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Gilkes
+    - 15.3:
+        non_striker: M Gilkes
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SW Billings
+    - 15.4:
+        non_striker: M Gilkes
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SW Billings
+    - 15.5:
+        non_striker: M Gilkes
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Billings
+    - 15.6:
+        non_striker: SW Billings
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Gilkes
+    - 16.1:
+        non_striker: M Gilkes
+        bowler: MP Kuhnemann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Billings
+        wicket:
+          player_out: SW Billings
+          fielders:
+          - Shaheen Shah Afridi
+          kind: caught
+    - 16.2:
+        non_striker: M Gilkes
+        bowler: MP Kuhnemann
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DA Warner
+    - 16.3:
+        non_striker: M Gilkes
+        bowler: MP Kuhnemann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Warner
+    - 16.4:
+        non_striker: DA Warner
+        bowler: MP Kuhnemann
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Gilkes
+    - 16.5:
+        non_striker: DA Warner
+        bowler: MP Kuhnemann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Gilkes
+    - 16.6:
+        non_striker: DA Warner
+        bowler: MP Kuhnemann
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Gilkes
+    - 17.1:
+        non_striker: M Gilkes
+        bowler: JD Wildermuth
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DA Warner
+    - 17.2:
+        non_striker: M Gilkes
+        bowler: JD Wildermuth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Warner
+        wicket:
+          player_out: DA Warner
+          fielders:
+          - TP Alsop
+          kind: caught
+    - 17.3:
+        non_striker: M Gilkes
+        bowler: JD Wildermuth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DR Sams
+    - 17.4:
+        non_striker: M Gilkes
+        bowler: JD Wildermuth
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DR Sams
+    - 17.5:
+        non_striker: DR Sams
+        bowler: JD Wildermuth
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Gilkes
+    - 17.6:
+        non_striker: M Gilkes
+        bowler: JD Wildermuth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DR Sams
+    - 18.1:
+        non_striker: DR Sams
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Gilkes
+    - 18.2:
+        non_striker: DR Sams
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Gilkes
+    - 18.3:
+        non_striker: M Gilkes
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DR Sams
+    - 18.4:
+        non_striker: M Gilkes
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DR Sams
+    - 18.5:
+        non_striker: M Gilkes
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DR Sams
+    - 18.6:
+        non_striker: DR Sams
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Gilkes
+        wicket:
+          player_out: M Gilkes
+          kind: lbw
+    - 19.1:
+        non_striker: CJ Green
+        bowler: XC Bartlett
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: DR Sams
+    - 19.2:
+        non_striker: CJ Green
+        bowler: XC Bartlett
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: DR Sams
+    - 19.3:
+        non_striker: DR Sams
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CJ Green
+    - 19.4:
+        non_striker: CJ Green
+        bowler: XC Bartlett
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: DR Sams
+    - 19.5:
+        non_striker: CJ Green
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DR Sams
+    - 19.6:
+        non_striker: CJ Green
+        bowler: XC Bartlett
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: DR Sams
+    - 19.7:
+        non_striker: DR Sams
+        bowler: XC Bartlett
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: CJ Green
+    - 19.8:
+        non_striker: CJ Green
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DR Sams
+- 2nd innings:
+    team: Brisbane Heat
+    deliveries:
+    - 0.1:
+        non_striker: JD Wildermuth
+        bowler: RJW Topley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Munro
+    - 0.2:
+        non_striker: JD Wildermuth
+        bowler: RJW Topley
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: C Munro
+    - 0.3:
+        non_striker: C Munro
+        bowler: RJW Topley
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: JD Wildermuth
+    - 0.4:
+        non_striker: C Munro
+        bowler: RJW Topley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JD Wildermuth
+    - 0.5:
+        non_striker: JD Wildermuth
+        bowler: RJW Topley
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Munro
+    - 0.6:
+        non_striker: JD Wildermuth
+        bowler: RJW Topley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Munro
+    - 0.7:
+        non_striker: JD Wildermuth
+        bowler: RJW Topley
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Munro
+    - 1.1:
+        non_striker: C Munro
+        bowler: N McAndrew
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JD Wildermuth
+    - 1.2:
+        non_striker: C Munro
+        bowler: N McAndrew
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JD Wildermuth
+    - 1.3:
+        non_striker: C Munro
+        bowler: N McAndrew
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JD Wildermuth
+    - 1.4:
+        non_striker: C Munro
+        bowler: N McAndrew
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JD Wildermuth
+    - 1.5:
+        non_striker: C Munro
+        bowler: N McAndrew
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JD Wildermuth
+    - 1.6:
+        non_striker: C Munro
+        bowler: N McAndrew
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JD Wildermuth
+    - 2.1:
+        non_striker: JD Wildermuth
+        bowler: DR Sams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Munro
+    - 2.2:
+        non_striker: JD Wildermuth
+        bowler: DR Sams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Munro
+    - 2.3:
+        non_striker: JD Wildermuth
+        bowler: DR Sams
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: C Munro
+    - 2.4:
+        non_striker: JD Wildermuth
+        bowler: DR Sams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Munro
+    - 2.5:
+        non_striker: JD Wildermuth
+        bowler: DR Sams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Munro
+    - 2.6:
+        non_striker: C Munro
+        bowler: DR Sams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JD Wildermuth
+    - 3.1:
+        non_striker: C Munro
+        bowler: N McAndrew
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          legbyes: 4
+        batsman: JD Wildermuth
+    - 3.2:
+        non_striker: C Munro
+        bowler: N McAndrew
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JD Wildermuth
+    - 3.3:
+        non_striker: C Munro
+        bowler: N McAndrew
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JD Wildermuth
+    - 3.4:
+        non_striker: C Munro
+        bowler: N McAndrew
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JD Wildermuth
+    - 3.5:
+        non_striker: C Munro
+        bowler: N McAndrew
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JD Wildermuth
+    - 3.6:
+        non_striker: C Munro
+        bowler: N McAndrew
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JD Wildermuth
+    - 4.1:
+        non_striker: JD Wildermuth
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Munro
+    - 4.2:
+        non_striker: JD Wildermuth
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Munro
+    - 4.3:
+        non_striker: JD Wildermuth
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Munro
+    - 4.4:
+        non_striker: JD Wildermuth
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Munro
+        wicket:
+          player_out: C Munro
+          fielders:
+          - N McAndrew
+          kind: caught
+    - 4.5:
+        non_striker: JD Wildermuth
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MT Renshaw
+    - 4.6:
+        non_striker: MT Renshaw
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JD Wildermuth
+        wicket:
+          player_out: JD Wildermuth
+          kind: bowled
+    - 5.1:
+        non_striker: HD Weibgen
+        bowler: CJ Green
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MT Renshaw
+    - 5.2:
+        non_striker: HD Weibgen
+        bowler: CJ Green
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MT Renshaw
+    - 5.3:
+        non_striker: MT Renshaw
+        bowler: CJ Green
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HD Weibgen
+    - 5.4:
+        non_striker: HD Weibgen
+        bowler: CJ Green
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MT Renshaw
+    - 5.5:
+        non_striker: HD Weibgen
+        bowler: CJ Green
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MT Renshaw
+    - 5.6:
+        non_striker: MT Renshaw
+        bowler: CJ Green
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HD Weibgen
+    - 6.1:
+        non_striker: HD Weibgen
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MT Renshaw
+    - 6.2:
+        non_striker: HD Weibgen
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MT Renshaw
+    - 6.3:
+        non_striker: HD Weibgen
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MT Renshaw
+    - 6.4:
+        non_striker: HD Weibgen
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MT Renshaw
+    - 6.5:
+        non_striker: HD Weibgen
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MT Renshaw
+    - 6.6:
+        non_striker: HD Weibgen
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MT Renshaw
+    - 7.1:
+        non_striker: MT Renshaw
+        bowler: CJ Green
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HD Weibgen
+    - 7.2:
+        non_striker: HD Weibgen
+        bowler: CJ Green
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MT Renshaw
+    - 7.3:
+        non_striker: MT Renshaw
+        bowler: CJ Green
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HD Weibgen
+    - 7.4:
+        non_striker: HD Weibgen
+        bowler: CJ Green
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MT Renshaw
+    - 7.5:
+        non_striker: HD Weibgen
+        bowler: CJ Green
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MT Renshaw
+    - 7.6:
+        non_striker: MT Renshaw
+        bowler: CJ Green
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HD Weibgen
+    - 8.1:
+        non_striker: MT Renshaw
+        bowler: T Sangha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HD Weibgen
+    - 8.2:
+        non_striker: HD Weibgen
+        bowler: T Sangha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MT Renshaw
+    - 8.3:
+        non_striker: MT Renshaw
+        bowler: T Sangha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HD Weibgen
+    - 8.4:
+        non_striker: HD Weibgen
+        bowler: T Sangha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MT Renshaw
+    - 8.5:
+        non_striker: MT Renshaw
+        bowler: T Sangha
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HD Weibgen
+    - 8.6:
+        non_striker: MT Renshaw
+        bowler: T Sangha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HD Weibgen
+    - 9.1:
+        non_striker: MT Renshaw
+        bowler: RJW Topley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HD Weibgen
+    - 9.2:
+        non_striker: HD Weibgen
+        bowler: RJW Topley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MT Renshaw
+    - 9.3:
+        non_striker: HD Weibgen
+        bowler: RJW Topley
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MT Renshaw
+    - 9.4:
+        non_striker: HD Weibgen
+        bowler: RJW Topley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MT Renshaw
+    - 9.5:
+        non_striker: MT Renshaw
+        bowler: RJW Topley
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HD Weibgen
+    - 9.6:
+        non_striker: MT Renshaw
+        bowler: RJW Topley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HD Weibgen
+    - 10.1:
+        non_striker: HD Weibgen
+        bowler: T Sangha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MT Renshaw
+    - 10.2:
+        non_striker: MT Renshaw
+        bowler: T Sangha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HD Weibgen
+    - 10.3:
+        non_striker: HD Weibgen
+        bowler: T Sangha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MT Renshaw
+    - 10.4:
+        non_striker: MT Renshaw
+        bowler: T Sangha
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: HD Weibgen
+    - 10.5:
+        non_striker: MT Renshaw
+        bowler: T Sangha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HD Weibgen
+    - 10.6:
+        non_striker: HD Weibgen
+        bowler: T Sangha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MT Renshaw
+    - 10.7:
+        non_striker: MT Renshaw
+        bowler: T Sangha
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HD Weibgen
+    - 11.1:
+        non_striker: HD Weibgen
+        bowler: CJ Green
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MT Renshaw
+    - 11.2:
+        non_striker: MT Renshaw
+        bowler: CJ Green
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HD Weibgen
+    - 11.3:
+        non_striker: MT Renshaw
+        bowler: CJ Green
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HD Weibgen
+    - 11.4:
+        non_striker: HD Weibgen
+        bowler: CJ Green
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MT Renshaw
+    - 11.5:
+        non_striker: MT Renshaw
+        bowler: CJ Green
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HD Weibgen
+    - 11.6:
+        non_striker: HD Weibgen
+        bowler: CJ Green
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MT Renshaw
+    - 12.1:
+        non_striker: HD Weibgen
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MT Renshaw
+    - 12.2:
+        non_striker: MT Renshaw
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HD Weibgen
+    - 12.3:
+        non_striker: MT Renshaw
+        bowler: Shadab Khan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: HD Weibgen
+    - 12.4:
+        non_striker: HD Weibgen
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MT Renshaw
+    - 12.5:
+        non_striker: HD Weibgen
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MT Renshaw
+        wicket:
+          player_out: MT Renshaw
+          kind: bowled
+    - 12.6:
+        non_striker: HD Weibgen
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TP Alsop
+    - 13.1:
+        non_striker: TP Alsop
+        bowler: CJ Green
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HD Weibgen
+    - 13.2:
+        non_striker: HD Weibgen
+        bowler: CJ Green
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TP Alsop
+    - 13.3:
+        non_striker: TP Alsop
+        bowler: CJ Green
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HD Weibgen
+    - 13.4:
+        non_striker: HD Weibgen
+        bowler: CJ Green
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TP Alsop
+    - 13.5:
+        non_striker: TP Alsop
+        bowler: CJ Green
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HD Weibgen
+    - 13.6:
+        non_striker: TP Alsop
+        bowler: CJ Green
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HD Weibgen
+    - 14.1:
+        non_striker: TP Alsop
+        bowler: DR Sams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HD Weibgen
+    - 14.2:
+        non_striker: HD Weibgen
+        bowler: DR Sams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TP Alsop
+    - 14.3:
+        non_striker: TP Alsop
+        bowler: DR Sams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HD Weibgen
+        wicket:
+          player_out: HD Weibgen
+          kind: bowled
+    - 14.4:
+        non_striker: TP Alsop
+        bowler: DR Sams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Bryant
+    - 14.5:
+        non_striker: M Bryant
+        bowler: DR Sams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TP Alsop
+    - 14.6:
+        non_striker: TP Alsop
+        bowler: DR Sams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Bryant
+    - 15.1:
+        non_striker: TP Alsop
+        bowler: N McAndrew
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Bryant
+    - 15.2:
+        non_striker: TP Alsop
+        bowler: N McAndrew
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: M Bryant
+    - 15.3:
+        non_striker: TP Alsop
+        bowler: N McAndrew
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Bryant
+    - 15.4:
+        non_striker: M Bryant
+        bowler: N McAndrew
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TP Alsop
+    - 15.5:
+        non_striker: TP Alsop
+        bowler: N McAndrew
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M Bryant
+    - 15.6:
+        non_striker: TP Alsop
+        bowler: N McAndrew
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Bryant
+    - 15.7:
+        non_striker: M Bryant
+        bowler: N McAndrew
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TP Alsop
+    - 16.1:
+        non_striker: TP Alsop
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Bryant
+    - 16.2:
+        non_striker: M Bryant
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TP Alsop
+    - 16.3:
+        non_striker: M Bryant
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TP Alsop
+        wicket:
+          player_out: TP Alsop
+          fielders:
+          - SW Billings
+          kind: stumped
+    - 16.4:
+        non_striker: M Bryant
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Peirson
+    - 16.5:
+        non_striker: JJ Peirson
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Bryant
+    - 16.6:
+        non_striker: JJ Peirson
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Bryant
+    - 17.1:
+        non_striker: M Bryant
+        bowler: DR Sams
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JJ Peirson
+    - 17.2:
+        non_striker: M Bryant
+        bowler: DR Sams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Peirson
+    - 17.3:
+        non_striker: JJ Peirson
+        bowler: DR Sams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Bryant
+    - 17.4:
+        non_striker: M Bryant
+        bowler: DR Sams
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JJ Peirson
+    - 17.5:
+        non_striker: M Bryant
+        bowler: DR Sams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Peirson
+    - 17.6:
+        non_striker: M Bryant
+        bowler: DR Sams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Peirson
+    - 18.1:
+        non_striker: JJ Peirson
+        bowler: N McAndrew
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: M Bryant
+    - 18.2:
+        non_striker: JJ Peirson
+        bowler: N McAndrew
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Bryant
+    - 18.3:
+        non_striker: JJ Peirson
+        bowler: N McAndrew
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Bryant
+    - 18.4:
+        non_striker: JJ Peirson
+        bowler: N McAndrew
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Bryant
+    - 18.5:
+        non_striker: JJ Peirson
+        bowler: N McAndrew
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Bryant
+    - 18.6:
+        non_striker: JJ Peirson
+        bowler: N McAndrew
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Bryant
+    - 19.1:
+        non_striker: JJ Peirson
+        bowler: DR Sams
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M Bryant
+    - 19.2:
+        non_striker: JJ Peirson
+        bowler: DR Sams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Bryant
+    - 19.3:
+        non_striker: JJ Peirson
+        bowler: DR Sams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Bryant
+        wicket:
+          player_out: M Bryant
+          fielders:
+          - CJ Green
+          kind: caught
+    - 19.4:
+        non_striker: JJ Peirson
+        bowler: DR Sams
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: XC Bartlett
+    - 19.5:
+        non_striker: JJ Peirson
+        bowler: DR Sams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: XC Bartlett
+    - 19.6:
+        non_striker: JJ Peirson
+        bowler: DR Sams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: XC Bartlett
+    - 19.7:
+        non_striker: XC Bartlett
+        bowler: DR Sams
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: JJ Peirson
+    - 19.8:
+        non_striker: XC Bartlett
+        bowler: DR Sams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Peirson

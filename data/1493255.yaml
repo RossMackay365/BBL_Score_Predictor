@@ -1,0 +1,2082 @@
+---
+meta:
+  data_version: 0.92
+  created: '2026-01-02'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Melbourne
+  competition: Big Bash League
+  dates:
+  - '2026-01-01'
+  gender: male
+  match_type: T20
+  outcome:
+    winner: Sydney Sixers
+    by:
+      wickets: 6
+  overs: 20
+  player_of_match:
+  - SA Abbott
+  players:
+    Melbourne Renegades:
+    - J Brown
+    - TL Seifert
+    - Mohammad Rizwan
+    - J Fraser-McGurk
+    - OJ Peake
+    - Hassan Khan
+    - W Sutherland
+    - M Spoors
+    - AJ Tye
+    - GS Sandhu
+    - JP Behrendorff
+    Sydney Sixers:
+    - DP Hughes
+    - Babar Azam
+    - JR Philippe
+    - MC Henriques
+    - BJ Dwarshuis
+    - JA Davies
+    - JC Silk
+    - J Edwards
+    - BAD Manenti
+    - SA Abbott
+    - H Kerr
+  registry:
+    people:
+      AJ Tye: 7c7d63a2
+      BAD Manenti: ab21795b
+      BJ Dwarshuis: e1b9f3a9
+      Babar Azam: 8a75e999
+      Bede Sajowitz: 14fb95ae
+      D Crozier: 635509c0
+      DP Hughes: f3982af9
+      GS Sandhu: 1558d83b
+      H Kerr: f422728b
+      Hassan Khan: 486065b3
+      J Brown: 647e7d44
+      J Edwards: f787e0eb
+      J Fraser-McGurk: 9b6e1b3f
+      JA Davies: 5cdf8304
+      JC Silk: 7a6dc294
+      JP Behrendorff: 4933f499
+      JR Philippe: '39086549'
+      M Spoors: da4a1e46
+      MC Henriques: 32198ae0
+      Mohammad Rizwan: 2f26ac1a
+      OJ Peake: 9c8448ba
+      RL Parry: 86d151dc
+      SA Abbott: 1a2676c5
+      SE Dionysius: ac886e6f
+      Sharad Patel: 8e6dd3ba
+      TL Seifert: 4663bd23
+      W Sutherland: bc2d4f2e
+  teams:
+  - Melbourne Renegades
+  - Sydney Sixers
+  toss:
+    winner: Sydney Sixers
+    decision: field
+  umpires:
+  - Sharad Patel
+  - SE Dionysius
+  venue: Docklands Stadium, Melbourne
+innings:
+- 1st innings:
+    team: Melbourne Renegades
+    deliveries:
+    - 0.1:
+        non_striker: TL Seifert
+        bowler: SA Abbott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Brown
+    - 0.2:
+        non_striker: TL Seifert
+        bowler: SA Abbott
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Brown
+    - 0.3:
+        non_striker: J Brown
+        bowler: SA Abbott
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TL Seifert
+    - 0.4:
+        non_striker: TL Seifert
+        bowler: SA Abbott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Brown
+    - 0.5:
+        non_striker: TL Seifert
+        bowler: SA Abbott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Brown
+    - 0.6:
+        non_striker: TL Seifert
+        bowler: SA Abbott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Brown
+    - 1.1:
+        non_striker: J Brown
+        bowler: J Edwards
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TL Seifert
+    - 1.2:
+        non_striker: J Brown
+        bowler: J Edwards
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TL Seifert
+    - 1.3:
+        non_striker: TL Seifert
+        bowler: J Edwards
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Brown
+    - 1.4:
+        non_striker: J Brown
+        bowler: J Edwards
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TL Seifert
+    - 1.5:
+        non_striker: J Brown
+        bowler: J Edwards
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TL Seifert
+    - 1.6:
+        non_striker: J Brown
+        bowler: J Edwards
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TL Seifert
+        wicket:
+          player_out: TL Seifert
+          kind: bowled
+    - 2.1:
+        non_striker: Mohammad Rizwan
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Brown
+    - 2.2:
+        non_striker: Mohammad Rizwan
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Brown
+    - 2.3:
+        non_striker: Mohammad Rizwan
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: J Brown
+    - 2.4:
+        non_striker: Mohammad Rizwan
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: J Brown
+    - 2.5:
+        non_striker: Mohammad Rizwan
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: J Brown
+    - 2.6:
+        non_striker: Mohammad Rizwan
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Brown
+    - 3.1:
+        non_striker: J Brown
+        bowler: J Edwards
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Rizwan
+    - 3.2:
+        non_striker: J Brown
+        bowler: J Edwards
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Rizwan
+    - 3.3:
+        non_striker: Mohammad Rizwan
+        bowler: J Edwards
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Brown
+    - 3.4:
+        non_striker: J Brown
+        bowler: J Edwards
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Mohammad Rizwan
+    - 3.5:
+        non_striker: J Brown
+        bowler: J Edwards
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Rizwan
+    - 3.6:
+        non_striker: J Brown
+        bowler: J Edwards
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Rizwan
+    - 4.1:
+        non_striker: Mohammad Rizwan
+        bowler: H Kerr
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: J Brown
+    - 4.2:
+        non_striker: Mohammad Rizwan
+        bowler: H Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Brown
+    - 4.3:
+        non_striker: Mohammad Rizwan
+        bowler: H Kerr
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Brown
+    - 4.4:
+        non_striker: Mohammad Rizwan
+        bowler: H Kerr
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: J Brown
+    - 4.5:
+        non_striker: Mohammad Rizwan
+        bowler: H Kerr
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: J Brown
+    - 4.6:
+        non_striker: Mohammad Rizwan
+        bowler: H Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Brown
+        wicket:
+          player_out: J Brown
+          fielders:
+          - JA Davies
+          kind: caught
+    - 5.1:
+        non_striker: J Fraser-McGurk
+        bowler: JA Davies
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Rizwan
+    - 5.2:
+        non_striker: Mohammad Rizwan
+        bowler: JA Davies
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Fraser-McGurk
+    - 5.3:
+        non_striker: Mohammad Rizwan
+        bowler: JA Davies
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Fraser-McGurk
+    - 5.4:
+        non_striker: J Fraser-McGurk
+        bowler: JA Davies
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Rizwan
+    - 5.5:
+        non_striker: Mohammad Rizwan
+        bowler: JA Davies
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Fraser-McGurk
+    - 5.6:
+        non_striker: J Fraser-McGurk
+        bowler: JA Davies
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Rizwan
+    - 6.1:
+        non_striker: Mohammad Rizwan
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Fraser-McGurk
+    - 6.2:
+        non_striker: J Fraser-McGurk
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Rizwan
+    - 6.3:
+        non_striker: Mohammad Rizwan
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Fraser-McGurk
+    - 6.4:
+        non_striker: J Fraser-McGurk
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Rizwan
+        wicket:
+          player_out: Mohammad Rizwan
+          kind: bowled
+    - 6.5:
+        non_striker: J Fraser-McGurk
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OJ Peake
+    - 6.6:
+        non_striker: J Fraser-McGurk
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OJ Peake
+    - 7.1:
+        non_striker: OJ Peake
+        bowler: BAD Manenti
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: J Fraser-McGurk
+    - 7.2:
+        non_striker: OJ Peake
+        bowler: BAD Manenti
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: J Fraser-McGurk
+    - 7.3:
+        non_striker: OJ Peake
+        bowler: BAD Manenti
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Fraser-McGurk
+    - 7.4:
+        non_striker: J Fraser-McGurk
+        bowler: BAD Manenti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OJ Peake
+    - 7.5:
+        non_striker: J Fraser-McGurk
+        bowler: BAD Manenti
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: OJ Peake
+    - 7.6:
+        non_striker: OJ Peake
+        bowler: BAD Manenti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Fraser-McGurk
+    - 8.1:
+        non_striker: J Fraser-McGurk
+        bowler: SA Abbott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OJ Peake
+    - 8.2:
+        non_striker: J Fraser-McGurk
+        bowler: SA Abbott
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: OJ Peake
+    - 8.3:
+        non_striker: OJ Peake
+        bowler: SA Abbott
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Fraser-McGurk
+    - 8.4:
+        non_striker: J Fraser-McGurk
+        bowler: SA Abbott
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: OJ Peake
+    - 8.5:
+        non_striker: OJ Peake
+        bowler: SA Abbott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Fraser-McGurk
+    - 8.6:
+        non_striker: OJ Peake
+        bowler: SA Abbott
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: J Fraser-McGurk
+    - 9.1:
+        non_striker: OJ Peake
+        bowler: BAD Manenti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Fraser-McGurk
+    - 9.2:
+        non_striker: OJ Peake
+        bowler: BAD Manenti
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Fraser-McGurk
+    - 9.3:
+        non_striker: J Fraser-McGurk
+        bowler: BAD Manenti
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: OJ Peake
+    - 9.4:
+        non_striker: OJ Peake
+        bowler: BAD Manenti
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Fraser-McGurk
+    - 9.5:
+        non_striker: J Fraser-McGurk
+        bowler: BAD Manenti
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: OJ Peake
+    - 9.6:
+        non_striker: OJ Peake
+        bowler: BAD Manenti
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Fraser-McGurk
+    - 10.1:
+        non_striker: OJ Peake
+        bowler: H Kerr
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Fraser-McGurk
+    - 10.2:
+        non_striker: OJ Peake
+        bowler: H Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Fraser-McGurk
+    - 10.3:
+        non_striker: J Fraser-McGurk
+        bowler: H Kerr
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: OJ Peake
+    - 10.4:
+        non_striker: J Fraser-McGurk
+        bowler: H Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OJ Peake
+    - 10.5:
+        non_striker: J Fraser-McGurk
+        bowler: H Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: OJ Peake
+    - 10.6:
+        non_striker: OJ Peake
+        bowler: H Kerr
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: J Fraser-McGurk
+    - 11.1:
+        non_striker: OJ Peake
+        bowler: J Edwards
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Fraser-McGurk
+    - 11.2:
+        non_striker: J Fraser-McGurk
+        bowler: J Edwards
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: OJ Peake
+    - 11.3:
+        non_striker: OJ Peake
+        bowler: J Edwards
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Fraser-McGurk
+    - 11.4:
+        non_striker: J Fraser-McGurk
+        bowler: J Edwards
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OJ Peake
+        wicket:
+          player_out: OJ Peake
+          fielders:
+          - SA Abbott
+          kind: caught
+    - 11.5:
+        non_striker: J Fraser-McGurk
+        bowler: J Edwards
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hassan Khan
+    - 11.6:
+        non_striker: J Fraser-McGurk
+        bowler: J Edwards
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hassan Khan
+    - 12.1:
+        non_striker: J Fraser-McGurk
+        bowler: JA Davies
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hassan Khan
+    - 12.2:
+        non_striker: J Fraser-McGurk
+        bowler: JA Davies
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hassan Khan
+    - 12.3:
+        non_striker: J Fraser-McGurk
+        bowler: JA Davies
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hassan Khan
+    - 12.4:
+        non_striker: Hassan Khan
+        bowler: JA Davies
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Fraser-McGurk
+    - 12.5:
+        non_striker: Hassan Khan
+        bowler: JA Davies
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Fraser-McGurk
+    - 12.6:
+        non_striker: Hassan Khan
+        bowler: JA Davies
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Fraser-McGurk
+    - 13.1:
+        non_striker: J Fraser-McGurk
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hassan Khan
+    - 13.2:
+        non_striker: Hassan Khan
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: J Fraser-McGurk
+    - 13.3:
+        non_striker: Hassan Khan
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Fraser-McGurk
+    - 13.4:
+        non_striker: J Fraser-McGurk
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Hassan Khan
+    - 13.5:
+        non_striker: J Fraser-McGurk
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hassan Khan
+    - 13.6:
+        non_striker: J Fraser-McGurk
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hassan Khan
+    - 14.1:
+        non_striker: J Fraser-McGurk
+        bowler: SA Abbott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hassan Khan
+    - 14.2:
+        non_striker: J Fraser-McGurk
+        bowler: SA Abbott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hassan Khan
+    - 14.3:
+        non_striker: J Fraser-McGurk
+        bowler: SA Abbott
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hassan Khan
+    - 14.4:
+        non_striker: Hassan Khan
+        bowler: SA Abbott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Fraser-McGurk
+    - 14.5:
+        non_striker: Hassan Khan
+        bowler: SA Abbott
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Fraser-McGurk
+    - 14.6:
+        non_striker: Hassan Khan
+        bowler: SA Abbott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Fraser-McGurk
+        wicket:
+          player_out: J Fraser-McGurk
+          fielders:
+          - MC Henriques
+          kind: caught
+    - 15.1:
+        non_striker: W Sutherland
+        bowler: J Edwards
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hassan Khan
+    - 15.2:
+        non_striker: W Sutherland
+        bowler: J Edwards
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hassan Khan
+    - 15.3:
+        non_striker: W Sutherland
+        bowler: J Edwards
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hassan Khan
+    - 15.4:
+        non_striker: Hassan Khan
+        bowler: J Edwards
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Sutherland
+    - 15.5:
+        non_striker: W Sutherland
+        bowler: J Edwards
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hassan Khan
+    - 15.6:
+        non_striker: Hassan Khan
+        bowler: J Edwards
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: W Sutherland
+    - 16.1:
+        non_striker: W Sutherland
+        bowler: JA Davies
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hassan Khan
+    - 16.2:
+        non_striker: W Sutherland
+        bowler: JA Davies
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Hassan Khan
+    - 16.3:
+        non_striker: W Sutherland
+        bowler: JA Davies
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Hassan Khan
+    - 16.4:
+        non_striker: W Sutherland
+        bowler: JA Davies
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hassan Khan
+    - 16.5:
+        non_striker: W Sutherland
+        bowler: JA Davies
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Hassan Khan
+    - 16.6:
+        non_striker: W Sutherland
+        bowler: JA Davies
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hassan Khan
+    - 17.1:
+        non_striker: W Sutherland
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hassan Khan
+    - 17.2:
+        non_striker: Hassan Khan
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Sutherland
+    - 17.3:
+        non_striker: W Sutherland
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Hassan Khan
+    - 17.4:
+        non_striker: W Sutherland
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Hassan Khan
+    - 17.5:
+        non_striker: W Sutherland
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hassan Khan
+    - 17.6:
+        non_striker: Hassan Khan
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Sutherland
+        wicket:
+          player_out: W Sutherland
+          kind: bowled
+    - 18.1:
+        non_striker: M Spoors
+        bowler: SA Abbott
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Hassan Khan
+    - 18.2:
+        non_striker: M Spoors
+        bowler: SA Abbott
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hassan Khan
+    - 18.3:
+        non_striker: Hassan Khan
+        bowler: SA Abbott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Spoors
+        wicket:
+          player_out: M Spoors
+          fielders:
+          - JR Philippe
+          kind: caught
+    - 18.4:
+        non_striker: Hassan Khan
+        bowler: SA Abbott
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: AJ Tye
+    - 18.5:
+        non_striker: Hassan Khan
+        bowler: SA Abbott
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AJ Tye
+    - 18.6:
+        non_striker: Hassan Khan
+        bowler: SA Abbott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Tye
+        wicket:
+          player_out: AJ Tye
+          fielders:
+          - Babar Azam
+          kind: caught
+    - 18.7:
+        non_striker: Hassan Khan
+        bowler: SA Abbott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GS Sandhu
+    - 19.1:
+        non_striker: GS Sandhu
+        bowler: H Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hassan Khan
+        wicket:
+          player_out: Hassan Khan
+          fielders:
+          - SA Abbott
+          kind: caught
+    - 19.2:
+        non_striker: GS Sandhu
+        bowler: H Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JP Behrendorff
+    - 19.3:
+        non_striker: JP Behrendorff
+        bowler: H Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GS Sandhu
+    - 19.4:
+        non_striker: GS Sandhu
+        bowler: H Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JP Behrendorff
+    - 19.5:
+        non_striker: JP Behrendorff
+        bowler: H Kerr
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GS Sandhu
+    - 19.6:
+        non_striker: JP Behrendorff
+        bowler: H Kerr
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GS Sandhu
+- 2nd innings:
+    team: Sydney Sixers
+    deliveries:
+    - 0.1:
+        non_striker: Babar Azam
+        bowler: GS Sandhu
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DP Hughes
+    - 0.2:
+        non_striker: Babar Azam
+        bowler: GS Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Hughes
+    - 0.3:
+        non_striker: Babar Azam
+        bowler: GS Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Hughes
+    - 0.4:
+        non_striker: Babar Azam
+        bowler: GS Sandhu
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DP Hughes
+    - 0.5:
+        non_striker: Babar Azam
+        bowler: GS Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Hughes
+    - 0.6:
+        non_striker: Babar Azam
+        bowler: GS Sandhu
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DP Hughes
+    - 1.1:
+        non_striker: DP Hughes
+        bowler: JP Behrendorff
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Babar Azam
+    - 1.2:
+        non_striker: DP Hughes
+        bowler: JP Behrendorff
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Babar Azam
+    - 1.3:
+        non_striker: DP Hughes
+        bowler: JP Behrendorff
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Babar Azam
+    - 1.4:
+        non_striker: Babar Azam
+        bowler: JP Behrendorff
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DP Hughes
+    - 1.5:
+        non_striker: Babar Azam
+        bowler: JP Behrendorff
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Hughes
+    - 1.6:
+        non_striker: DP Hughes
+        bowler: JP Behrendorff
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Babar Azam
+    - 2.1:
+        non_striker: DP Hughes
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Babar Azam
+    - 2.2:
+        non_striker: DP Hughes
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Babar Azam
+    - 2.3:
+        non_striker: Babar Azam
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Hughes
+    - 2.4:
+        non_striker: Babar Azam
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Hughes
+    - 2.5:
+        non_striker: Babar Azam
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Hughes
+    - 2.6:
+        non_striker: DP Hughes
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Babar Azam
+    - 3.1:
+        non_striker: Babar Azam
+        bowler: JP Behrendorff
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Hughes
+    - 3.2:
+        non_striker: Babar Azam
+        bowler: JP Behrendorff
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DP Hughes
+    - 3.3:
+        non_striker: Babar Azam
+        bowler: JP Behrendorff
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DP Hughes
+    - 3.4:
+        non_striker: Babar Azam
+        bowler: JP Behrendorff
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Hughes
+    - 3.5:
+        non_striker: Babar Azam
+        bowler: JP Behrendorff
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Hughes
+    - 3.6:
+        non_striker: DP Hughes
+        bowler: JP Behrendorff
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Babar Azam
+    - 4.1:
+        non_striker: Babar Azam
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Hughes
+    - 4.2:
+        non_striker: DP Hughes
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Babar Azam
+    - 4.3:
+        non_striker: DP Hughes
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Babar Azam
+    - 4.4:
+        non_striker: Babar Azam
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Hughes
+    - 4.5:
+        non_striker: DP Hughes
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Babar Azam
+    - 4.6:
+        non_striker: Babar Azam
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Hughes
+    - 5.1:
+        non_striker: Babar Azam
+        bowler: Hassan Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Hughes
+    - 5.2:
+        non_striker: DP Hughes
+        bowler: Hassan Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Babar Azam
+    - 5.3:
+        non_striker: Babar Azam
+        bowler: Hassan Khan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: DP Hughes
+    - 5.4:
+        non_striker: Babar Azam
+        bowler: Hassan Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Hughes
+    - 5.5:
+        non_striker: DP Hughes
+        bowler: Hassan Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Babar Azam
+    - 5.6:
+        non_striker: DP Hughes
+        bowler: Hassan Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Babar Azam
+    - 6.1:
+        non_striker: DP Hughes
+        bowler: GS Sandhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Babar Azam
+    - 6.2:
+        non_striker: Babar Azam
+        bowler: GS Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Hughes
+        wicket:
+          player_out: DP Hughes
+          fielders:
+          - Mohammad Rizwan
+          kind: caught
+    - 6.3:
+        non_striker: Babar Azam
+        bowler: GS Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JR Philippe
+    - 6.4:
+        non_striker: Babar Azam
+        bowler: GS Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JR Philippe
+    - 6.5:
+        non_striker: Babar Azam
+        bowler: GS Sandhu
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: JR Philippe
+    - 6.6:
+        non_striker: Babar Azam
+        bowler: GS Sandhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JR Philippe
+    - 6.7:
+        non_striker: JR Philippe
+        bowler: GS Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Babar Azam
+    - 7.1:
+        non_striker: Babar Azam
+        bowler: AJ Tye
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JR Philippe
+    - 7.2:
+        non_striker: Babar Azam
+        bowler: AJ Tye
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JR Philippe
+    - 7.3:
+        non_striker: Babar Azam
+        bowler: AJ Tye
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JR Philippe
+    - 7.4:
+        non_striker: Babar Azam
+        bowler: AJ Tye
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JR Philippe
+    - 7.5:
+        non_striker: JR Philippe
+        bowler: AJ Tye
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Babar Azam
+    - 7.6:
+        non_striker: Babar Azam
+        bowler: AJ Tye
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JR Philippe
+    - 8.1:
+        non_striker: Babar Azam
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JR Philippe
+    - 8.2:
+        non_striker: Babar Azam
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JR Philippe
+    - 8.3:
+        non_striker: Babar Azam
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: JR Philippe
+    - 8.4:
+        non_striker: JR Philippe
+        bowler: W Sutherland
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Babar Azam
+    - 8.5:
+        non_striker: JR Philippe
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Babar Azam
+    - 8.6:
+        non_striker: Babar Azam
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JR Philippe
+        wicket:
+          player_out: JR Philippe
+          fielders:
+          - Hassan Khan
+          kind: caught
+    - 8.7:
+        non_striker: Babar Azam
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MC Henriques
+    - 9.1:
+        non_striker: MC Henriques
+        bowler: Hassan Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Babar Azam
+    - 9.2:
+        non_striker: Babar Azam
+        bowler: Hassan Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MC Henriques
+    - 9.3:
+        non_striker: Babar Azam
+        bowler: Hassan Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MC Henriques
+    - 9.4:
+        non_striker: Babar Azam
+        bowler: Hassan Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MC Henriques
+    - 9.5:
+        non_striker: Babar Azam
+        bowler: Hassan Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MC Henriques
+    - 9.6:
+        non_striker: MC Henriques
+        bowler: Hassan Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Babar Azam
+    - 10.1:
+        non_striker: MC Henriques
+        bowler: W Sutherland
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Babar Azam
+    - 10.2:
+        non_striker: MC Henriques
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Babar Azam
+    - 10.3:
+        non_striker: MC Henriques
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Babar Azam
+    - 10.4:
+        non_striker: Babar Azam
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MC Henriques
+    - 10.5:
+        non_striker: MC Henriques
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Babar Azam
+    - 10.6:
+        non_striker: MC Henriques
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Babar Azam
+    - 10.7:
+        non_striker: Babar Azam
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MC Henriques
+    - 11.1:
+        non_striker: Babar Azam
+        bowler: M Spoors
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MC Henriques
+    - 11.2:
+        non_striker: Babar Azam
+        bowler: M Spoors
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MC Henriques
+    - 11.3:
+        non_striker: MC Henriques
+        bowler: M Spoors
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Babar Azam
+    - 11.4:
+        non_striker: MC Henriques
+        bowler: M Spoors
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Babar Azam
+    - 11.5:
+        non_striker: Babar Azam
+        bowler: M Spoors
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MC Henriques
+    - 11.6:
+        non_striker: MC Henriques
+        bowler: M Spoors
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Babar Azam
+    - 12.1:
+        non_striker: MC Henriques
+        bowler: AJ Tye
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Babar Azam
+    - 12.2:
+        non_striker: MC Henriques
+        bowler: AJ Tye
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Babar Azam
+    - 12.3:
+        non_striker: MC Henriques
+        bowler: AJ Tye
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Babar Azam
+    - 12.4:
+        non_striker: Babar Azam
+        bowler: AJ Tye
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MC Henriques
+    - 12.5:
+        non_striker: Babar Azam
+        bowler: AJ Tye
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MC Henriques
+    - 12.6:
+        non_striker: Babar Azam
+        bowler: AJ Tye
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MC Henriques
+    - 13.1:
+        non_striker: Babar Azam
+        bowler: GS Sandhu
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MC Henriques
+    - 13.2:
+        non_striker: Babar Azam
+        bowler: GS Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MC Henriques
+    - 13.3:
+        non_striker: Babar Azam
+        bowler: GS Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MC Henriques
+    - 13.4:
+        non_striker: Babar Azam
+        bowler: GS Sandhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MC Henriques
+    - 13.5:
+        non_striker: MC Henriques
+        bowler: GS Sandhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Babar Azam
+    - 13.6:
+        non_striker: Babar Azam
+        bowler: GS Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MC Henriques
+        wicket:
+          player_out: MC Henriques
+          fielders:
+          - Hassan Khan
+          kind: caught
+    - 14.1:
+        non_striker: BJ Dwarshuis
+        bowler: M Spoors
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Babar Azam
+    - 14.2:
+        non_striker: BJ Dwarshuis
+        bowler: M Spoors
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Babar Azam
+    - 14.3:
+        non_striker: BJ Dwarshuis
+        bowler: M Spoors
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Babar Azam
+    - 14.4:
+        non_striker: BJ Dwarshuis
+        bowler: M Spoors
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Babar Azam
+    - 14.5:
+        non_striker: Babar Azam
+        bowler: M Spoors
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BJ Dwarshuis
+        wicket:
+          player_out: BJ Dwarshuis
+          fielders:
+          - Hassan Khan
+          kind: caught
+    - 14.6:
+        non_striker: Babar Azam
+        bowler: M Spoors
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA Davies
+    - 15.1:
+        non_striker: Babar Azam
+        bowler: JP Behrendorff
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JA Davies
+    - 15.2:
+        non_striker: Babar Azam
+        bowler: JP Behrendorff
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JA Davies
+    - 15.3:
+        non_striker: Babar Azam
+        bowler: JP Behrendorff
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JA Davies
+    - 15.4:
+        non_striker: Babar Azam
+        bowler: JP Behrendorff
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA Davies
+    - 15.5:
+        non_striker: JA Davies
+        bowler: JP Behrendorff
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Babar Azam
+    - 15.6:
+        non_striker: Babar Azam
+        bowler: JP Behrendorff
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA Davies
+    - 16.1:
+        non_striker: Babar Azam
+        bowler: Hassan Khan
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          wides: 4
+        batsman: JA Davies
+    - 16.2:
+        non_striker: JA Davies
+        bowler: Hassan Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Babar Azam
+    - 16.3:
+        non_striker: Babar Azam
+        bowler: Hassan Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Davies
+    - 16.4:
+        non_striker: Babar Azam
+        bowler: Hassan Khan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JA Davies
+    - 16.5:
+        non_striker: Babar Azam
+        bowler: Hassan Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JA Davies
+    - 16.6:
+        non_striker: Babar Azam
+        bowler: Hassan Khan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JA Davies
+    - 16.7:
+        non_striker: Babar Azam
+        bowler: Hassan Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Davies
+    - 17.1:
+        non_striker: JA Davies
+        bowler: AJ Tye
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Babar Azam
+    - 17.2:
+        non_striker: JA Davies
+        bowler: AJ Tye
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Babar Azam
+    - 17.3:
+        non_striker: Babar Azam
+        bowler: AJ Tye
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JA Davies
+    - 17.4:
+        non_striker: Babar Azam
+        bowler: AJ Tye
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA Davies
+    - 17.5:
+        non_striker: JA Davies
+        bowler: AJ Tye
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Babar Azam
+    - 17.6:
+        non_striker: Babar Azam
+        bowler: AJ Tye
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA Davies
+    - 18.1:
+        non_striker: Babar Azam
+        bowler: GS Sandhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA Davies
+    - 18.2:
+        non_striker: JA Davies
+        bowler: GS Sandhu
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Babar Azam
+    - 18.3:
+        non_striker: JA Davies
+        bowler: GS Sandhu
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Babar Azam
+    - 18.4:
+        non_striker: JA Davies
+        bowler: GS Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Babar Azam
+    - 18.5:
+        non_striker: JA Davies
+        bowler: GS Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Babar Azam
+    - 18.6:
+        non_striker: JA Davies
+        bowler: GS Sandhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Babar Azam
+    - 19.1:
+        non_striker: JA Davies
+        bowler: AJ Tye
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Babar Azam

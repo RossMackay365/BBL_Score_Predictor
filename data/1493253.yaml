@@ -1,0 +1,2048 @@
+---
+meta:
+  data_version: 0.92
+  created: '2026-01-02'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Sydney
+  competition: Big Bash League
+  dates:
+  - '2025-12-30'
+  gender: male
+  match_type: T20
+  outcome:
+    winner: Perth Scorchers
+    by:
+      runs: 71
+  overs: 20
+  player_of_match:
+  - AJ Turner
+  players:
+    Perth Scorchers:
+    - MR Marsh
+    - FH Allen
+    - C Connolly
+    - JP Inglis
+    - AJ Turner
+    - LJ Evans
+    - AM Hardie
+    - AC Agar
+    - JS Paris
+    - BL Couch
+    - M Beardman
+    Sydney Thunder:
+    - DA Warner
+    - M Gilkes
+    - S Konstas
+    - CT Bancroft
+    - SW Billings
+    - DR Sams
+    - Shadab Khan
+    - CJ Green
+    - N McAndrew
+    - T Sangha
+    - RJW Topley
+  registry:
+    people:
+      AC Agar: a2421394
+      AJ Turner: ff1e12a0
+      AM Hardie: d405c0d5
+      BL Couch: be69e09d
+      C Connolly: fe366f34
+      CJ Green: 19b9f399
+      CT Bancroft: 399b0b94
+      DA Warner: dcce6f09
+      DM Koch: 6d10c034
+      DR Sams: caf69bf7
+      FH Allen: bf74b130
+      JP Inglis: 989889ff
+      JS Paris: 7c8f533d
+      LJ Evans: 1c513d54
+      M Beardman: b5a12740
+      M Gilkes: d85b0f8b
+      MR Marsh: 3d8feaf8
+      N McAndrew: 38c276e1
+      RJW Topley: 8db7f47f
+      Roberto Howard: eec90c4b
+      S Konstas: 3c34c9e1
+      SD Fry: 6b725ed1
+      SJ Nogajski: 9b3f9323
+      SW Billings: c16d4035
+      Shadab Khan: 9de62878
+      Sharad Patel: 8e6dd3ba
+      T Sangha: 52c952d9
+  teams:
+  - Perth Scorchers
+  - Sydney Thunder
+  toss:
+    winner: Sydney Thunder
+    decision: field
+  umpires:
+  - DM Koch
+  - Sharad Patel
+  venue: Sydney Showground Stadium
+innings:
+- 1st innings:
+    team: Perth Scorchers
+    deliveries:
+    - 0.1:
+        non_striker: FH Allen
+        bowler: N McAndrew
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MR Marsh
+    - 0.2:
+        non_striker: FH Allen
+        bowler: N McAndrew
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MR Marsh
+    - 0.3:
+        non_striker: FH Allen
+        bowler: N McAndrew
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MR Marsh
+    - 0.4:
+        non_striker: FH Allen
+        bowler: N McAndrew
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MR Marsh
+    - 0.5:
+        non_striker: FH Allen
+        bowler: N McAndrew
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: MR Marsh
+    - 0.6:
+        non_striker: MR Marsh
+        bowler: N McAndrew
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FH Allen
+    - 1.1:
+        non_striker: MR Marsh
+        bowler: RJW Topley
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: FH Allen
+    - 1.2:
+        non_striker: MR Marsh
+        bowler: RJW Topley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FH Allen
+    - 1.3:
+        non_striker: MR Marsh
+        bowler: RJW Topley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FH Allen
+    - 1.4:
+        non_striker: MR Marsh
+        bowler: RJW Topley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FH Allen
+    - 1.5:
+        non_striker: MR Marsh
+        bowler: RJW Topley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FH Allen
+    - 1.6:
+        non_striker: MR Marsh
+        bowler: RJW Topley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FH Allen
+    - 2.1:
+        non_striker: FH Allen
+        bowler: N McAndrew
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MR Marsh
+    - 2.2:
+        non_striker: FH Allen
+        bowler: N McAndrew
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MR Marsh
+        wicket:
+          player_out: MR Marsh
+          fielders:
+          - SW Billings
+          kind: caught
+    - 2.3:
+        non_striker: FH Allen
+        bowler: N McAndrew
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Connolly
+    - 2.4:
+        non_striker: FH Allen
+        bowler: N McAndrew
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Connolly
+    - 2.5:
+        non_striker: FH Allen
+        bowler: N McAndrew
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Connolly
+    - 2.6:
+        non_striker: FH Allen
+        bowler: N McAndrew
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Connolly
+    - 3.1:
+        non_striker: C Connolly
+        bowler: RJW Topley
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: FH Allen
+    - 3.2:
+        non_striker: C Connolly
+        bowler: RJW Topley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FH Allen
+        wicket:
+          player_out: FH Allen
+          fielders:
+          - M Gilkes
+          kind: caught
+    - 3.3:
+        non_striker: C Connolly
+        bowler: RJW Topley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JP Inglis
+    - 3.4:
+        non_striker: C Connolly
+        bowler: RJW Topley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JP Inglis
+    - 3.5:
+        non_striker: JP Inglis
+        bowler: RJW Topley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Connolly
+    - 3.6:
+        non_striker: C Connolly
+        bowler: RJW Topley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JP Inglis
+    - 4.1:
+        non_striker: JP Inglis
+        bowler: CJ Green
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Connolly
+    - 4.2:
+        non_striker: C Connolly
+        bowler: CJ Green
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JP Inglis
+    - 4.3:
+        non_striker: C Connolly
+        bowler: CJ Green
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JP Inglis
+    - 4.4:
+        non_striker: JP Inglis
+        bowler: CJ Green
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Connolly
+    - 4.5:
+        non_striker: JP Inglis
+        bowler: CJ Green
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Connolly
+    - 4.6:
+        non_striker: C Connolly
+        bowler: CJ Green
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JP Inglis
+    - 5.1:
+        non_striker: C Connolly
+        bowler: DR Sams
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JP Inglis
+    - 5.2:
+        non_striker: C Connolly
+        bowler: DR Sams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JP Inglis
+    - 5.3:
+        non_striker: C Connolly
+        bowler: DR Sams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JP Inglis
+        wicket:
+          player_out: JP Inglis
+          fielders:
+          - T Sangha
+          kind: caught
+    - 5.4:
+        non_striker: C Connolly
+        bowler: DR Sams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Turner
+    - 5.5:
+        non_striker: C Connolly
+        bowler: DR Sams
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AJ Turner
+    - 5.6:
+        non_striker: C Connolly
+        bowler: DR Sams
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AJ Turner
+    - 6.1:
+        non_striker: AJ Turner
+        bowler: CJ Green
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Connolly
+    - 6.2:
+        non_striker: AJ Turner
+        bowler: CJ Green
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Connolly
+    - 6.3:
+        non_striker: C Connolly
+        bowler: CJ Green
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Turner
+    - 6.4:
+        non_striker: AJ Turner
+        bowler: CJ Green
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Connolly
+    - 6.5:
+        non_striker: AJ Turner
+        bowler: CJ Green
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Connolly
+    - 6.6:
+        non_striker: AJ Turner
+        bowler: CJ Green
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Connolly
+    - 7.1:
+        non_striker: AJ Turner
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Connolly
+    - 7.2:
+        non_striker: C Connolly
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Turner
+    - 7.3:
+        non_striker: C Connolly
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Turner
+    - 7.4:
+        non_striker: AJ Turner
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Connolly
+    - 7.5:
+        non_striker: AJ Turner
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: C Connolly
+    - 7.6:
+        non_striker: AJ Turner
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Connolly
+    - 8.1:
+        non_striker: C Connolly
+        bowler: CJ Green
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Turner
+    - 8.2:
+        non_striker: C Connolly
+        bowler: CJ Green
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AJ Turner
+    - 8.3:
+        non_striker: C Connolly
+        bowler: CJ Green
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AJ Turner
+    - 8.4:
+        non_striker: C Connolly
+        bowler: CJ Green
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AJ Turner
+    - 8.5:
+        non_striker: C Connolly
+        bowler: CJ Green
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Turner
+    - 8.6:
+        non_striker: C Connolly
+        bowler: CJ Green
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AJ Turner
+    - 9.1:
+        non_striker: AJ Turner
+        bowler: T Sangha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Connolly
+    - 9.2:
+        non_striker: C Connolly
+        bowler: T Sangha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Turner
+    - 9.3:
+        non_striker: C Connolly
+        bowler: T Sangha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Turner
+    - 9.4:
+        non_striker: C Connolly
+        bowler: T Sangha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Turner
+    - 9.5:
+        non_striker: AJ Turner
+        bowler: T Sangha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Connolly
+    - 9.6:
+        non_striker: C Connolly
+        bowler: T Sangha
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AJ Turner
+    - 10.1:
+        non_striker: AJ Turner
+        bowler: RJW Topley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Connolly
+    - 10.2:
+        non_striker: C Connolly
+        bowler: RJW Topley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Turner
+    - 10.3:
+        non_striker: C Connolly
+        bowler: RJW Topley
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AJ Turner
+    - 10.4:
+        non_striker: C Connolly
+        bowler: RJW Topley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Turner
+    - 10.5:
+        non_striker: AJ Turner
+        bowler: RJW Topley
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Connolly
+    - 10.6:
+        non_striker: AJ Turner
+        bowler: RJW Topley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Connolly
+    - 11.1:
+        non_striker: AJ Turner
+        bowler: T Sangha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Connolly
+    - 11.2:
+        non_striker: AJ Turner
+        bowler: T Sangha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Connolly
+    - 11.3:
+        non_striker: C Connolly
+        bowler: T Sangha
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AJ Turner
+    - 11.4:
+        non_striker: C Connolly
+        bowler: T Sangha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Turner
+    - 11.5:
+        non_striker: AJ Turner
+        bowler: T Sangha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Connolly
+    - 11.6:
+        non_striker: C Connolly
+        bowler: T Sangha
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AJ Turner
+    - 12.1:
+        non_striker: AJ Turner
+        bowler: DR Sams
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: C Connolly
+    - 12.2:
+        non_striker: AJ Turner
+        bowler: DR Sams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Connolly
+        wicket:
+          player_out: C Connolly
+          fielders:
+          - CJ Green
+          kind: caught
+    - 12.3:
+        non_striker: AJ Turner
+        bowler: DR Sams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LJ Evans
+    - 12.4:
+        non_striker: AJ Turner
+        bowler: DR Sams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LJ Evans
+    - 12.5:
+        non_striker: LJ Evans
+        bowler: DR Sams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Turner
+    - 12.6:
+        non_striker: AJ Turner
+        bowler: DR Sams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LJ Evans
+    - 13.1:
+        non_striker: AJ Turner
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: LJ Evans
+    - 13.2:
+        non_striker: AJ Turner
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LJ Evans
+    - 13.3:
+        non_striker: AJ Turner
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: LJ Evans
+    - 13.4:
+        non_striker: AJ Turner
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LJ Evans
+        wicket:
+          player_out: LJ Evans
+          kind: lbw
+    - 13.5:
+        non_striker: AJ Turner
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Hardie
+    - 13.6:
+        non_striker: AJ Turner
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Hardie
+    - 14.1:
+        non_striker: AM Hardie
+        bowler: T Sangha
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AJ Turner
+    - 14.2:
+        non_striker: AM Hardie
+        bowler: T Sangha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Turner
+    - 14.3:
+        non_striker: AJ Turner
+        bowler: T Sangha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Hardie
+    - 14.4:
+        non_striker: AM Hardie
+        bowler: T Sangha
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AJ Turner
+    - 14.5:
+        non_striker: AM Hardie
+        bowler: T Sangha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Turner
+    - 14.6:
+        non_striker: AM Hardie
+        bowler: T Sangha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Turner
+    - 14.7:
+        non_striker: AJ Turner
+        bowler: T Sangha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Hardie
+    - 15.1:
+        non_striker: AJ Turner
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Hardie
+    - 15.2:
+        non_striker: AJ Turner
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AM Hardie
+    - 15.3:
+        non_striker: AJ Turner
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Hardie
+    - 15.4:
+        non_striker: AM Hardie
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Turner
+    - 15.5:
+        non_striker: AJ Turner
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AM Hardie
+    - 15.6:
+        non_striker: AJ Turner
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Hardie
+    - 16.1:
+        non_striker: AJ Turner
+        bowler: N McAndrew
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AM Hardie
+    - 16.2:
+        non_striker: AJ Turner
+        bowler: N McAndrew
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Hardie
+    - 16.3:
+        non_striker: AJ Turner
+        bowler: N McAndrew
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AM Hardie
+    - 16.4:
+        non_striker: AJ Turner
+        bowler: N McAndrew
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AM Hardie
+    - 16.5:
+        non_striker: AJ Turner
+        bowler: N McAndrew
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AM Hardie
+    - 16.6:
+        non_striker: AJ Turner
+        bowler: N McAndrew
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AM Hardie
+    - 17.1:
+        non_striker: AM Hardie
+        bowler: DR Sams
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AJ Turner
+    - 17.2:
+        non_striker: AM Hardie
+        bowler: DR Sams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Turner
+    - 17.3:
+        non_striker: AM Hardie
+        bowler: DR Sams
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AJ Turner
+    - 17.4:
+        non_striker: AM Hardie
+        bowler: DR Sams
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AJ Turner
+    - 17.5:
+        non_striker: AM Hardie
+        bowler: DR Sams
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AJ Turner
+    - 17.6:
+        non_striker: AM Hardie
+        bowler: DR Sams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Turner
+    - 18.1:
+        non_striker: AM Hardie
+        bowler: RJW Topley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Turner
+    - 18.2:
+        non_striker: AJ Turner
+        bowler: RJW Topley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Hardie
+        wicket:
+          player_out: AM Hardie
+          fielders:
+          - SW Billings
+          kind: caught
+    - 18.3:
+        non_striker: AJ Turner
+        bowler: RJW Topley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Agar
+    - 18.4:
+        non_striker: AC Agar
+        bowler: RJW Topley
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AJ Turner
+    - 18.5:
+        non_striker: AC Agar
+        bowler: RJW Topley
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AJ Turner
+    - 18.6:
+        non_striker: AC Agar
+        bowler: RJW Topley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Turner
+    - 19.1:
+        non_striker: AC Agar
+        bowler: DR Sams
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AJ Turner
+    - 19.2:
+        non_striker: AC Agar
+        bowler: DR Sams
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AJ Turner
+    - 19.3:
+        non_striker: AC Agar
+        bowler: DR Sams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Turner
+    - 19.4:
+        non_striker: AJ Turner
+        bowler: DR Sams
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AC Agar
+    - 19.5:
+        non_striker: AJ Turner
+        bowler: DR Sams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Agar
+        wicket:
+          player_out: AC Agar
+          fielders:
+          - M Gilkes
+          kind: caught
+    - 19.6:
+        non_striker: AJ Turner
+        bowler: DR Sams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JS Paris
+        wicket:
+          player_out: JS Paris
+          fielders:
+          - S Konstas
+          kind: caught
+- 2nd innings:
+    team: Sydney Thunder
+    deliveries:
+    - 0.1:
+        non_striker: M Gilkes
+        bowler: M Beardman
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: DA Warner
+    - 0.2:
+        non_striker: M Gilkes
+        bowler: M Beardman
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: DA Warner
+    - 0.3:
+        non_striker: M Gilkes
+        bowler: M Beardman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Warner
+    - 0.4:
+        non_striker: M Gilkes
+        bowler: M Beardman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Warner
+    - 0.5:
+        non_striker: M Gilkes
+        bowler: M Beardman
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: DA Warner
+    - 0.6:
+        non_striker: M Gilkes
+        bowler: M Beardman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Warner
+    - 0.7:
+        non_striker: M Gilkes
+        bowler: M Beardman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Warner
+    - 0.8:
+        non_striker: M Gilkes
+        bowler: M Beardman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Warner
+    - 1.1:
+        non_striker: DA Warner
+        bowler: JS Paris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Gilkes
+    - 1.2:
+        non_striker: DA Warner
+        bowler: JS Paris
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Gilkes
+    - 1.3:
+        non_striker: M Gilkes
+        bowler: JS Paris
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DA Warner
+    - 1.4:
+        non_striker: M Gilkes
+        bowler: JS Paris
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Warner
+    - 1.5:
+        non_striker: DA Warner
+        bowler: JS Paris
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Gilkes
+    - 1.6:
+        non_striker: M Gilkes
+        bowler: JS Paris
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Warner
+    - 2.1:
+        non_striker: M Gilkes
+        bowler: BL Couch
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DA Warner
+    - 2.2:
+        non_striker: M Gilkes
+        bowler: BL Couch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Warner
+    - 2.3:
+        non_striker: DA Warner
+        bowler: BL Couch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Gilkes
+    - 2.4:
+        non_striker: DA Warner
+        bowler: BL Couch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Gilkes
+    - 2.5:
+        non_striker: M Gilkes
+        bowler: BL Couch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Warner
+    - 2.6:
+        non_striker: M Gilkes
+        bowler: BL Couch
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DA Warner
+    - 3.1:
+        non_striker: DA Warner
+        bowler: JS Paris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Gilkes
+    - 3.2:
+        non_striker: DA Warner
+        bowler: JS Paris
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Gilkes
+    - 3.3:
+        non_striker: DA Warner
+        bowler: JS Paris
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Gilkes
+    - 3.4:
+        non_striker: DA Warner
+        bowler: JS Paris
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Gilkes
+    - 3.5:
+        non_striker: M Gilkes
+        bowler: JS Paris
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: DA Warner
+    - 3.6:
+        non_striker: M Gilkes
+        bowler: JS Paris
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Warner
+    - 4.1:
+        non_striker: M Gilkes
+        bowler: AM Hardie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Warner
+    - 4.2:
+        non_striker: DA Warner
+        bowler: AM Hardie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Gilkes
+    - 4.3:
+        non_striker: DA Warner
+        bowler: AM Hardie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Gilkes
+    - 4.4:
+        non_striker: M Gilkes
+        bowler: AM Hardie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Warner
+    - 4.5:
+        non_striker: DA Warner
+        bowler: AM Hardie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Gilkes
+    - 4.6:
+        non_striker: M Gilkes
+        bowler: AM Hardie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Warner
+    - 5.1:
+        non_striker: DA Warner
+        bowler: C Connolly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Gilkes
+    - 5.2:
+        non_striker: M Gilkes
+        bowler: C Connolly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Warner
+    - 5.3:
+        non_striker: DA Warner
+        bowler: C Connolly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Gilkes
+    - 5.4:
+        non_striker: DA Warner
+        bowler: C Connolly
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: M Gilkes
+    - 5.5:
+        non_striker: DA Warner
+        bowler: C Connolly
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Gilkes
+    - 5.6:
+        non_striker: DA Warner
+        bowler: C Connolly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Gilkes
+    - 6.1:
+        non_striker: DA Warner
+        bowler: M Beardman
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: M Gilkes
+    - 6.2:
+        non_striker: DA Warner
+        bowler: M Beardman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Gilkes
+    - 6.3:
+        non_striker: M Gilkes
+        bowler: M Beardman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Warner
+    - 6.4:
+        non_striker: M Gilkes
+        bowler: M Beardman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Warner
+        wicket:
+          player_out: DA Warner
+          fielders:
+          - FH Allen
+          kind: caught
+    - 6.5:
+        non_striker: M Gilkes
+        bowler: M Beardman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Konstas
+    - 6.6:
+        non_striker: M Gilkes
+        bowler: M Beardman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Konstas
+    - 7.1:
+        non_striker: M Gilkes
+        bowler: AC Agar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Konstas
+        wicket:
+          player_out: M Gilkes
+          fielders:
+          - JP Inglis
+          - AC Agar
+          kind: run out
+    - 7.2:
+        non_striker: CT Bancroft
+        bowler: AC Agar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Konstas
+    - 7.3:
+        non_striker: CT Bancroft
+        bowler: AC Agar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Konstas
+    - 7.4:
+        non_striker: CT Bancroft
+        bowler: AC Agar
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: S Konstas
+    - 7.5:
+        non_striker: CT Bancroft
+        bowler: AC Agar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Konstas
+    - 7.6:
+        non_striker: CT Bancroft
+        bowler: AC Agar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Konstas
+    - 8.1:
+        non_striker: CT Bancroft
+        bowler: BL Couch
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Konstas
+    - 8.2:
+        non_striker: CT Bancroft
+        bowler: BL Couch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Konstas
+    - 8.3:
+        non_striker: CT Bancroft
+        bowler: BL Couch
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Konstas
+    - 8.4:
+        non_striker: CT Bancroft
+        bowler: BL Couch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Konstas
+    - 8.5:
+        non_striker: CT Bancroft
+        bowler: BL Couch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Konstas
+    - 8.6:
+        non_striker: S Konstas
+        bowler: BL Couch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CT Bancroft
+    - 8.7:
+        non_striker: S Konstas
+        bowler: BL Couch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CT Bancroft
+    - 9.1:
+        non_striker: S Konstas
+        bowler: C Connolly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CT Bancroft
+    - 9.2:
+        non_striker: CT Bancroft
+        bowler: C Connolly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Konstas
+    - 9.3:
+        non_striker: CT Bancroft
+        bowler: C Connolly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Konstas
+    - 9.4:
+        non_striker: CT Bancroft
+        bowler: C Connolly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Konstas
+    - 9.5:
+        non_striker: S Konstas
+        bowler: C Connolly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CT Bancroft
+        wicket:
+          player_out: CT Bancroft
+          kind: caught and bowled
+    - 9.6:
+        non_striker: S Konstas
+        bowler: C Connolly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Billings
+        wicket:
+          player_out: SW Billings
+          kind: bowled
+    - 10.1:
+        non_striker: DR Sams
+        bowler: M Beardman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Konstas
+    - 10.2:
+        non_striker: S Konstas
+        bowler: M Beardman
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DR Sams
+    - 10.3:
+        non_striker: S Konstas
+        bowler: M Beardman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DR Sams
+    - 10.4:
+        non_striker: S Konstas
+        bowler: M Beardman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DR Sams
+    - 10.5:
+        non_striker: S Konstas
+        bowler: M Beardman
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DR Sams
+    - 10.6:
+        non_striker: S Konstas
+        bowler: M Beardman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DR Sams
+    - 11.1:
+        non_striker: S Konstas
+        bowler: C Connolly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DR Sams
+    - 11.2:
+        non_striker: S Konstas
+        bowler: C Connolly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DR Sams
+    - 11.3:
+        non_striker: S Konstas
+        bowler: C Connolly
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DR Sams
+    - 11.4:
+        non_striker: S Konstas
+        bowler: C Connolly
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DR Sams
+    - 11.5:
+        non_striker: S Konstas
+        bowler: C Connolly
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DR Sams
+    - 11.6:
+        non_striker: S Konstas
+        bowler: C Connolly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DR Sams
+    - 12.1:
+        non_striker: S Konstas
+        bowler: JS Paris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DR Sams
+    - 12.2:
+        non_striker: S Konstas
+        bowler: JS Paris
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: DR Sams
+    - 12.3:
+        non_striker: S Konstas
+        bowler: JS Paris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DR Sams
+        wicket:
+          player_out: DR Sams
+          fielders:
+          - JP Inglis
+          kind: caught
+    - 12.4:
+        non_striker: S Konstas
+        bowler: JS Paris
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Shadab Khan
+    - 12.5:
+        non_striker: S Konstas
+        bowler: JS Paris
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Shadab Khan
+    - 12.6:
+        non_striker: S Konstas
+        bowler: JS Paris
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Shadab Khan
+    - 12.7:
+        non_striker: S Konstas
+        bowler: JS Paris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shadab Khan
+    - 12.8:
+        non_striker: S Konstas
+        bowler: JS Paris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shadab Khan
+        wicket:
+          player_out: Shadab Khan
+          fielders:
+          - LJ Evans
+          kind: caught
+    - 13.1:
+        non_striker: CJ Green
+        bowler: M Beardman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Konstas
+    - 13.2:
+        non_striker: S Konstas
+        bowler: M Beardman
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CJ Green
+    - 13.3:
+        non_striker: S Konstas
+        bowler: M Beardman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CJ Green
+    - 13.4:
+        non_striker: S Konstas
+        bowler: M Beardman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CJ Green
+    - 13.5:
+        non_striker: S Konstas
+        bowler: M Beardman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CJ Green
+    - 13.6:
+        non_striker: S Konstas
+        bowler: M Beardman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CJ Green
+    - 14.1:
+        non_striker: CJ Green
+        bowler: AM Hardie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Konstas
+    - 14.2:
+        non_striker: S Konstas
+        bowler: AM Hardie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CJ Green
+    - 14.3:
+        non_striker: CJ Green
+        bowler: AM Hardie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Konstas
+        wicket:
+          player_out: S Konstas
+          fielders:
+          - M Beardman
+          kind: caught
+    - 14.4:
+        non_striker: CJ Green
+        bowler: AM Hardie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N McAndrew
+    - 14.5:
+        non_striker: N McAndrew
+        bowler: AM Hardie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CJ Green
+        wicket:
+          player_out: CJ Green
+          fielders:
+          - FH Allen
+          kind: caught
+    - 14.6:
+        non_striker: N McAndrew
+        bowler: AM Hardie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Sangha
+    - 15.1:
+        non_striker: T Sangha
+        bowler: BL Couch
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: N McAndrew
+    - 15.2:
+        non_striker: T Sangha
+        bowler: BL Couch
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: N McAndrew
+    - 15.3:
+        non_striker: T Sangha
+        bowler: BL Couch
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: N McAndrew
+    - 15.4:
+        non_striker: T Sangha
+        bowler: BL Couch
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: N McAndrew
+    - 15.5:
+        non_striker: T Sangha
+        bowler: BL Couch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N McAndrew
+        wicket:
+          player_out: N McAndrew
+          fielders:
+          - AC Agar
+          kind: caught
+    - 15.6:
+        non_striker: T Sangha
+        bowler: BL Couch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RJW Topley
+    - 15.7:
+        non_striker: T Sangha
+        bowler: BL Couch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RJW Topley
+    - 16.1:
+        non_striker: RJW Topley
+        bowler: AC Agar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: T Sangha
+    - 16.2:
+        non_striker: RJW Topley
+        bowler: AC Agar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Sangha
+    - 16.3:
+        non_striker: RJW Topley
+        bowler: AC Agar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Sangha
+    - 16.4:
+        non_striker: RJW Topley
+        bowler: AC Agar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Sangha
+    - 16.5:
+        non_striker: RJW Topley
+        bowler: AC Agar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Sangha
+    - 16.6:
+        non_striker: T Sangha
+        bowler: AC Agar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RJW Topley
+    - 17.1:
+        non_striker: T Sangha
+        bowler: BL Couch
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RJW Topley
+    - 17.2:
+        non_striker: T Sangha
+        bowler: BL Couch
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RJW Topley
+    - 17.3:
+        non_striker: T Sangha
+        bowler: BL Couch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RJW Topley
+        wicket:
+          player_out: RJW Topley
+          fielders:
+          - AJ Turner
+          kind: caught

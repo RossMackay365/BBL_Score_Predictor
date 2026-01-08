@@ -1,0 +1,1818 @@
+---
+meta:
+  data_version: 0.92
+  created: '2026-01-02'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Canberra
+  competition: Big Bash League
+  dates:
+  - '2025-12-28'
+  gender: male
+  match_type: T20
+  outcome:
+    winner: Melbourne Stars
+    by:
+      wickets: 9
+  overs: 20
+  player_of_match:
+  - Haris Rauf
+  players:
+    Sydney Thunder:
+    - S Konstas
+    - M Gilkes
+    - DA Warner
+    - CT Bancroft
+    - SW Billings
+    - Shadab Khan
+    - DR Sams
+    - CJ Green
+    - T Sangha
+    - RJW Topley
+    - R Hadley
+    Melbourne Stars:
+    - JM Clarke
+    - SB Harper
+    - GJ Maxwell
+    - C Kellaway
+    - TF Rogers
+    - MP Stoinis
+    - HWR Cartwright
+    - TK Curran
+    - MJ Swepson
+    - Haris Rauf
+    - PM Siddle
+  registry:
+    people:
+      C Kellaway: 60c28835
+      CA Polosak: 26a360d2
+      CJ Green: 19b9f399
+      CT Bancroft: 399b0b94
+      D Brigham: 464daf41
+      D Crozier: 635509c0
+      DA Warner: dcce6f09
+      DR Sams: caf69bf7
+      GJ Maxwell: b681e71e
+      HWR Cartwright: ab965cad
+      Haris Rauf: 24bb1c2f
+      JM Clarke: 2eca67f5
+      Kent Hannam: 8cc171e7
+      M Gilkes: d85b0f8b
+      MJ Swepson: 86b4bf88
+      MP Stoinis: d9273ee7
+      PM Siddle: bd93fea4
+      R Hadley: 15b39832
+      RJW Topley: 8db7f47f
+      S Konstas: 3c34c9e1
+      SB Harper: a756e61a
+      SW Billings: c16d4035
+      Shadab Khan: 9de62878
+      T Sangha: 52c952d9
+      TF Rogers: 7f232d46
+      TK Curran: e86754b2
+      Troy Penman: 0aa42c26
+  teams:
+  - Sydney Thunder
+  - Melbourne Stars
+  toss:
+    winner: Melbourne Stars
+    decision: field
+  umpires:
+  - D Brigham
+  - Troy Penman
+  venue: Manuka Oval, Canberra
+innings:
+- 1st innings:
+    team: Sydney Thunder
+    deliveries:
+    - 0.1:
+        non_striker: M Gilkes
+        bowler: GJ Maxwell
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Konstas
+    - 0.2:
+        non_striker: M Gilkes
+        bowler: GJ Maxwell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Konstas
+    - 0.3:
+        non_striker: S Konstas
+        bowler: GJ Maxwell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Gilkes
+    - 0.4:
+        non_striker: M Gilkes
+        bowler: GJ Maxwell
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Konstas
+    - 0.5:
+        non_striker: M Gilkes
+        bowler: GJ Maxwell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Konstas
+    - 0.6:
+        non_striker: S Konstas
+        bowler: GJ Maxwell
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: M Gilkes
+    - 0.7:
+        non_striker: S Konstas
+        bowler: GJ Maxwell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Gilkes
+    - 1.1:
+        non_striker: M Gilkes
+        bowler: TK Curran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Konstas
+    - 1.2:
+        non_striker: S Konstas
+        bowler: TK Curran
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: M Gilkes
+    - 1.3:
+        non_striker: S Konstas
+        bowler: TK Curran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Gilkes
+    - 1.4:
+        non_striker: M Gilkes
+        bowler: TK Curran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Konstas
+    - 1.5:
+        non_striker: S Konstas
+        bowler: TK Curran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Gilkes
+    - 1.6:
+        non_striker: S Konstas
+        bowler: TK Curran
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Gilkes
+    - 2.1:
+        non_striker: M Gilkes
+        bowler: PM Siddle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Konstas
+    - 2.2:
+        non_striker: M Gilkes
+        bowler: PM Siddle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Konstas
+    - 2.3:
+        non_striker: M Gilkes
+        bowler: PM Siddle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Konstas
+    - 2.4:
+        non_striker: M Gilkes
+        bowler: PM Siddle
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Konstas
+    - 2.5:
+        non_striker: S Konstas
+        bowler: PM Siddle
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Gilkes
+    - 2.6:
+        non_striker: S Konstas
+        bowler: PM Siddle
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Gilkes
+    - 3.1:
+        non_striker: S Konstas
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Gilkes
+    - 3.2:
+        non_striker: S Konstas
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Gilkes
+    - 3.3:
+        non_striker: M Gilkes
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Konstas
+    - 3.4:
+        non_striker: S Konstas
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Gilkes
+    - 3.5:
+        non_striker: S Konstas
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Gilkes
+        wicket:
+          player_out: M Gilkes
+          fielders:
+          - MP Stoinis
+          kind: caught
+    - 3.6:
+        non_striker: S Konstas
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Warner
+    - 4.1:
+        non_striker: DA Warner
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Konstas
+    - 4.2:
+        non_striker: S Konstas
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Warner
+    - 4.3:
+        non_striker: DA Warner
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Konstas
+    - 4.4:
+        non_striker: DA Warner
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Konstas
+    - 4.5:
+        non_striker: S Konstas
+        bowler: MP Stoinis
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: DA Warner
+    - 4.6:
+        non_striker: S Konstas
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Warner
+    - 4.7:
+        non_striker: DA Warner
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Konstas
+    - 5.1:
+        non_striker: DA Warner
+        bowler: MJ Swepson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Konstas
+        wicket:
+          player_out: S Konstas
+          kind: bowled
+    - 5.2:
+        non_striker: DA Warner
+        bowler: MJ Swepson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CT Bancroft
+    - 5.3:
+        non_striker: CT Bancroft
+        bowler: MJ Swepson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Warner
+    - 5.4:
+        non_striker: CT Bancroft
+        bowler: MJ Swepson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Warner
+    - 5.5:
+        non_striker: DA Warner
+        bowler: MJ Swepson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CT Bancroft
+    - 5.6:
+        non_striker: DA Warner
+        bowler: MJ Swepson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CT Bancroft
+    - 6.1:
+        non_striker: DA Warner
+        bowler: TK Curran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CT Bancroft
+    - 6.2:
+        non_striker: DA Warner
+        bowler: TK Curran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CT Bancroft
+    - 6.3:
+        non_striker: DA Warner
+        bowler: TK Curran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CT Bancroft
+    - 6.4:
+        non_striker: DA Warner
+        bowler: TK Curran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CT Bancroft
+    - 6.5:
+        non_striker: CT Bancroft
+        bowler: TK Curran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Warner
+    - 6.6:
+        non_striker: CT Bancroft
+        bowler: TK Curran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Warner
+    - 7.1:
+        non_striker: DA Warner
+        bowler: MJ Swepson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CT Bancroft
+    - 7.2:
+        non_striker: DA Warner
+        bowler: MJ Swepson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CT Bancroft
+    - 7.3:
+        non_striker: DA Warner
+        bowler: MJ Swepson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CT Bancroft
+    - 7.4:
+        non_striker: CT Bancroft
+        bowler: MJ Swepson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Warner
+    - 7.5:
+        non_striker: CT Bancroft
+        bowler: MJ Swepson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Warner
+    - 7.6:
+        non_striker: CT Bancroft
+        bowler: MJ Swepson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Warner
+    - 8.1:
+        non_striker: CT Bancroft
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: DA Warner
+    - 8.2:
+        non_striker: CT Bancroft
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Warner
+        wicket:
+          player_out: DA Warner
+          fielders:
+          - C Kellaway
+          kind: caught
+    - 8.3:
+        non_striker: CT Bancroft
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Billings
+    - 8.4:
+        non_striker: CT Bancroft
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Billings
+    - 8.5:
+        non_striker: CT Bancroft
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Billings
+    - 8.6:
+        non_striker: CT Bancroft
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SW Billings
+    - 9.1:
+        non_striker: SW Billings
+        bowler: MJ Swepson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CT Bancroft
+    - 9.2:
+        non_striker: CT Bancroft
+        bowler: MJ Swepson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Billings
+    - 9.3:
+        non_striker: SW Billings
+        bowler: MJ Swepson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CT Bancroft
+    - 9.4:
+        non_striker: CT Bancroft
+        bowler: MJ Swepson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Billings
+    - 9.5:
+        non_striker: SW Billings
+        bowler: MJ Swepson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CT Bancroft
+        wicket:
+          player_out: CT Bancroft
+          kind: lbw
+    - 9.6:
+        non_striker: SW Billings
+        bowler: MJ Swepson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shadab Khan
+    - 10.1:
+        non_striker: SW Billings
+        bowler: TK Curran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shadab Khan
+    - 10.2:
+        non_striker: SW Billings
+        bowler: TK Curran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shadab Khan
+    - 10.3:
+        non_striker: SW Billings
+        bowler: TK Curran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shadab Khan
+    - 10.4:
+        non_striker: Shadab Khan
+        bowler: TK Curran
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SW Billings
+    - 10.5:
+        non_striker: Shadab Khan
+        bowler: TK Curran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Billings
+    - 10.6:
+        non_striker: SW Billings
+        bowler: TK Curran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shadab Khan
+    - 11.1:
+        non_striker: SW Billings
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Shadab Khan
+    - 11.2:
+        non_striker: SW Billings
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shadab Khan
+    - 11.3:
+        non_striker: Shadab Khan
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SW Billings
+    - 11.4:
+        non_striker: Shadab Khan
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SW Billings
+    - 11.5:
+        non_striker: Shadab Khan
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Billings
+    - 11.6:
+        non_striker: Shadab Khan
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Billings
+    - 12.1:
+        non_striker: SW Billings
+        bowler: PM Siddle
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shadab Khan
+    - 12.2:
+        non_striker: Shadab Khan
+        bowler: PM Siddle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Billings
+    - 12.3:
+        non_striker: Shadab Khan
+        bowler: PM Siddle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Billings
+    - 12.4:
+        non_striker: Shadab Khan
+        bowler: PM Siddle
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Billings
+    - 12.5:
+        non_striker: SW Billings
+        bowler: PM Siddle
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shadab Khan
+    - 12.6:
+        non_striker: Shadab Khan
+        bowler: PM Siddle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Billings
+    - 13.1:
+        non_striker: SW Billings
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shadab Khan
+    - 13.2:
+        non_striker: Shadab Khan
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SW Billings
+    - 13.3:
+        non_striker: Shadab Khan
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Billings
+    - 13.4:
+        non_striker: SW Billings
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shadab Khan
+    - 13.5:
+        non_striker: SW Billings
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shadab Khan
+    - 13.6:
+        non_striker: Shadab Khan
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Billings
+        wicket:
+          player_out: SW Billings
+          fielders:
+          - GJ Maxwell
+          kind: caught
+    - 14.1:
+        non_striker: DR Sams
+        bowler: PM Siddle
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shadab Khan
+    - 14.2:
+        non_striker: DR Sams
+        bowler: PM Siddle
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shadab Khan
+    - 14.3:
+        non_striker: Shadab Khan
+        bowler: PM Siddle
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DR Sams
+    - 14.4:
+        non_striker: DR Sams
+        bowler: PM Siddle
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Shadab Khan
+    - 14.5:
+        non_striker: DR Sams
+        bowler: PM Siddle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shadab Khan
+    - 14.6:
+        non_striker: DR Sams
+        bowler: PM Siddle
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shadab Khan
+    - 15.1:
+        non_striker: DR Sams
+        bowler: MP Stoinis
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Shadab Khan
+    - 15.2:
+        non_striker: DR Sams
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shadab Khan
+    - 15.3:
+        non_striker: Shadab Khan
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DR Sams
+    - 15.4:
+        non_striker: Shadab Khan
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DR Sams
+        wicket:
+          player_out: DR Sams
+          kind: bowled
+    - 15.5:
+        non_striker: Shadab Khan
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CJ Green
+    - 15.6:
+        non_striker: CJ Green
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shadab Khan
+    - 15.7:
+        non_striker: CJ Green
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shadab Khan
+    - 16.1:
+        non_striker: Shadab Khan
+        bowler: MJ Swepson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CJ Green
+    - 16.2:
+        non_striker: CJ Green
+        bowler: MJ Swepson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shadab Khan
+    - 16.3:
+        non_striker: Shadab Khan
+        bowler: MJ Swepson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CJ Green
+    - 16.4:
+        non_striker: Shadab Khan
+        bowler: MJ Swepson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CJ Green
+    - 16.5:
+        non_striker: CJ Green
+        bowler: MJ Swepson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shadab Khan
+    - 16.6:
+        non_striker: Shadab Khan
+        bowler: MJ Swepson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CJ Green
+    - 17.1:
+        non_striker: CJ Green
+        bowler: PM Siddle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shadab Khan
+    - 17.2:
+        non_striker: CJ Green
+        bowler: PM Siddle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shadab Khan
+        wicket:
+          player_out: Shadab Khan
+          fielders:
+          - HWR Cartwright
+          kind: caught
+    - 17.3:
+        non_striker: CJ Green
+        bowler: PM Siddle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Sangha
+    - 17.4:
+        non_striker: CJ Green
+        bowler: PM Siddle
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Sangha
+    - 17.5:
+        non_striker: T Sangha
+        bowler: PM Siddle
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CJ Green
+    - 17.6:
+        non_striker: T Sangha
+        bowler: PM Siddle
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CJ Green
+    - 18.1:
+        non_striker: T Sangha
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CJ Green
+    - 18.2:
+        non_striker: T Sangha
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CJ Green
+    - 18.3:
+        non_striker: T Sangha
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CJ Green
+    - 18.4:
+        non_striker: T Sangha
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CJ Green
+        wicket:
+          player_out: CJ Green
+          fielders:
+          - TF Rogers
+          kind: caught
+    - 18.5:
+        non_striker: T Sangha
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RJW Topley
+    - 18.6:
+        non_striker: T Sangha
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RJW Topley
+    - 19.1:
+        non_striker: T Sangha
+        bowler: TK Curran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RJW Topley
+    - 19.2:
+        non_striker: RJW Topley
+        bowler: TK Curran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Sangha
+        wicket:
+          player_out: T Sangha
+          fielders:
+          - TF Rogers
+          kind: caught
+    - 19.3:
+        non_striker: RJW Topley
+        bowler: TK Curran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Hadley
+    - 19.4:
+        non_striker: R Hadley
+        bowler: TK Curran
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RJW Topley
+    - 19.5:
+        non_striker: R Hadley
+        bowler: TK Curran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RJW Topley
+    - 19.6:
+        non_striker: RJW Topley
+        bowler: TK Curran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Hadley
+        wicket:
+          player_out: R Hadley
+          fielders:
+          - SB Harper
+          kind: caught
+- 2nd innings:
+    team: Melbourne Stars
+    deliveries:
+    - 0.1:
+        non_striker: SB Harper
+        bowler: R Hadley
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JM Clarke
+    - 0.2:
+        non_striker: SB Harper
+        bowler: R Hadley
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JM Clarke
+    - 0.3:
+        non_striker: SB Harper
+        bowler: R Hadley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Clarke
+    - 0.4:
+        non_striker: JM Clarke
+        bowler: R Hadley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SB Harper
+    - 0.5:
+        non_striker: SB Harper
+        bowler: R Hadley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Clarke
+    - 0.6:
+        non_striker: SB Harper
+        bowler: R Hadley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Clarke
+    - 1.1:
+        non_striker: SB Harper
+        bowler: RJW Topley
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JM Clarke
+    - 1.2:
+        non_striker: SB Harper
+        bowler: RJW Topley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Clarke
+    - 1.3:
+        non_striker: SB Harper
+        bowler: RJW Topley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Clarke
+    - 1.4:
+        non_striker: SB Harper
+        bowler: RJW Topley
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JM Clarke
+    - 1.5:
+        non_striker: SB Harper
+        bowler: RJW Topley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Clarke
+    - 1.6:
+        non_striker: SB Harper
+        bowler: RJW Topley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Clarke
+    - 2.1:
+        non_striker: SB Harper
+        bowler: R Hadley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Clarke
+    - 2.2:
+        non_striker: JM Clarke
+        bowler: R Hadley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SB Harper
+    - 2.3:
+        non_striker: SB Harper
+        bowler: R Hadley
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JM Clarke
+    - 2.4:
+        non_striker: SB Harper
+        bowler: R Hadley
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JM Clarke
+    - 2.5:
+        non_striker: SB Harper
+        bowler: R Hadley
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: JM Clarke
+    - 2.6:
+        non_striker: JM Clarke
+        bowler: R Hadley
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SB Harper
+    - 2.7:
+        non_striker: JM Clarke
+        bowler: R Hadley
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SB Harper
+    - 3.1:
+        non_striker: SB Harper
+        bowler: DR Sams
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JM Clarke
+    - 3.2:
+        non_striker: SB Harper
+        bowler: DR Sams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Clarke
+    - 3.3:
+        non_striker: JM Clarke
+        bowler: DR Sams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SB Harper
+    - 3.4:
+        non_striker: SB Harper
+        bowler: DR Sams
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JM Clarke
+    - 3.5:
+        non_striker: SB Harper
+        bowler: DR Sams
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JM Clarke
+    - 3.6:
+        non_striker: SB Harper
+        bowler: DR Sams
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JM Clarke
+    - 4.1:
+        non_striker: JM Clarke
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SB Harper
+    - 4.2:
+        non_striker: JM Clarke
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SB Harper
+    - 4.3:
+        non_striker: SB Harper
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Clarke
+    - 4.4:
+        non_striker: SB Harper
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Clarke
+    - 4.5:
+        non_striker: SB Harper
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JM Clarke
+    - 4.6:
+        non_striker: SB Harper
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Clarke
+    - 5.1:
+        non_striker: SB Harper
+        bowler: CJ Green
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Clarke
+    - 5.2:
+        non_striker: JM Clarke
+        bowler: CJ Green
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SB Harper
+    - 5.3:
+        non_striker: SB Harper
+        bowler: CJ Green
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Clarke
+    - 5.4:
+        non_striker: SB Harper
+        bowler: CJ Green
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Clarke
+    - 5.5:
+        non_striker: JM Clarke
+        bowler: CJ Green
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SB Harper
+    - 5.6:
+        non_striker: SB Harper
+        bowler: CJ Green
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Clarke
+    - 6.1:
+        non_striker: SB Harper
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Clarke
+    - 6.2:
+        non_striker: JM Clarke
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SB Harper
+    - 6.3:
+        non_striker: JM Clarke
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SB Harper
+    - 6.4:
+        non_striker: JM Clarke
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SB Harper
+    - 6.5:
+        non_striker: SB Harper
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Clarke
+    - 6.6:
+        non_striker: SB Harper
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JM Clarke
+    - 7.1:
+        non_striker: JM Clarke
+        bowler: T Sangha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SB Harper
+    - 7.2:
+        non_striker: SB Harper
+        bowler: T Sangha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Clarke
+    - 7.3:
+        non_striker: JM Clarke
+        bowler: T Sangha
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: SB Harper
+    - 7.4:
+        non_striker: SB Harper
+        bowler: T Sangha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Clarke
+    - 7.5:
+        non_striker: JM Clarke
+        bowler: T Sangha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SB Harper
+    - 7.6:
+        non_striker: SB Harper
+        bowler: T Sangha
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JM Clarke
+    - 8.1:
+        non_striker: JM Clarke
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SB Harper
+    - 8.2:
+        non_striker: JM Clarke
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SB Harper
+    - 8.3:
+        non_striker: JM Clarke
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SB Harper
+    - 8.4:
+        non_striker: JM Clarke
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SB Harper
+    - 8.5:
+        non_striker: JM Clarke
+        bowler: Shadab Khan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: SB Harper
+    - 8.6:
+        non_striker: SB Harper
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Clarke
+    - 9.1:
+        non_striker: SB Harper
+        bowler: CJ Green
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Clarke
+    - 9.2:
+        non_striker: JM Clarke
+        bowler: CJ Green
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SB Harper
+    - 9.3:
+        non_striker: JM Clarke
+        bowler: CJ Green
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SB Harper
+    - 9.4:
+        non_striker: SB Harper
+        bowler: CJ Green
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Clarke
+        wicket:
+          player_out: JM Clarke
+          fielders:
+          - M Gilkes
+          kind: caught
+    - 9.5:
+        non_striker: SB Harper
+        bowler: CJ Green
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GJ Maxwell
+    - 9.6:
+        non_striker: SB Harper
+        bowler: CJ Green
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GJ Maxwell
+    - 10.1:
+        non_striker: SB Harper
+        bowler: DR Sams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GJ Maxwell
+    - 10.2:
+        non_striker: GJ Maxwell
+        bowler: DR Sams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SB Harper
+    - 10.3:
+        non_striker: SB Harper
+        bowler: DR Sams
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: GJ Maxwell
+    - 10.4:
+        non_striker: SB Harper
+        bowler: DR Sams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GJ Maxwell
+    - 10.5:
+        non_striker: GJ Maxwell
+        bowler: DR Sams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SB Harper
+    - 10.6:
+        non_striker: SB Harper
+        bowler: DR Sams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GJ Maxwell
+    - 11.1:
+        non_striker: SB Harper
+        bowler: R Hadley
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GJ Maxwell
+    - 11.2:
+        non_striker: SB Harper
+        bowler: R Hadley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GJ Maxwell
+    - 11.3:
+        non_striker: SB Harper
+        bowler: R Hadley
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: GJ Maxwell
+    - 11.4:
+        non_striker: GJ Maxwell
+        bowler: R Hadley
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SB Harper
+    - 11.5:
+        non_striker: GJ Maxwell
+        bowler: R Hadley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SB Harper
+    - 11.6:
+        non_striker: SB Harper
+        bowler: R Hadley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GJ Maxwell
+    - 12.1:
+        non_striker: SB Harper
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GJ Maxwell
+    - 12.2:
+        non_striker: SB Harper
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GJ Maxwell
+    - 12.3:
+        non_striker: SB Harper
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GJ Maxwell
+    - 12.4:
+        non_striker: SB Harper
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GJ Maxwell
+    - 12.5:
+        non_striker: SB Harper
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GJ Maxwell
+    - 12.6:
+        non_striker: GJ Maxwell
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SB Harper
+    - 13.1:
+        non_striker: SB Harper
+        bowler: T Sangha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GJ Maxwell
+    - 13.2:
+        non_striker: GJ Maxwell
+        bowler: T Sangha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SB Harper
+    - 13.3:
+        non_striker: SB Harper
+        bowler: T Sangha
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GJ Maxwell
+    - 13.4:
+        non_striker: SB Harper
+        bowler: T Sangha
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GJ Maxwell
+    - 13.5:
+        non_striker: SB Harper
+        bowler: T Sangha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GJ Maxwell
+    - 13.6:
+        non_striker: SB Harper
+        bowler: T Sangha
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: GJ Maxwell

@@ -1,0 +1,2078 @@
+---
+meta:
+  data_version: 0.92
+  created: '2026-01-05'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Coffs Harbour
+  competition: Big Bash League
+  dates:
+  - '2026-01-05'
+  gender: male
+  match_type: T20
+  outcome:
+    winner: Sydney Sixers
+    by:
+      wickets: 3
+  overs: 20
+  player_of_match:
+  - JA Davies
+  players:
+    Brisbane Heat:
+    - JD Wildermuth
+    - LD Hearne
+    - NA McSweeney
+    - MT Renshaw
+    - M Bryant
+    - HD Weibgen
+    - JJ Peirson
+    - XC Bartlett
+    - MP Kuhnemann
+    - O Patterson
+    - Thomas Balkin
+    Sydney Sixers:
+    - DP Hughes
+    - Babar Azam
+    - JR Philippe
+    - MC Henriques
+    - JC Silk
+    - J Edwards
+    - JA Davies
+    - BAD Manenti
+    - H Kerr
+    - BJ Dwarshuis
+    - SA Abbott
+  registry:
+    people:
+      BAD Manenti: ab21795b
+      BJ Dwarshuis: e1b9f3a9
+      Babar Azam: 8a75e999
+      CA Polosak: 26a360d2
+      DP Hughes: f3982af9
+      H Kerr: f422728b
+      HD Weibgen: 2535b30f
+      J Edwards: f787e0eb
+      JA Davies: 5cdf8304
+      JC Silk: 7a6dc294
+      JD Wildermuth: f1c61793
+      JJ Peirson: 2b55c3b4
+      JR Philippe: '39086549'
+      Kepler Wessels: 3bedaff0
+      LD Hearne: 7f2163a0
+      M Bryant: f32012f4
+      MC Henriques: 32198ae0
+      ME Claydon: 15101f12
+      MP Kuhnemann: 7b953689
+      MT Renshaw: 218d4d78
+      MW Graham-Smith: 18aca3ce
+      NA McSweeney: e94d2d50
+      O Patterson: '069a5170'
+      SA Abbott: 1a2676c5
+      Sharad Patel: 8e6dd3ba
+      Thomas Balkin: 61c4f340
+      XC Bartlett: 3b53243a
+  teams:
+  - Brisbane Heat
+  - Sydney Sixers
+  toss:
+    winner: Sydney Sixers
+    decision: field
+  umpires:
+  - MW Graham-Smith
+  - Sharad Patel
+  venue: International Sports Stadium, Coffs Harbour
+innings:
+- 1st innings:
+    team: Brisbane Heat
+    deliveries:
+    - 0.1:
+        non_striker: LD Hearne
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JD Wildermuth
+    - 0.2:
+        non_striker: LD Hearne
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JD Wildermuth
+    - 0.3:
+        non_striker: LD Hearne
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JD Wildermuth
+    - 0.4:
+        non_striker: LD Hearne
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JD Wildermuth
+    - 0.5:
+        non_striker: JD Wildermuth
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LD Hearne
+    - 0.6:
+        non_striker: JD Wildermuth
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LD Hearne
+    - 1.1:
+        non_striker: LD Hearne
+        bowler: SA Abbott
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JD Wildermuth
+    - 1.2:
+        non_striker: JD Wildermuth
+        bowler: SA Abbott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LD Hearne
+    - 1.3:
+        non_striker: JD Wildermuth
+        bowler: SA Abbott
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LD Hearne
+    - 1.4:
+        non_striker: LD Hearne
+        bowler: SA Abbott
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JD Wildermuth
+    - 1.5:
+        non_striker: LD Hearne
+        bowler: SA Abbott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JD Wildermuth
+    - 1.6:
+        non_striker: LD Hearne
+        bowler: SA Abbott
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JD Wildermuth
+    - 2.1:
+        non_striker: LD Hearne
+        bowler: J Edwards
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JD Wildermuth
+    - 2.2:
+        non_striker: LD Hearne
+        bowler: J Edwards
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JD Wildermuth
+    - 2.3:
+        non_striker: LD Hearne
+        bowler: J Edwards
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JD Wildermuth
+    - 2.4:
+        non_striker: LD Hearne
+        bowler: J Edwards
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JD Wildermuth
+    - 2.5:
+        non_striker: LD Hearne
+        bowler: J Edwards
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JD Wildermuth
+    - 2.6:
+        non_striker: JD Wildermuth
+        bowler: J Edwards
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LD Hearne
+        wicket:
+          player_out: LD Hearne
+          kind: lbw
+    - 3.1:
+        non_striker: NA McSweeney
+        bowler: SA Abbott
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JD Wildermuth
+    - 3.2:
+        non_striker: NA McSweeney
+        bowler: SA Abbott
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JD Wildermuth
+    - 3.3:
+        non_striker: JD Wildermuth
+        bowler: SA Abbott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NA McSweeney
+    - 3.4:
+        non_striker: JD Wildermuth
+        bowler: SA Abbott
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NA McSweeney
+    - 3.5:
+        non_striker: NA McSweeney
+        bowler: SA Abbott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JD Wildermuth
+    - 3.6:
+        non_striker: NA McSweeney
+        bowler: SA Abbott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JD Wildermuth
+        wicket:
+          player_out: JD Wildermuth
+          kind: bowled
+    - 4.1:
+        non_striker: MT Renshaw
+        bowler: BAD Manenti
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NA McSweeney
+    - 4.2:
+        non_striker: NA McSweeney
+        bowler: BAD Manenti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MT Renshaw
+    - 4.3:
+        non_striker: NA McSweeney
+        bowler: BAD Manenti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MT Renshaw
+    - 4.4:
+        non_striker: NA McSweeney
+        bowler: BAD Manenti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MT Renshaw
+    - 4.5:
+        non_striker: NA McSweeney
+        bowler: BAD Manenti
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MT Renshaw
+    - 4.6:
+        non_striker: MT Renshaw
+        bowler: BAD Manenti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NA McSweeney
+    - 5.1:
+        non_striker: NA McSweeney
+        bowler: H Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MT Renshaw
+    - 5.2:
+        non_striker: MT Renshaw
+        bowler: H Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NA McSweeney
+    - 5.3:
+        non_striker: MT Renshaw
+        bowler: H Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NA McSweeney
+    - 5.4:
+        non_striker: NA McSweeney
+        bowler: H Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MT Renshaw
+    - 5.5:
+        non_striker: NA McSweeney
+        bowler: H Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MT Renshaw
+        wicket:
+          player_out: MT Renshaw
+          fielders:
+          - JC Silk
+          kind: caught
+    - 5.6:
+        non_striker: NA McSweeney
+        bowler: H Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Bryant
+    - 6.1:
+        non_striker: M Bryant
+        bowler: JA Davies
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NA McSweeney
+    - 6.2:
+        non_striker: NA McSweeney
+        bowler: JA Davies
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Bryant
+    - 6.3:
+        non_striker: M Bryant
+        bowler: JA Davies
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NA McSweeney
+    - 6.4:
+        non_striker: NA McSweeney
+        bowler: JA Davies
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Bryant
+    - 6.5:
+        non_striker: M Bryant
+        bowler: JA Davies
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NA McSweeney
+    - 6.6:
+        non_striker: NA McSweeney
+        bowler: JA Davies
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Bryant
+    - 7.1:
+        non_striker: NA McSweeney
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Bryant
+        wicket:
+          player_out: M Bryant
+          fielders:
+          - DP Hughes
+          kind: caught
+    - 7.2:
+        non_striker: NA McSweeney
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HD Weibgen
+    - 7.3:
+        non_striker: HD Weibgen
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NA McSweeney
+    - 7.4:
+        non_striker: NA McSweeney
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HD Weibgen
+    - 7.5:
+        non_striker: HD Weibgen
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NA McSweeney
+    - 7.6:
+        non_striker: HD Weibgen
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NA McSweeney
+        wicket:
+          player_out: NA McSweeney
+          fielders:
+          - JR Philippe
+          kind: caught
+    - 8.1:
+        non_striker: JJ Peirson
+        bowler: JA Davies
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HD Weibgen
+    - 8.2:
+        non_striker: HD Weibgen
+        bowler: JA Davies
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Peirson
+    - 8.3:
+        non_striker: JJ Peirson
+        bowler: JA Davies
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HD Weibgen
+    - 8.4:
+        non_striker: HD Weibgen
+        bowler: JA Davies
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Peirson
+    - 8.5:
+        non_striker: JJ Peirson
+        bowler: JA Davies
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HD Weibgen
+    - 8.6:
+        non_striker: HD Weibgen
+        bowler: JA Davies
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Peirson
+    - 9.1:
+        non_striker: HD Weibgen
+        bowler: H Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Peirson
+    - 9.2:
+        non_striker: JJ Peirson
+        bowler: H Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HD Weibgen
+    - 9.3:
+        non_striker: JJ Peirson
+        bowler: H Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HD Weibgen
+    - 9.4:
+        non_striker: JJ Peirson
+        bowler: H Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HD Weibgen
+    - 9.5:
+        non_striker: HD Weibgen
+        bowler: H Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Peirson
+    - 9.6:
+        non_striker: HD Weibgen
+        bowler: H Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Peirson
+    - 10.1:
+        non_striker: JJ Peirson
+        bowler: J Edwards
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HD Weibgen
+    - 10.2:
+        non_striker: JJ Peirson
+        bowler: J Edwards
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HD Weibgen
+    - 10.3:
+        non_striker: HD Weibgen
+        bowler: J Edwards
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Peirson
+    - 10.4:
+        non_striker: JJ Peirson
+        bowler: J Edwards
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: HD Weibgen
+    - 10.5:
+        non_striker: JJ Peirson
+        bowler: J Edwards
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HD Weibgen
+    - 10.6:
+        non_striker: JJ Peirson
+        bowler: J Edwards
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HD Weibgen
+    - 11.1:
+        non_striker: HD Weibgen
+        bowler: SA Abbott
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Peirson
+    - 11.2:
+        non_striker: JJ Peirson
+        bowler: SA Abbott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HD Weibgen
+    - 11.3:
+        non_striker: JJ Peirson
+        bowler: SA Abbott
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HD Weibgen
+    - 11.4:
+        non_striker: HD Weibgen
+        bowler: SA Abbott
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JJ Peirson
+    - 11.5:
+        non_striker: HD Weibgen
+        bowler: SA Abbott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Peirson
+        wicket:
+          player_out: JJ Peirson
+          kind: lbw
+    - 11.6:
+        non_striker: HD Weibgen
+        bowler: SA Abbott
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: XC Bartlett
+    - 12.1:
+        non_striker: HD Weibgen
+        bowler: JA Davies
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: XC Bartlett
+    - 12.2:
+        non_striker: HD Weibgen
+        bowler: JA Davies
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: XC Bartlett
+    - 12.3:
+        non_striker: HD Weibgen
+        bowler: JA Davies
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: XC Bartlett
+        wicket:
+          player_out: XC Bartlett
+          kind: caught and bowled
+    - 12.4:
+        non_striker: HD Weibgen
+        bowler: JA Davies
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MP Kuhnemann
+    - 12.5:
+        non_striker: HD Weibgen
+        bowler: JA Davies
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Kuhnemann
+        wicket:
+          player_out: MP Kuhnemann
+          kind: bowled
+    - 12.6:
+        non_striker: HD Weibgen
+        bowler: JA Davies
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Patterson
+    - 12.7:
+        non_striker: HD Weibgen
+        bowler: JA Davies
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: O Patterson
+    - 13.1:
+        non_striker: HD Weibgen
+        bowler: J Edwards
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Patterson
+    - 13.2:
+        non_striker: HD Weibgen
+        bowler: J Edwards
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Patterson
+    - 13.3:
+        non_striker: HD Weibgen
+        bowler: J Edwards
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: O Patterson
+    - 13.4:
+        non_striker: O Patterson
+        bowler: J Edwards
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HD Weibgen
+    - 13.5:
+        non_striker: O Patterson
+        bowler: J Edwards
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HD Weibgen
+    - 13.6:
+        non_striker: O Patterson
+        bowler: J Edwards
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HD Weibgen
+    - 14.1:
+        non_striker: O Patterson
+        bowler: JA Davies
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HD Weibgen
+    - 14.2:
+        non_striker: HD Weibgen
+        bowler: JA Davies
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Patterson
+    - 14.3:
+        non_striker: HD Weibgen
+        bowler: JA Davies
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: O Patterson
+    - 14.4:
+        non_striker: O Patterson
+        bowler: JA Davies
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HD Weibgen
+    - 14.5:
+        non_striker: HD Weibgen
+        bowler: JA Davies
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: O Patterson
+    - 14.6:
+        non_striker: O Patterson
+        bowler: JA Davies
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HD Weibgen
+    - 15.1:
+        non_striker: O Patterson
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HD Weibgen
+    - 15.2:
+        non_striker: O Patterson
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HD Weibgen
+    - 15.3:
+        non_striker: O Patterson
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HD Weibgen
+    - 15.4:
+        non_striker: HD Weibgen
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: O Patterson
+    - 15.5:
+        non_striker: HD Weibgen
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Patterson
+    - 15.6:
+        non_striker: HD Weibgen
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Patterson
+    - 16.1:
+        non_striker: O Patterson
+        bowler: SA Abbott
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: HD Weibgen
+        wicket:
+          player_out: HD Weibgen
+          fielders:
+          - JR Philippe
+          - BJ Dwarshuis
+          kind: run out
+    - 16.2:
+        non_striker: O Patterson
+        bowler: SA Abbott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Thomas Balkin
+    - 16.3:
+        non_striker: O Patterson
+        bowler: SA Abbott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Thomas Balkin
+    - 16.4:
+        non_striker: O Patterson
+        bowler: SA Abbott
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Thomas Balkin
+    - 16.5:
+        non_striker: Thomas Balkin
+        bowler: SA Abbott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Patterson
+    - 16.6:
+        non_striker: Thomas Balkin
+        bowler: SA Abbott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Patterson
+    - 16.7:
+        non_striker: Thomas Balkin
+        bowler: SA Abbott
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: O Patterson
+    - 17.1:
+        non_striker: O Patterson
+        bowler: J Edwards
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Thomas Balkin
+    - 17.2:
+        non_striker: O Patterson
+        bowler: J Edwards
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Thomas Balkin
+    - 17.3:
+        non_striker: O Patterson
+        bowler: J Edwards
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Thomas Balkin
+    - 17.4:
+        non_striker: Thomas Balkin
+        bowler: J Edwards
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: O Patterson
+    - 17.5:
+        non_striker: O Patterson
+        bowler: J Edwards
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Thomas Balkin
+    - 17.6:
+        non_striker: Thomas Balkin
+        bowler: J Edwards
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: O Patterson
+    - 18.1:
+        non_striker: Thomas Balkin
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: O Patterson
+    - 18.2:
+        non_striker: O Patterson
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Thomas Balkin
+    - 18.3:
+        non_striker: Thomas Balkin
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Patterson
+    - 18.4:
+        non_striker: Thomas Balkin
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: O Patterson
+    - 18.5:
+        non_striker: O Patterson
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Thomas Balkin
+    - 18.6:
+        non_striker: Thomas Balkin
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: O Patterson
+    - 18.7:
+        non_striker: Thomas Balkin
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: O Patterson
+    - 19.1:
+        non_striker: Thomas Balkin
+        bowler: H Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: O Patterson
+    - 19.2:
+        non_striker: O Patterson
+        bowler: H Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Thomas Balkin
+    - 19.3:
+        non_striker: Thomas Balkin
+        bowler: H Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: O Patterson
+    - 19.4:
+        non_striker: O Patterson
+        bowler: H Kerr
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Thomas Balkin
+    - 19.5:
+        non_striker: O Patterson
+        bowler: H Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Thomas Balkin
+    - 19.6:
+        non_striker: Thomas Balkin
+        bowler: H Kerr
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: O Patterson
+- 2nd innings:
+    team: Sydney Sixers
+    deliveries:
+    - 0.1:
+        non_striker: Babar Azam
+        bowler: MP Kuhnemann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Hughes
+    - 0.2:
+        non_striker: Babar Azam
+        bowler: MP Kuhnemann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Hughes
+    - 0.3:
+        non_striker: DP Hughes
+        bowler: MP Kuhnemann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Babar Azam
+    - 0.4:
+        non_striker: Babar Azam
+        bowler: MP Kuhnemann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Hughes
+    - 0.5:
+        non_striker: DP Hughes
+        bowler: MP Kuhnemann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Babar Azam
+    - 0.6:
+        non_striker: Babar Azam
+        bowler: MP Kuhnemann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Hughes
+    - 1.1:
+        non_striker: Babar Azam
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DP Hughes
+    - 1.2:
+        non_striker: Babar Azam
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Hughes
+    - 1.3:
+        non_striker: Babar Azam
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Hughes
+    - 1.4:
+        non_striker: DP Hughes
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Babar Azam
+    - 1.5:
+        non_striker: DP Hughes
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Babar Azam
+    - 1.6:
+        non_striker: DP Hughes
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Babar Azam
+    - 2.1:
+        non_striker: Babar Azam
+        bowler: O Patterson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Hughes
+    - 2.2:
+        non_striker: Babar Azam
+        bowler: O Patterson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DP Hughes
+    - 2.3:
+        non_striker: Babar Azam
+        bowler: O Patterson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Hughes
+    - 2.4:
+        non_striker: DP Hughes
+        bowler: O Patterson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Babar Azam
+    - 2.5:
+        non_striker: DP Hughes
+        bowler: O Patterson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Babar Azam
+        wicket:
+          player_out: Babar Azam
+          fielders:
+          - Thomas Balkin
+          kind: caught
+    - 2.6:
+        non_striker: DP Hughes
+        bowler: O Patterson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JR Philippe
+        wicket:
+          player_out: JR Philippe
+          fielders:
+          - JJ Peirson
+          kind: caught
+    - 3.1:
+        non_striker: MC Henriques
+        bowler: XC Bartlett
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: DP Hughes
+    - 3.2:
+        non_striker: MC Henriques
+        bowler: XC Bartlett
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: DP Hughes
+    - 3.3:
+        non_striker: DP Hughes
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MC Henriques
+    - 3.4:
+        non_striker: DP Hughes
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MC Henriques
+    - 3.5:
+        non_striker: DP Hughes
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MC Henriques
+    - 3.6:
+        non_striker: DP Hughes
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MC Henriques
+    - 3.7:
+        non_striker: DP Hughes
+        bowler: XC Bartlett
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: MC Henriques
+    - 4.1:
+        non_striker: DP Hughes
+        bowler: O Patterson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MC Henriques
+    - 4.2:
+        non_striker: MC Henriques
+        bowler: O Patterson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Hughes
+    - 4.3:
+        non_striker: DP Hughes
+        bowler: O Patterson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MC Henriques
+    - 4.4:
+        non_striker: MC Henriques
+        bowler: O Patterson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Hughes
+    - 4.5:
+        non_striker: DP Hughes
+        bowler: O Patterson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MC Henriques
+    - 4.6:
+        non_striker: MC Henriques
+        bowler: O Patterson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Hughes
+    - 5.1:
+        non_striker: DP Hughes
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MC Henriques
+    - 5.2:
+        non_striker: DP Hughes
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MC Henriques
+    - 5.3:
+        non_striker: DP Hughes
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MC Henriques
+    - 5.4:
+        non_striker: DP Hughes
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MC Henriques
+    - 5.5:
+        non_striker: MC Henriques
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Hughes
+        wicket:
+          player_out: DP Hughes
+          fielders:
+          - HD Weibgen
+          kind: caught
+    - 5.6:
+        non_striker: MC Henriques
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JC Silk
+    - 6.1:
+        non_striker: JC Silk
+        bowler: MP Kuhnemann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MC Henriques
+    - 6.2:
+        non_striker: MC Henriques
+        bowler: MP Kuhnemann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JC Silk
+    - 6.3:
+        non_striker: JC Silk
+        bowler: MP Kuhnemann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MC Henriques
+    - 6.4:
+        non_striker: JC Silk
+        bowler: MP Kuhnemann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MC Henriques
+    - 6.5:
+        non_striker: MC Henriques
+        bowler: MP Kuhnemann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JC Silk
+    - 6.6:
+        non_striker: MC Henriques
+        bowler: MP Kuhnemann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JC Silk
+    - 7.1:
+        non_striker: JC Silk
+        bowler: Thomas Balkin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MC Henriques
+    - 7.2:
+        non_striker: MC Henriques
+        bowler: Thomas Balkin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JC Silk
+    - 7.3:
+        non_striker: JC Silk
+        bowler: Thomas Balkin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MC Henriques
+    - 7.4:
+        non_striker: MC Henriques
+        bowler: Thomas Balkin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JC Silk
+    - 7.5:
+        non_striker: JC Silk
+        bowler: Thomas Balkin
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MC Henriques
+    - 7.6:
+        non_striker: JC Silk
+        bowler: Thomas Balkin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MC Henriques
+    - 8.1:
+        non_striker: MC Henriques
+        bowler: MP Kuhnemann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JC Silk
+    - 8.2:
+        non_striker: MC Henriques
+        bowler: MP Kuhnemann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JC Silk
+    - 8.3:
+        non_striker: MC Henriques
+        bowler: MP Kuhnemann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JC Silk
+    - 8.4:
+        non_striker: JC Silk
+        bowler: MP Kuhnemann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MC Henriques
+    - 8.5:
+        non_striker: MC Henriques
+        bowler: MP Kuhnemann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JC Silk
+        wicket:
+          player_out: JC Silk
+          kind: bowled
+    - 8.6:
+        non_striker: MC Henriques
+        bowler: MP Kuhnemann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Edwards
+        wicket:
+          player_out: J Edwards
+          fielders:
+          - NA McSweeney
+          kind: caught
+    - 9.1:
+        non_striker: JA Davies
+        bowler: JD Wildermuth
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MC Henriques
+    - 9.2:
+        non_striker: JA Davies
+        bowler: JD Wildermuth
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MC Henriques
+    - 9.3:
+        non_striker: MC Henriques
+        bowler: JD Wildermuth
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA Davies
+    - 9.4:
+        non_striker: JA Davies
+        bowler: JD Wildermuth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MC Henriques
+    - 9.5:
+        non_striker: JA Davies
+        bowler: JD Wildermuth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MC Henriques
+        wicket:
+          player_out: MC Henriques
+          fielders:
+          - MP Kuhnemann
+          kind: caught
+    - 9.6:
+        non_striker: JA Davies
+        bowler: JD Wildermuth
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BAD Manenti
+    - 10.1:
+        non_striker: JA Davies
+        bowler: MT Renshaw
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BAD Manenti
+    - 10.2:
+        non_striker: BAD Manenti
+        bowler: MT Renshaw
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA Davies
+    - 10.3:
+        non_striker: JA Davies
+        bowler: MT Renshaw
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BAD Manenti
+        wicket:
+          player_out: BAD Manenti
+          kind: caught and bowled
+    - 10.4:
+        non_striker: JA Davies
+        bowler: MT Renshaw
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Kerr
+    - 10.5:
+        non_striker: JA Davies
+        bowler: MT Renshaw
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Kerr
+    - 10.6:
+        non_striker: H Kerr
+        bowler: MT Renshaw
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Davies
+    - 11.1:
+        non_striker: JA Davies
+        bowler: JD Wildermuth
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Kerr
+    - 11.2:
+        non_striker: H Kerr
+        bowler: JD Wildermuth
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA Davies
+    - 11.3:
+        non_striker: JA Davies
+        bowler: JD Wildermuth
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Kerr
+    - 11.4:
+        non_striker: H Kerr
+        bowler: JD Wildermuth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Davies
+    - 11.5:
+        non_striker: H Kerr
+        bowler: JD Wildermuth
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA Davies
+    - 11.6:
+        non_striker: JA Davies
+        bowler: JD Wildermuth
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Kerr
+    - 12.1:
+        non_striker: JA Davies
+        bowler: MP Kuhnemann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Kerr
+    - 12.2:
+        non_striker: JA Davies
+        bowler: MP Kuhnemann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Kerr
+    - 12.3:
+        non_striker: H Kerr
+        bowler: MP Kuhnemann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Davies
+    - 12.4:
+        non_striker: H Kerr
+        bowler: MP Kuhnemann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA Davies
+    - 12.5:
+        non_striker: JA Davies
+        bowler: MP Kuhnemann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Kerr
+    - 12.6:
+        non_striker: H Kerr
+        bowler: MP Kuhnemann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA Davies
+    - 13.1:
+        non_striker: H Kerr
+        bowler: JD Wildermuth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Davies
+    - 13.2:
+        non_striker: H Kerr
+        bowler: JD Wildermuth
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JA Davies
+    - 13.3:
+        non_striker: H Kerr
+        bowler: JD Wildermuth
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA Davies
+    - 13.4:
+        non_striker: JA Davies
+        bowler: JD Wildermuth
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: H Kerr
+    - 13.5:
+        non_striker: JA Davies
+        bowler: JD Wildermuth
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Kerr
+    - 13.6:
+        non_striker: H Kerr
+        bowler: JD Wildermuth
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JA Davies
+    - 14.1:
+        non_striker: JA Davies
+        bowler: MT Renshaw
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: H Kerr
+    - 14.2:
+        non_striker: JA Davies
+        bowler: MT Renshaw
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Kerr
+    - 14.3:
+        non_striker: H Kerr
+        bowler: MT Renshaw
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA Davies
+    - 14.4:
+        non_striker: JA Davies
+        bowler: MT Renshaw
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Kerr
+    - 14.5:
+        non_striker: H Kerr
+        bowler: MT Renshaw
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA Davies
+    - 14.6:
+        non_striker: JA Davies
+        bowler: MT Renshaw
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Kerr
+    - 15.1:
+        non_striker: H Kerr
+        bowler: O Patterson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Davies
+    - 15.2:
+        non_striker: H Kerr
+        bowler: O Patterson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA Davies
+    - 15.3:
+        non_striker: JA Davies
+        bowler: O Patterson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Kerr
+    - 15.4:
+        non_striker: JA Davies
+        bowler: O Patterson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Kerr
+    - 15.5:
+        non_striker: H Kerr
+        bowler: O Patterson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JA Davies
+    - 15.6:
+        non_striker: H Kerr
+        bowler: O Patterson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA Davies
+    - 16.1:
+        non_striker: H Kerr
+        bowler: MT Renshaw
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA Davies
+    - 16.2:
+        non_striker: JA Davies
+        bowler: MT Renshaw
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Kerr
+    - 16.3:
+        non_striker: JA Davies
+        bowler: MT Renshaw
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Kerr
+    - 16.4:
+        non_striker: H Kerr
+        bowler: MT Renshaw
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Davies
+    - 16.5:
+        non_striker: H Kerr
+        bowler: MT Renshaw
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA Davies
+    - 16.6:
+        non_striker: JA Davies
+        bowler: MT Renshaw
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Kerr
+    - 17.1:
+        non_striker: JA Davies
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: H Kerr
+    - 17.2:
+        non_striker: JA Davies
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Kerr
+    - 17.3:
+        non_striker: JA Davies
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Kerr
+    - 17.4:
+        non_striker: JA Davies
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Kerr
+    - 17.5:
+        non_striker: JA Davies
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Kerr
+    - 17.6:
+        non_striker: H Kerr
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA Davies
+    - 18.1:
+        non_striker: H Kerr
+        bowler: O Patterson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JA Davies
+    - 18.2:
+        non_striker: H Kerr
+        bowler: O Patterson
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: JA Davies
+    - 18.3:
+        non_striker: H Kerr
+        bowler: O Patterson
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: JA Davies
+    - 18.4:
+        non_striker: H Kerr
+        bowler: O Patterson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JA Davies
+    - 18.5:
+        non_striker: H Kerr
+        bowler: O Patterson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA Davies
+    - 18.6:
+        non_striker: JA Davies
+        bowler: O Patterson
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: H Kerr

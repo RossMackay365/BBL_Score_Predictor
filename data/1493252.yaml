@@ -1,0 +1,2135 @@
+---
+meta:
+  data_version: 0.92
+  created: '2026-01-02'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Hobart
+  competition: Big Bash League
+  dates:
+  - '2025-12-29'
+  gender: male
+  match_type: T20
+  outcome:
+    winner: Hobart Hurricanes
+    by:
+      wickets: 4
+  overs: 20
+  player_of_match:
+  - NT Ellis
+  players:
+    Melbourne Renegades:
+    - J Brown
+    - TL Seifert
+    - Mohammad Rizwan
+    - J Fraser-McGurk
+    - OJ Peake
+    - Hassan Khan
+    - W Sutherland
+    - AJ Tye
+    - GS Sandhu
+    - A Zampa
+    - JP Behrendorff
+    Hobart Hurricanes:
+    - MJ Owen
+    - TP Ward
+    - BJ Webster
+    - BR McDermott
+    - Nikhil Chaudhary
+    - MS Wade
+    - Rehan Ahmed
+    - CJ Jordan
+    - NT Ellis
+    - Rishad Hossain
+    - RP Meredith
+  registry:
+    people:
+      A Zampa: 14f96089
+      AJ Tye: 7c7d63a2
+      BC Treloar: f7e8ee52
+      BJ Webster: 56b93d46
+      BR McDermott: c41043e6
+      C Grant: 876ed858
+      CJ Jordan: ffe699c0
+      David Johnston: 92cef862
+      GS Sandhu: 1558d83b
+      Hassan Khan: 486065b3
+      J Brown: 647e7d44
+      J Fraser-McGurk: 9b6e1b3f
+      JP Behrendorff: 4933f499
+      M Wright: bd920a2c
+      MJ Owen: f2c936d7
+      MS Wade: afa7e784
+      Mohammad Rizwan: 2f26ac1a
+      NT Ellis: 9eb1455b
+      Nikhil Chaudhary: 1f84183a
+      OJ Peake: 9c8448ba
+      RP Meredith: '64775749'
+      Rehan Ahmed: 0ecb4de6
+      Rishad Hossain: 5935d694
+      SAJ Craig: 689f2eed
+      Simon Burns: c0741b3f
+      TL Seifert: 4663bd23
+      TP Ward: fdd837ba
+      W Sutherland: bc2d4f2e
+  teams:
+  - Melbourne Renegades
+  - Hobart Hurricanes
+  toss:
+    winner: Hobart Hurricanes
+    decision: field
+  umpires:
+  - C Grant
+  - SAJ Craig
+  venue: Bellerive Oval, Hobart
+innings:
+- 1st innings:
+    team: Melbourne Renegades
+    deliveries:
+    - 0.1:
+        non_striker: TL Seifert
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Brown
+    - 0.2:
+        non_striker: TL Seifert
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Brown
+    - 0.3:
+        non_striker: TL Seifert
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Brown
+    - 0.4:
+        non_striker: TL Seifert
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: J Brown
+    - 0.5:
+        non_striker: TL Seifert
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: J Brown
+    - 0.6:
+        non_striker: TL Seifert
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Brown
+    - 1.1:
+        non_striker: J Brown
+        bowler: RP Meredith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TL Seifert
+    - 1.2:
+        non_striker: J Brown
+        bowler: RP Meredith
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TL Seifert
+    - 1.3:
+        non_striker: J Brown
+        bowler: RP Meredith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TL Seifert
+    - 1.4:
+        non_striker: J Brown
+        bowler: RP Meredith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TL Seifert
+    - 1.5:
+        non_striker: J Brown
+        bowler: RP Meredith
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: TL Seifert
+    - 1.6:
+        non_striker: J Brown
+        bowler: RP Meredith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TL Seifert
+    - 2.1:
+        non_striker: TL Seifert
+        bowler: NT Ellis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Brown
+    - 2.2:
+        non_striker: TL Seifert
+        bowler: NT Ellis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Brown
+    - 2.3:
+        non_striker: TL Seifert
+        bowler: NT Ellis
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: J Brown
+    - 2.4:
+        non_striker: TL Seifert
+        bowler: NT Ellis
+        runs:
+          extras: 1
+          total: 7
+          batsman: 6
+        extras:
+          noballs: 1
+        batsman: J Brown
+    - 2.5:
+        non_striker: TL Seifert
+        bowler: NT Ellis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Brown
+    - 2.6:
+        non_striker: TL Seifert
+        bowler: NT Ellis
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Brown
+    - 2.7:
+        non_striker: TL Seifert
+        bowler: NT Ellis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Brown
+    - 2.8:
+        non_striker: TL Seifert
+        bowler: NT Ellis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Brown
+        wicket:
+          player_out: J Brown
+          fielders:
+          - Rishad Hossain
+          kind: caught
+    - 3.1:
+        non_striker: Mohammad Rizwan
+        bowler: RP Meredith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TL Seifert
+    - 3.2:
+        non_striker: TL Seifert
+        bowler: RP Meredith
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mohammad Rizwan
+    - 3.3:
+        non_striker: TL Seifert
+        bowler: RP Meredith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Rizwan
+    - 3.4:
+        non_striker: TL Seifert
+        bowler: RP Meredith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Rizwan
+    - 3.5:
+        non_striker: TL Seifert
+        bowler: RP Meredith
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mohammad Rizwan
+    - 3.6:
+        non_striker: TL Seifert
+        bowler: RP Meredith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Rizwan
+    - 4.1:
+        non_striker: Mohammad Rizwan
+        bowler: Rishad Hossain
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: TL Seifert
+    - 4.2:
+        non_striker: TL Seifert
+        bowler: Rishad Hossain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Rizwan
+    - 4.3:
+        non_striker: Mohammad Rizwan
+        bowler: Rishad Hossain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TL Seifert
+    - 4.4:
+        non_striker: TL Seifert
+        bowler: Rishad Hossain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Rizwan
+    - 4.5:
+        non_striker: Mohammad Rizwan
+        bowler: Rishad Hossain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TL Seifert
+    - 4.6:
+        non_striker: TL Seifert
+        bowler: Rishad Hossain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Rizwan
+    - 5.1:
+        non_striker: TL Seifert
+        bowler: MJ Owen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Rizwan
+    - 5.2:
+        non_striker: Mohammad Rizwan
+        bowler: MJ Owen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TL Seifert
+    - 5.3:
+        non_striker: Mohammad Rizwan
+        bowler: MJ Owen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TL Seifert
+    - 5.4:
+        non_striker: Mohammad Rizwan
+        bowler: MJ Owen
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: TL Seifert
+    - 5.5:
+        non_striker: Mohammad Rizwan
+        bowler: MJ Owen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TL Seifert
+        wicket:
+          player_out: TL Seifert
+          fielders:
+          - MS Wade
+          kind: caught
+    - 5.6:
+        non_striker: Mohammad Rizwan
+        bowler: MJ Owen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Fraser-McGurk
+    - 6.1:
+        non_striker: Mohammad Rizwan
+        bowler: Rishad Hossain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Fraser-McGurk
+    - 6.2:
+        non_striker: J Fraser-McGurk
+        bowler: Rishad Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Rizwan
+    - 6.3:
+        non_striker: J Fraser-McGurk
+        bowler: Rishad Hossain
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mohammad Rizwan
+    - 6.4:
+        non_striker: J Fraser-McGurk
+        bowler: Rishad Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Rizwan
+        wicket:
+          player_out: Mohammad Rizwan
+          fielders:
+          - Rehan Ahmed
+          kind: caught
+    - 6.5:
+        non_striker: J Fraser-McGurk
+        bowler: Rishad Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OJ Peake
+    - 6.6:
+        non_striker: J Fraser-McGurk
+        bowler: Rishad Hossain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: OJ Peake
+    - 7.1:
+        non_striker: J Fraser-McGurk
+        bowler: Rehan Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OJ Peake
+    - 7.2:
+        non_striker: J Fraser-McGurk
+        bowler: Rehan Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: OJ Peake
+    - 7.3:
+        non_striker: OJ Peake
+        bowler: Rehan Ahmed
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Fraser-McGurk
+    - 7.4:
+        non_striker: OJ Peake
+        bowler: Rehan Ahmed
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: J Fraser-McGurk
+    - 7.5:
+        non_striker: OJ Peake
+        bowler: Rehan Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Fraser-McGurk
+    - 7.6:
+        non_striker: OJ Peake
+        bowler: Rehan Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Fraser-McGurk
+    - 8.1:
+        non_striker: J Fraser-McGurk
+        bowler: Rishad Hossain
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: OJ Peake
+    - 8.2:
+        non_striker: J Fraser-McGurk
+        bowler: Rishad Hossain
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: OJ Peake
+    - 8.3:
+        non_striker: J Fraser-McGurk
+        bowler: Rishad Hossain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: OJ Peake
+    - 8.4:
+        non_striker: OJ Peake
+        bowler: Rishad Hossain
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: J Fraser-McGurk
+    - 8.5:
+        non_striker: OJ Peake
+        bowler: Rishad Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Fraser-McGurk
+        wicket:
+          player_out: J Fraser-McGurk
+          fielders:
+          - RP Meredith
+          kind: caught
+    - 8.6:
+        non_striker: OJ Peake
+        bowler: Rishad Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hassan Khan
+    - 9.1:
+        non_striker: Hassan Khan
+        bowler: Rehan Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: OJ Peake
+    - 9.2:
+        non_striker: OJ Peake
+        bowler: Rehan Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hassan Khan
+    - 9.3:
+        non_striker: Hassan Khan
+        bowler: Rehan Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: OJ Peake
+    - 9.4:
+        non_striker: OJ Peake
+        bowler: Rehan Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hassan Khan
+    - 9.5:
+        non_striker: OJ Peake
+        bowler: Rehan Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hassan Khan
+    - 9.6:
+        non_striker: Hassan Khan
+        bowler: Rehan Ahmed
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: OJ Peake
+    - 10.1:
+        non_striker: OJ Peake
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Hassan Khan
+    - 10.2:
+        non_striker: OJ Peake
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hassan Khan
+    - 10.3:
+        non_striker: OJ Peake
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hassan Khan
+        wicket:
+          player_out: Hassan Khan
+          fielders:
+          - Rehan Ahmed
+          kind: run out
+    - 10.4:
+        non_striker: OJ Peake
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Sutherland
+    - 10.5:
+        non_striker: OJ Peake
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Sutherland
+    - 10.6:
+        non_striker: OJ Peake
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: W Sutherland
+    - 11.1:
+        non_striker: W Sutherland
+        bowler: Rehan Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: OJ Peake
+    - 11.2:
+        non_striker: OJ Peake
+        bowler: Rehan Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Sutherland
+    - 11.3:
+        non_striker: W Sutherland
+        bowler: Rehan Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: OJ Peake
+    - 11.4:
+        non_striker: OJ Peake
+        bowler: Rehan Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Sutherland
+    - 11.5:
+        non_striker: OJ Peake
+        bowler: Rehan Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Sutherland
+    - 11.6:
+        non_striker: W Sutherland
+        bowler: Rehan Ahmed
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: OJ Peake
+    - 12.1:
+        non_striker: OJ Peake
+        bowler: NT Ellis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Sutherland
+    - 12.2:
+        non_striker: W Sutherland
+        bowler: NT Ellis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: OJ Peake
+    - 12.3:
+        non_striker: OJ Peake
+        bowler: NT Ellis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Sutherland
+    - 12.4:
+        non_striker: OJ Peake
+        bowler: NT Ellis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Sutherland
+    - 12.5:
+        non_striker: W Sutherland
+        bowler: NT Ellis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OJ Peake
+    - 12.6:
+        non_striker: W Sutherland
+        bowler: NT Ellis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OJ Peake
+    - 13.1:
+        non_striker: OJ Peake
+        bowler: Rishad Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Sutherland
+    - 13.2:
+        non_striker: OJ Peake
+        bowler: Rishad Hossain
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: W Sutherland
+    - 13.3:
+        non_striker: OJ Peake
+        bowler: Rishad Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Sutherland
+    - 13.4:
+        non_striker: OJ Peake
+        bowler: Rishad Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Sutherland
+    - 13.5:
+        non_striker: OJ Peake
+        bowler: Rishad Hossain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Sutherland
+    - 13.6:
+        non_striker: W Sutherland
+        bowler: Rishad Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OJ Peake
+    - 14.1:
+        non_striker: OJ Peake
+        bowler: RP Meredith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Sutherland
+    - 14.2:
+        non_striker: W Sutherland
+        bowler: RP Meredith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: OJ Peake
+    - 14.3:
+        non_striker: OJ Peake
+        bowler: RP Meredith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Sutherland
+    - 14.4:
+        non_striker: W Sutherland
+        bowler: RP Meredith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: OJ Peake
+    - 14.5:
+        non_striker: OJ Peake
+        bowler: RP Meredith
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: W Sutherland
+    - 14.6:
+        non_striker: OJ Peake
+        bowler: RP Meredith
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: W Sutherland
+    - 14.7:
+        non_striker: OJ Peake
+        bowler: RP Meredith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Sutherland
+    - 14.8:
+        non_striker: W Sutherland
+        bowler: RP Meredith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: OJ Peake
+    - 15.1:
+        non_striker: W Sutherland
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: OJ Peake
+    - 15.2:
+        non_striker: W Sutherland
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OJ Peake
+        wicket:
+          player_out: OJ Peake
+          fielders:
+          - BJ Webster
+          kind: caught
+    - 15.3:
+        non_striker: W Sutherland
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Tye
+    - 15.4:
+        non_striker: AJ Tye
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Sutherland
+    - 15.5:
+        non_striker: AJ Tye
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Sutherland
+    - 15.6:
+        non_striker: W Sutherland
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Tye
+    - 16.1:
+        non_striker: W Sutherland
+        bowler: NT Ellis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Tye
+    - 16.2:
+        non_striker: AJ Tye
+        bowler: NT Ellis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Sutherland
+        wicket:
+          player_out: W Sutherland
+          fielders:
+          - M Wright (sub)
+          kind: caught
+    - 16.3:
+        non_striker: AJ Tye
+        bowler: NT Ellis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GS Sandhu
+    - 16.4:
+        non_striker: GS Sandhu
+        bowler: NT Ellis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Tye
+    - 16.5:
+        non_striker: AJ Tye
+        bowler: NT Ellis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GS Sandhu
+    - 16.6:
+        non_striker: GS Sandhu
+        bowler: NT Ellis
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: AJ Tye
+    - 16.7:
+        non_striker: AJ Tye
+        bowler: NT Ellis
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GS Sandhu
+    - 17.1:
+        non_striker: GS Sandhu
+        bowler: RP Meredith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Tye
+    - 17.2:
+        non_striker: AJ Tye
+        bowler: RP Meredith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GS Sandhu
+    - 17.3:
+        non_striker: GS Sandhu
+        bowler: RP Meredith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Tye
+        wicket:
+          player_out: AJ Tye
+          kind: caught and bowled
+    - 17.4:
+        non_striker: GS Sandhu
+        bowler: RP Meredith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Zampa
+    - 17.5:
+        non_striker: GS Sandhu
+        bowler: RP Meredith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Zampa
+    - 17.6:
+        non_striker: A Zampa
+        bowler: RP Meredith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GS Sandhu
+    - 18.1:
+        non_striker: A Zampa
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GS Sandhu
+    - 18.2:
+        non_striker: GS Sandhu
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Zampa
+    - 18.3:
+        non_striker: A Zampa
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GS Sandhu
+    - 18.4:
+        non_striker: GS Sandhu
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Zampa
+    - 18.5:
+        non_striker: A Zampa
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GS Sandhu
+    - 18.6:
+        non_striker: GS Sandhu
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Zampa
+    - 19.1:
+        non_striker: A Zampa
+        bowler: NT Ellis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GS Sandhu
+    - 19.2:
+        non_striker: A Zampa
+        bowler: NT Ellis
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GS Sandhu
+    - 19.3:
+        non_striker: A Zampa
+        bowler: NT Ellis
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GS Sandhu
+    - 19.4:
+        non_striker: A Zampa
+        bowler: NT Ellis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GS Sandhu
+    - 19.5:
+        non_striker: A Zampa
+        bowler: NT Ellis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GS Sandhu
+    - 19.6:
+        non_striker: GS Sandhu
+        bowler: NT Ellis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Zampa
+        wicket:
+          player_out: A Zampa
+          fielders:
+          - M Wright (sub)
+          kind: caught
+- 2nd innings:
+    team: Hobart Hurricanes
+    deliveries:
+    - 0.1:
+        non_striker: TP Ward
+        bowler: JP Behrendorff
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Owen
+    - 0.2:
+        non_striker: TP Ward
+        bowler: JP Behrendorff
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Owen
+    - 0.3:
+        non_striker: TP Ward
+        bowler: JP Behrendorff
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Owen
+    - 0.4:
+        non_striker: TP Ward
+        bowler: JP Behrendorff
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Owen
+    - 0.5:
+        non_striker: MJ Owen
+        bowler: JP Behrendorff
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TP Ward
+    - 0.6:
+        non_striker: TP Ward
+        bowler: JP Behrendorff
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MJ Owen
+    - 1.1:
+        non_striker: MJ Owen
+        bowler: GS Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TP Ward
+    - 1.2:
+        non_striker: MJ Owen
+        bowler: GS Sandhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TP Ward
+    - 1.3:
+        non_striker: TP Ward
+        bowler: GS Sandhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Owen
+    - 1.4:
+        non_striker: MJ Owen
+        bowler: GS Sandhu
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: TP Ward
+    - 1.5:
+        non_striker: MJ Owen
+        bowler: GS Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TP Ward
+    - 1.6:
+        non_striker: MJ Owen
+        bowler: GS Sandhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TP Ward
+    - 1.7:
+        non_striker: TP Ward
+        bowler: GS Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Owen
+    - 2.1:
+        non_striker: MJ Owen
+        bowler: JP Behrendorff
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TP Ward
+    - 2.2:
+        non_striker: MJ Owen
+        bowler: JP Behrendorff
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TP Ward
+    - 2.3:
+        non_striker: MJ Owen
+        bowler: JP Behrendorff
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TP Ward
+    - 2.4:
+        non_striker: MJ Owen
+        bowler: JP Behrendorff
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: TP Ward
+    - 2.5:
+        non_striker: TP Ward
+        bowler: JP Behrendorff
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Owen
+    - 2.6:
+        non_striker: TP Ward
+        bowler: JP Behrendorff
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Owen
+    - 3.1:
+        non_striker: TP Ward
+        bowler: GS Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Owen
+    - 3.2:
+        non_striker: TP Ward
+        bowler: GS Sandhu
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MJ Owen
+    - 3.3:
+        non_striker: TP Ward
+        bowler: GS Sandhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Owen
+    - 3.4:
+        non_striker: MJ Owen
+        bowler: GS Sandhu
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TP Ward
+    - 3.5:
+        non_striker: MJ Owen
+        bowler: GS Sandhu
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: TP Ward
+    - 3.6:
+        non_striker: MJ Owen
+        bowler: GS Sandhu
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: TP Ward
+    - 3.7:
+        non_striker: MJ Owen
+        bowler: GS Sandhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TP Ward
+    - 4.1:
+        non_striker: MJ Owen
+        bowler: AJ Tye
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TP Ward
+    - 4.2:
+        non_striker: TP Ward
+        bowler: AJ Tye
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MJ Owen
+    - 4.3:
+        non_striker: TP Ward
+        bowler: AJ Tye
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Owen
+        wicket:
+          player_out: MJ Owen
+          fielders:
+          - Mohammad Rizwan
+          kind: caught
+    - 4.4:
+        non_striker: TP Ward
+        bowler: AJ Tye
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BJ Webster
+    - 4.5:
+        non_striker: TP Ward
+        bowler: AJ Tye
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BJ Webster
+    - 4.6:
+        non_striker: TP Ward
+        bowler: AJ Tye
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BJ Webster
+    - 4.7:
+        non_striker: BJ Webster
+        bowler: AJ Tye
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TP Ward
+    - 5.1:
+        non_striker: TP Ward
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BJ Webster
+    - 5.2:
+        non_striker: BJ Webster
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TP Ward
+    - 5.3:
+        non_striker: TP Ward
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: BJ Webster
+    - 5.4:
+        non_striker: TP Ward
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BJ Webster
+    - 5.5:
+        non_striker: BJ Webster
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TP Ward
+    - 5.6:
+        non_striker: BJ Webster
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TP Ward
+    - 6.1:
+        non_striker: BJ Webster
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TP Ward
+    - 6.2:
+        non_striker: TP Ward
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BJ Webster
+    - 6.3:
+        non_striker: BJ Webster
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TP Ward
+    - 6.4:
+        non_striker: TP Ward
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BJ Webster
+    - 6.5:
+        non_striker: BJ Webster
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TP Ward
+    - 6.6:
+        non_striker: TP Ward
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BJ Webster
+    - 7.1:
+        non_striker: TP Ward
+        bowler: AJ Tye
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: BJ Webster
+    - 7.2:
+        non_striker: BJ Webster
+        bowler: AJ Tye
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TP Ward
+    - 7.3:
+        non_striker: BJ Webster
+        bowler: AJ Tye
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: TP Ward
+    - 7.4:
+        non_striker: BJ Webster
+        bowler: AJ Tye
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TP Ward
+    - 7.5:
+        non_striker: BJ Webster
+        bowler: AJ Tye
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TP Ward
+    - 7.6:
+        non_striker: TP Ward
+        bowler: AJ Tye
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BJ Webster
+    - 7.7:
+        non_striker: TP Ward
+        bowler: AJ Tye
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BJ Webster
+    - 8.1:
+        non_striker: TP Ward
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BJ Webster
+    - 8.2:
+        non_striker: BJ Webster
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TP Ward
+    - 8.3:
+        non_striker: BJ Webster
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: TP Ward
+    - 8.4:
+        non_striker: BJ Webster
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TP Ward
+        wicket:
+          player_out: TP Ward
+          fielders:
+          - OJ Peake
+          kind: caught
+    - 8.5:
+        non_striker: BJ Webster
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BR McDermott
+    - 8.6:
+        non_striker: BJ Webster
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BR McDermott
+        wicket:
+          player_out: BR McDermott
+          kind: bowled
+    - 9.1:
+        non_striker: Nikhil Chaudhary
+        bowler: Hassan Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BJ Webster
+    - 9.2:
+        non_striker: Nikhil Chaudhary
+        bowler: Hassan Khan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BJ Webster
+    - 9.3:
+        non_striker: Nikhil Chaudhary
+        bowler: Hassan Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BJ Webster
+    - 9.4:
+        non_striker: Nikhil Chaudhary
+        bowler: Hassan Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BJ Webster
+    - 9.5:
+        non_striker: Nikhil Chaudhary
+        bowler: Hassan Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BJ Webster
+    - 9.6:
+        non_striker: BJ Webster
+        bowler: Hassan Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nikhil Chaudhary
+    - 10.1:
+        non_striker: BJ Webster
+        bowler: AJ Tye
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Nikhil Chaudhary
+    - 10.2:
+        non_striker: BJ Webster
+        bowler: AJ Tye
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nikhil Chaudhary
+    - 10.3:
+        non_striker: BJ Webster
+        bowler: AJ Tye
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Nikhil Chaudhary
+    - 10.4:
+        non_striker: BJ Webster
+        bowler: AJ Tye
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nikhil Chaudhary
+    - 10.5:
+        non_striker: BJ Webster
+        bowler: AJ Tye
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nikhil Chaudhary
+    - 10.6:
+        non_striker: BJ Webster
+        bowler: AJ Tye
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Nikhil Chaudhary
+    - 10.7:
+        non_striker: BJ Webster
+        bowler: AJ Tye
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Nikhil Chaudhary
+    - 11.1:
+        non_striker: Nikhil Chaudhary
+        bowler: GS Sandhu
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: BJ Webster
+    - 11.2:
+        non_striker: Nikhil Chaudhary
+        bowler: GS Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BJ Webster
+        wicket:
+          player_out: BJ Webster
+          fielders:
+          - AJ Tye
+          kind: caught
+    - 11.3:
+        non_striker: Nikhil Chaudhary
+        bowler: GS Sandhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Wade
+    - 11.4:
+        non_striker: MS Wade
+        bowler: GS Sandhu
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Nikhil Chaudhary
+    - 11.5:
+        non_striker: MS Wade
+        bowler: GS Sandhu
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Nikhil Chaudhary
+    - 11.6:
+        non_striker: MS Wade
+        bowler: GS Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nikhil Chaudhary
+    - 12.1:
+        non_striker: Nikhil Chaudhary
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Wade
+    - 12.2:
+        non_striker: MS Wade
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nikhil Chaudhary
+    - 12.3:
+        non_striker: MS Wade
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nikhil Chaudhary
+        wicket:
+          player_out: Nikhil Chaudhary
+          kind: lbw
+    - 12.4:
+        non_striker: MS Wade
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rehan Ahmed
+    - 12.5:
+        non_striker: Rehan Ahmed
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Wade
+    - 12.6:
+        non_striker: MS Wade
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rehan Ahmed
+    - 13.1:
+        non_striker: MS Wade
+        bowler: JP Behrendorff
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rehan Ahmed
+    - 13.2:
+        non_striker: MS Wade
+        bowler: JP Behrendorff
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Rehan Ahmed
+    - 13.3:
+        non_striker: MS Wade
+        bowler: JP Behrendorff
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rehan Ahmed
+    - 13.4:
+        non_striker: MS Wade
+        bowler: JP Behrendorff
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rehan Ahmed
+    - 13.5:
+        non_striker: Rehan Ahmed
+        bowler: JP Behrendorff
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Wade
+    - 13.6:
+        non_striker: Rehan Ahmed
+        bowler: JP Behrendorff
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MS Wade
+    - 14.1:
+        non_striker: MS Wade
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Rehan Ahmed
+    - 14.2:
+        non_striker: MS Wade
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rehan Ahmed
+    - 14.3:
+        non_striker: MS Wade
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rehan Ahmed
+    - 14.4:
+        non_striker: MS Wade
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rehan Ahmed
+    - 14.5:
+        non_striker: Rehan Ahmed
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MS Wade
+    - 14.6:
+        non_striker: Rehan Ahmed
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Wade
+    - 15.1:
+        non_striker: Rehan Ahmed
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Wade
+    - 15.2:
+        non_striker: MS Wade
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Rehan Ahmed
+    - 15.3:
+        non_striker: MS Wade
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Rehan Ahmed
+    - 15.4:
+        non_striker: MS Wade
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rehan Ahmed
+    - 15.5:
+        non_striker: Rehan Ahmed
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MS Wade
+    - 15.6:
+        non_striker: Rehan Ahmed
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Wade
+    - 16.1:
+        non_striker: MS Wade
+        bowler: Hassan Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rehan Ahmed
+        wicket:
+          player_out: Rehan Ahmed
+          fielders:
+          - OJ Peake
+          kind: caught
+    - 16.2:
+        non_striker: MS Wade
+        bowler: Hassan Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CJ Jordan
+    - 16.3:
+        non_striker: MS Wade
+        bowler: Hassan Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CJ Jordan
+    - 16.4:
+        non_striker: CJ Jordan
+        bowler: Hassan Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Wade
+    - 16.5:
+        non_striker: MS Wade
+        bowler: Hassan Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CJ Jordan
+    - 16.6:
+        non_striker: MS Wade
+        bowler: Hassan Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CJ Jordan
+    - 17.1:
+        non_striker: MS Wade
+        bowler: AJ Tye
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CJ Jordan
+    - 17.2:
+        non_striker: CJ Jordan
+        bowler: AJ Tye
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Wade
+    - 17.3:
+        non_striker: MS Wade
+        bowler: AJ Tye
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CJ Jordan
+    - 17.4:
+        non_striker: CJ Jordan
+        bowler: AJ Tye
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Wade
+    - 17.5:
+        non_striker: CJ Jordan
+        bowler: AJ Tye
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MS Wade
+    - 17.6:
+        non_striker: CJ Jordan
+        bowler: AJ Tye
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Wade
+    - 18.1:
+        non_striker: CJ Jordan
+        bowler: GS Sandhu
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MS Wade
+    - 18.2:
+        non_striker: CJ Jordan
+        bowler: GS Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Wade
+    - 18.3:
+        non_striker: CJ Jordan
+        bowler: GS Sandhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Wade
+    - 18.4:
+        non_striker: MS Wade
+        bowler: GS Sandhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CJ Jordan
+    - 18.5:
+        non_striker: CJ Jordan
+        bowler: GS Sandhu
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MS Wade
+    - 18.6:
+        non_striker: CJ Jordan
+        bowler: GS Sandhu
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MS Wade

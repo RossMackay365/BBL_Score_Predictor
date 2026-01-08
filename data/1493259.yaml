@@ -1,0 +1,2120 @@
+---
+meta:
+  data_version: 0.92
+  created: '2026-01-05'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Melbourne
+  competition: Big Bash League
+  dates:
+  - '2026-01-04'
+  gender: male
+  match_type: T20
+  outcome:
+    winner: Melbourne Renegades
+    by:
+      wickets: 4
+  overs: 20
+  player_of_match:
+  - J Brown
+  players:
+    Melbourne Stars:
+    - TF Rogers
+    - SB Harper
+    - C Kellaway
+    - BD Macdonald
+    - GJ Maxwell
+    - MP Stoinis
+    - HWR Cartwright
+    - TK Curran
+    - MJ Swepson
+    - Haris Rauf
+    - PM Siddle
+    Melbourne Renegades:
+    - J Brown
+    - TL Seifert
+    - Mohammad Rizwan
+    - J Fraser-McGurk
+    - Hassan Khan
+    - OJ Peake
+    - W Sutherland
+    - M Spoors
+    - GS Sandhu
+    - C Stow
+    - JP Behrendorff
+  registry:
+    people:
+      BD Macdonald: 28147cdc
+      C Grant: 876ed858
+      C Kellaway: 60c28835
+      C Stow: 3f9ec1d2
+      D Crozier: 635509c0
+      DM Koch: 6d10c034
+      GA Abood: a4af5528
+      GJ Maxwell: b681e71e
+      GS Sandhu: 1558d83b
+      HWR Cartwright: ab965cad
+      Haris Rauf: 24bb1c2f
+      Hassan Khan: 486065b3
+      J Brown: 647e7d44
+      J Fraser-McGurk: 9b6e1b3f
+      JP Behrendorff: 4933f499
+      M Spoors: da4a1e46
+      MJ Swepson: 86b4bf88
+      MP Stoinis: d9273ee7
+      Mohammad Rizwan: 2f26ac1a
+      OJ Peake: 9c8448ba
+      PM Siddle: bd93fea4
+      SB Harper: a756e61a
+      SJ Elliott: 13f8d4b5
+      TF Rogers: 7f232d46
+      TK Curran: e86754b2
+      TL Seifert: 4663bd23
+      W Sutherland: bc2d4f2e
+  teams:
+  - Melbourne Stars
+  - Melbourne Renegades
+  toss:
+    winner: Melbourne Renegades
+    decision: field
+  umpires:
+  - DM Koch
+  - GA Abood
+  venue: Melbourne Cricket Ground
+innings:
+- 1st innings:
+    team: Melbourne Stars
+    deliveries:
+    - 0.1:
+        non_striker: SB Harper
+        bowler: Hassan Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TF Rogers
+    - 0.2:
+        non_striker: TF Rogers
+        bowler: Hassan Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SB Harper
+    - 0.3:
+        non_striker: SB Harper
+        bowler: Hassan Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TF Rogers
+    - 0.4:
+        non_striker: TF Rogers
+        bowler: Hassan Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SB Harper
+    - 0.5:
+        non_striker: TF Rogers
+        bowler: Hassan Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SB Harper
+    - 0.6:
+        non_striker: SB Harper
+        bowler: Hassan Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TF Rogers
+    - 1.1:
+        non_striker: SB Harper
+        bowler: JP Behrendorff
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TF Rogers
+    - 1.2:
+        non_striker: TF Rogers
+        bowler: JP Behrendorff
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SB Harper
+    - 1.3:
+        non_striker: TF Rogers
+        bowler: JP Behrendorff
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: SB Harper
+    - 1.4:
+        non_striker: SB Harper
+        bowler: JP Behrendorff
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TF Rogers
+    - 1.5:
+        non_striker: TF Rogers
+        bowler: JP Behrendorff
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SB Harper
+    - 1.6:
+        non_striker: SB Harper
+        bowler: JP Behrendorff
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TF Rogers
+    - 2.1:
+        non_striker: TF Rogers
+        bowler: GS Sandhu
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SB Harper
+    - 2.2:
+        non_striker: TF Rogers
+        bowler: GS Sandhu
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SB Harper
+    - 2.3:
+        non_striker: TF Rogers
+        bowler: GS Sandhu
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SB Harper
+    - 2.4:
+        non_striker: TF Rogers
+        bowler: GS Sandhu
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SB Harper
+    - 2.5:
+        non_striker: TF Rogers
+        bowler: GS Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SB Harper
+        wicket:
+          player_out: SB Harper
+          fielders:
+          - J Fraser-McGurk
+          kind: caught
+    - 2.6:
+        non_striker: TF Rogers
+        bowler: GS Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Kellaway
+    - 2.7:
+        non_striker: TF Rogers
+        bowler: GS Sandhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Kellaway
+    - 3.1:
+        non_striker: TF Rogers
+        bowler: JP Behrendorff
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Kellaway
+    - 3.2:
+        non_striker: C Kellaway
+        bowler: JP Behrendorff
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TF Rogers
+    - 3.3:
+        non_striker: C Kellaway
+        bowler: JP Behrendorff
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TF Rogers
+    - 3.4:
+        non_striker: C Kellaway
+        bowler: JP Behrendorff
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TF Rogers
+    - 3.5:
+        non_striker: C Kellaway
+        bowler: JP Behrendorff
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: TF Rogers
+    - 3.6:
+        non_striker: C Kellaway
+        bowler: JP Behrendorff
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TF Rogers
+    - 3.7:
+        non_striker: TF Rogers
+        bowler: JP Behrendorff
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Kellaway
+    - 4.1:
+        non_striker: TF Rogers
+        bowler: C Stow
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Kellaway
+    - 4.2:
+        non_striker: C Kellaway
+        bowler: C Stow
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TF Rogers
+    - 4.3:
+        non_striker: C Kellaway
+        bowler: C Stow
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TF Rogers
+    - 4.4:
+        non_striker: TF Rogers
+        bowler: C Stow
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Kellaway
+    - 4.5:
+        non_striker: C Kellaway
+        bowler: C Stow
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TF Rogers
+        wicket:
+          player_out: TF Rogers
+          fielders:
+          - J Fraser-McGurk
+          kind: caught
+    - 4.6:
+        non_striker: C Kellaway
+        bowler: C Stow
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BD Macdonald
+    - 5.1:
+        non_striker: BD Macdonald
+        bowler: Hassan Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Kellaway
+    - 5.2:
+        non_striker: BD Macdonald
+        bowler: Hassan Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Kellaway
+    - 5.3:
+        non_striker: C Kellaway
+        bowler: Hassan Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BD Macdonald
+    - 5.4:
+        non_striker: BD Macdonald
+        bowler: Hassan Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Kellaway
+    - 5.5:
+        non_striker: BD Macdonald
+        bowler: Hassan Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Kellaway
+    - 5.6:
+        non_striker: C Kellaway
+        bowler: Hassan Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BD Macdonald
+    - 6.1:
+        non_striker: C Kellaway
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BD Macdonald
+    - 6.2:
+        non_striker: BD Macdonald
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Kellaway
+    - 6.3:
+        non_striker: C Kellaway
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BD Macdonald
+    - 6.4:
+        non_striker: C Kellaway
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BD Macdonald
+        wicket:
+          player_out: BD Macdonald
+          fielders:
+          - Mohammad Rizwan
+          kind: caught
+    - 6.5:
+        non_striker: C Kellaway
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GJ Maxwell
+    - 6.6:
+        non_striker: GJ Maxwell
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Kellaway
+    - 7.1:
+        non_striker: GJ Maxwell
+        bowler: Hassan Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Kellaway
+    - 7.2:
+        non_striker: C Kellaway
+        bowler: Hassan Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GJ Maxwell
+    - 7.3:
+        non_striker: C Kellaway
+        bowler: Hassan Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GJ Maxwell
+    - 7.4:
+        non_striker: C Kellaway
+        bowler: Hassan Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GJ Maxwell
+        wicket:
+          player_out: GJ Maxwell
+          fielders:
+          - M Spoors
+          kind: caught
+    - 7.5:
+        non_striker: C Kellaway
+        bowler: Hassan Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MP Stoinis
+    - 7.6:
+        non_striker: C Kellaway
+        bowler: Hassan Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP Stoinis
+    - 8.1:
+        non_striker: C Kellaway
+        bowler: C Stow
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP Stoinis
+    - 8.2:
+        non_striker: MP Stoinis
+        bowler: C Stow
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: C Kellaway
+    - 8.3:
+        non_striker: MP Stoinis
+        bowler: C Stow
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Kellaway
+    - 8.4:
+        non_striker: MP Stoinis
+        bowler: C Stow
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Kellaway
+    - 8.5:
+        non_striker: C Kellaway
+        bowler: C Stow
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Stoinis
+    - 8.6:
+        non_striker: C Kellaway
+        bowler: C Stow
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP Stoinis
+    - 9.1:
+        non_striker: C Kellaway
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Stoinis
+    - 9.2:
+        non_striker: C Kellaway
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP Stoinis
+    - 9.3:
+        non_striker: MP Stoinis
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Kellaway
+    - 9.4:
+        non_striker: MP Stoinis
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Kellaway
+    - 9.5:
+        non_striker: C Kellaway
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Stoinis
+    - 9.6:
+        non_striker: C Kellaway
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP Stoinis
+    - 10.1:
+        non_striker: C Kellaway
+        bowler: GS Sandhu
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MP Stoinis
+    - 10.2:
+        non_striker: C Kellaway
+        bowler: GS Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Stoinis
+    - 10.3:
+        non_striker: C Kellaway
+        bowler: GS Sandhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP Stoinis
+    - 10.4:
+        non_striker: MP Stoinis
+        bowler: GS Sandhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Kellaway
+    - 10.5:
+        non_striker: C Kellaway
+        bowler: GS Sandhu
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MP Stoinis
+    - 10.6:
+        non_striker: C Kellaway
+        bowler: GS Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Stoinis
+        wicket:
+          player_out: MP Stoinis
+          fielders:
+          - J Brown
+          kind: caught
+    - 11.1:
+        non_striker: HWR Cartwright
+        bowler: C Stow
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Kellaway
+    - 11.2:
+        non_striker: C Kellaway
+        bowler: C Stow
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HWR Cartwright
+    - 11.3:
+        non_striker: HWR Cartwright
+        bowler: C Stow
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Kellaway
+    - 11.4:
+        non_striker: C Kellaway
+        bowler: C Stow
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HWR Cartwright
+    - 11.5:
+        non_striker: HWR Cartwright
+        bowler: C Stow
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Kellaway
+    - 11.6:
+        non_striker: C Kellaway
+        bowler: C Stow
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HWR Cartwright
+    - 12.1:
+        non_striker: C Kellaway
+        bowler: Hassan Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HWR Cartwright
+    - 12.2:
+        non_striker: C Kellaway
+        bowler: Hassan Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HWR Cartwright
+    - 12.3:
+        non_striker: C Kellaway
+        bowler: Hassan Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HWR Cartwright
+    - 12.4:
+        non_striker: HWR Cartwright
+        bowler: Hassan Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Kellaway
+    - 12.5:
+        non_striker: HWR Cartwright
+        bowler: Hassan Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Kellaway
+    - 12.6:
+        non_striker: C Kellaway
+        bowler: Hassan Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HWR Cartwright
+    - 13.1:
+        non_striker: C Kellaway
+        bowler: M Spoors
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HWR Cartwright
+    - 13.2:
+        non_striker: HWR Cartwright
+        bowler: M Spoors
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Kellaway
+    - 13.3:
+        non_striker: C Kellaway
+        bowler: M Spoors
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: HWR Cartwright
+    - 13.4:
+        non_striker: C Kellaway
+        bowler: M Spoors
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HWR Cartwright
+    - 13.5:
+        non_striker: C Kellaway
+        bowler: M Spoors
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HWR Cartwright
+    - 13.6:
+        non_striker: C Kellaway
+        bowler: M Spoors
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: HWR Cartwright
+    - 14.1:
+        non_striker: HWR Cartwright
+        bowler: C Stow
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Kellaway
+    - 14.2:
+        non_striker: C Kellaway
+        bowler: C Stow
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HWR Cartwright
+    - 14.3:
+        non_striker: HWR Cartwright
+        bowler: C Stow
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Kellaway
+        wicket:
+          player_out: C Kellaway
+          fielders:
+          - GS Sandhu
+          kind: caught
+    - 14.4:
+        non_striker: HWR Cartwright
+        bowler: C Stow
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TK Curran
+    - 14.5:
+        non_striker: HWR Cartwright
+        bowler: C Stow
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TK Curran
+    - 14.6:
+        non_striker: TK Curran
+        bowler: C Stow
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HWR Cartwright
+    - 15.1:
+        non_striker: TK Curran
+        bowler: W Sutherland
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: HWR Cartwright
+    - 15.2:
+        non_striker: HWR Cartwright
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TK Curran
+    - 15.3:
+        non_striker: HWR Cartwright
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TK Curran
+    - 15.4:
+        non_striker: TK Curran
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HWR Cartwright
+    - 15.5:
+        non_striker: TK Curran
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HWR Cartwright
+    - 15.6:
+        non_striker: TK Curran
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HWR Cartwright
+    - 16.1:
+        non_striker: HWR Cartwright
+        bowler: GS Sandhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TK Curran
+    - 16.2:
+        non_striker: TK Curran
+        bowler: GS Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HWR Cartwright
+        wicket:
+          player_out: HWR Cartwright
+          fielders:
+          - W Sutherland
+          kind: caught
+    - 16.3:
+        non_striker: TK Curran
+        bowler: GS Sandhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Swepson
+    - 16.4:
+        non_striker: MJ Swepson
+        bowler: GS Sandhu
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TK Curran
+    - 16.5:
+        non_striker: MJ Swepson
+        bowler: GS Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TK Curran
+    - 16.6:
+        non_striker: MJ Swepson
+        bowler: GS Sandhu
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TK Curran
+    - 17.1:
+        non_striker: TK Curran
+        bowler: JP Behrendorff
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Swepson
+    - 17.2:
+        non_striker: MJ Swepson
+        bowler: JP Behrendorff
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: TK Curran
+    - 17.3:
+        non_striker: MJ Swepson
+        bowler: JP Behrendorff
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TK Curran
+    - 17.4:
+        non_striker: MJ Swepson
+        bowler: JP Behrendorff
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TK Curran
+    - 17.5:
+        non_striker: MJ Swepson
+        bowler: JP Behrendorff
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TK Curran
+    - 17.6:
+        non_striker: TK Curran
+        bowler: JP Behrendorff
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MJ Swepson
+    - 18.1:
+        non_striker: MJ Swepson
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TK Curran
+    - 18.2:
+        non_striker: MJ Swepson
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: TK Curran
+    - 18.3:
+        non_striker: MJ Swepson
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TK Curran
+    - 18.4:
+        non_striker: MJ Swepson
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TK Curran
+    - 18.5:
+        non_striker: MJ Swepson
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TK Curran
+    - 18.6:
+        non_striker: MJ Swepson
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TK Curran
+    - 19.1:
+        non_striker: TK Curran
+        bowler: GS Sandhu
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MJ Swepson
+    - 19.2:
+        non_striker: TK Curran
+        bowler: GS Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Swepson
+        wicket:
+          player_out: MJ Swepson
+          kind: bowled
+    - 19.3:
+        non_striker: TK Curran
+        bowler: GS Sandhu
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Haris Rauf
+    - 19.4:
+        non_striker: TK Curran
+        bowler: GS Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Haris Rauf
+        wicket:
+          player_out: TK Curran
+          fielders:
+          - Mohammad Rizwan
+          - GS Sandhu
+          kind: run out
+    - 19.5:
+        non_striker: PM Siddle
+        bowler: GS Sandhu
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Haris Rauf
+    - 19.6:
+        non_striker: PM Siddle
+        bowler: GS Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Haris Rauf
+    - 19.7:
+        non_striker: PM Siddle
+        bowler: GS Sandhu
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: Haris Rauf
+- 2nd innings:
+    team: Melbourne Renegades
+    deliveries:
+    - 0.1:
+        non_striker: TL Seifert
+        bowler: GJ Maxwell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Brown
+    - 0.2:
+        non_striker: TL Seifert
+        bowler: GJ Maxwell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Brown
+    - 0.3:
+        non_striker: TL Seifert
+        bowler: GJ Maxwell
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: J Brown
+    - 0.4:
+        non_striker: TL Seifert
+        bowler: GJ Maxwell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Brown
+    - 0.5:
+        non_striker: TL Seifert
+        bowler: GJ Maxwell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Brown
+    - 0.6:
+        non_striker: J Brown
+        bowler: GJ Maxwell
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TL Seifert
+    - 1.1:
+        non_striker: TL Seifert
+        bowler: TK Curran
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: J Brown
+    - 1.2:
+        non_striker: TL Seifert
+        bowler: TK Curran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Brown
+    - 1.3:
+        non_striker: TL Seifert
+        bowler: TK Curran
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Brown
+    - 1.4:
+        non_striker: TL Seifert
+        bowler: TK Curran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Brown
+    - 1.5:
+        non_striker: J Brown
+        bowler: TK Curran
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TL Seifert
+    - 1.6:
+        non_striker: J Brown
+        bowler: TK Curran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TL Seifert
+    - 1.7:
+        non_striker: J Brown
+        bowler: TK Curran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TL Seifert
+    - 2.1:
+        non_striker: TL Seifert
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Brown
+    - 2.2:
+        non_striker: TL Seifert
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Brown
+    - 2.3:
+        non_striker: J Brown
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TL Seifert
+        wicket:
+          player_out: TL Seifert
+          fielders:
+          - HWR Cartwright
+          kind: caught
+    - 2.4:
+        non_striker: J Brown
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Rizwan
+    - 2.5:
+        non_striker: Mohammad Rizwan
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Brown
+    - 2.6:
+        non_striker: Mohammad Rizwan
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Brown
+    - 3.1:
+        non_striker: J Brown
+        bowler: PM Siddle
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Rizwan
+    - 3.2:
+        non_striker: Mohammad Rizwan
+        bowler: PM Siddle
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Brown
+    - 3.3:
+        non_striker: Mohammad Rizwan
+        bowler: PM Siddle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Brown
+    - 3.4:
+        non_striker: Mohammad Rizwan
+        bowler: PM Siddle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Brown
+    - 3.5:
+        non_striker: Mohammad Rizwan
+        bowler: PM Siddle
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Brown
+    - 3.6:
+        non_striker: J Brown
+        bowler: PM Siddle
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mohammad Rizwan
+    - 4.1:
+        non_striker: Mohammad Rizwan
+        bowler: MJ Swepson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Brown
+    - 4.2:
+        non_striker: J Brown
+        bowler: MJ Swepson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Rizwan
+    - 4.3:
+        non_striker: J Brown
+        bowler: MJ Swepson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Rizwan
+    - 4.4:
+        non_striker: Mohammad Rizwan
+        bowler: MJ Swepson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Brown
+    - 4.5:
+        non_striker: J Brown
+        bowler: MJ Swepson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Rizwan
+    - 4.6:
+        non_striker: J Brown
+        bowler: MJ Swepson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Rizwan
+    - 5.1:
+        non_striker: Mohammad Rizwan
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Brown
+    - 5.2:
+        non_striker: J Brown
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Rizwan
+    - 5.3:
+        non_striker: J Brown
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Rizwan
+    - 5.4:
+        non_striker: Mohammad Rizwan
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Brown
+    - 5.5:
+        non_striker: Mohammad Rizwan
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: J Brown
+    - 5.6:
+        non_striker: Mohammad Rizwan
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Brown
+    - 6.1:
+        non_striker: J Brown
+        bowler: MJ Swepson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Rizwan
+    - 6.2:
+        non_striker: Mohammad Rizwan
+        bowler: MJ Swepson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Brown
+    - 6.3:
+        non_striker: J Brown
+        bowler: MJ Swepson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Rizwan
+    - 6.4:
+        non_striker: J Brown
+        bowler: MJ Swepson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Rizwan
+    - 6.5:
+        non_striker: Mohammad Rizwan
+        bowler: MJ Swepson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Brown
+    - 6.6:
+        non_striker: J Brown
+        bowler: MJ Swepson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Mohammad Rizwan
+    - 7.1:
+        non_striker: Mohammad Rizwan
+        bowler: TK Curran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Brown
+    - 7.2:
+        non_striker: J Brown
+        bowler: TK Curran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Rizwan
+    - 7.3:
+        non_striker: J Brown
+        bowler: TK Curran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Rizwan
+    - 7.4:
+        non_striker: Mohammad Rizwan
+        bowler: TK Curran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Brown
+    - 7.5:
+        non_striker: J Brown
+        bowler: TK Curran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Rizwan
+    - 7.6:
+        non_striker: Mohammad Rizwan
+        bowler: TK Curran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Brown
+    - 8.1:
+        non_striker: Mohammad Rizwan
+        bowler: GJ Maxwell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Brown
+    - 8.2:
+        non_striker: J Brown
+        bowler: GJ Maxwell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Rizwan
+    - 8.3:
+        non_striker: Mohammad Rizwan
+        bowler: GJ Maxwell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Brown
+    - 8.4:
+        non_striker: Mohammad Rizwan
+        bowler: GJ Maxwell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Brown
+    - 8.5:
+        non_striker: J Brown
+        bowler: GJ Maxwell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Rizwan
+    - 8.6:
+        non_striker: Mohammad Rizwan
+        bowler: GJ Maxwell
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: J Brown
+    - 9.1:
+        non_striker: J Brown
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mohammad Rizwan
+    - 9.2:
+        non_striker: J Brown
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Rizwan
+    - 9.3:
+        non_striker: J Brown
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Rizwan
+    - 9.4:
+        non_striker: Mohammad Rizwan
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Brown
+    - 9.5:
+        non_striker: Mohammad Rizwan
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Brown
+    - 9.6:
+        non_striker: J Brown
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Rizwan
+    - 10.1:
+        non_striker: Mohammad Rizwan
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Brown
+    - 10.2:
+        non_striker: Mohammad Rizwan
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Brown
+    - 10.3:
+        non_striker: Mohammad Rizwan
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Brown
+    - 10.4:
+        non_striker: Mohammad Rizwan
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Brown
+    - 10.5:
+        non_striker: Mohammad Rizwan
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: J Brown
+    - 10.6:
+        non_striker: Mohammad Rizwan
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Brown
+    - 11.1:
+        non_striker: J Brown
+        bowler: PM Siddle
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Mohammad Rizwan
+    - 11.2:
+        non_striker: J Brown
+        bowler: PM Siddle
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Rizwan
+    - 11.3:
+        non_striker: Mohammad Rizwan
+        bowler: PM Siddle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Brown
+    - 11.4:
+        non_striker: Mohammad Rizwan
+        bowler: PM Siddle
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: J Brown
+    - 11.5:
+        non_striker: Mohammad Rizwan
+        bowler: PM Siddle
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: J Brown
+    - 11.6:
+        non_striker: Mohammad Rizwan
+        bowler: PM Siddle
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Brown
+    - 12.1:
+        non_striker: J Brown
+        bowler: MJ Swepson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Rizwan
+    - 12.2:
+        non_striker: J Brown
+        bowler: MJ Swepson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Rizwan
+    - 12.3:
+        non_striker: Mohammad Rizwan
+        bowler: MJ Swepson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Brown
+    - 12.4:
+        non_striker: Mohammad Rizwan
+        bowler: MJ Swepson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Brown
+    - 12.5:
+        non_striker: J Brown
+        bowler: MJ Swepson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mohammad Rizwan
+    - 12.6:
+        non_striker: J Brown
+        bowler: MJ Swepson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Rizwan
+    - 13.1:
+        non_striker: J Brown
+        bowler: TK Curran
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mohammad Rizwan
+    - 13.2:
+        non_striker: J Brown
+        bowler: TK Curran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Rizwan
+    - 13.3:
+        non_striker: Mohammad Rizwan
+        bowler: TK Curran
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: J Brown
+    - 13.4:
+        non_striker: J Brown
+        bowler: TK Curran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Rizwan
+    - 13.5:
+        non_striker: J Brown
+        bowler: TK Curran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Rizwan
+    - 13.6:
+        non_striker: Mohammad Rizwan
+        bowler: TK Curran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Brown
+    - 14.1:
+        non_striker: Mohammad Rizwan
+        bowler: MJ Swepson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Brown
+        wicket:
+          player_out: J Brown
+          kind: bowled
+    - 14.2:
+        non_striker: Mohammad Rizwan
+        bowler: MJ Swepson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Fraser-McGurk
+    - 14.3:
+        non_striker: J Fraser-McGurk
+        bowler: MJ Swepson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Rizwan
+    - 14.4:
+        non_striker: J Fraser-McGurk
+        bowler: MJ Swepson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Mohammad Rizwan
+    - 14.5:
+        non_striker: J Fraser-McGurk
+        bowler: MJ Swepson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Rizwan
+    - 14.6:
+        non_striker: Mohammad Rizwan
+        bowler: MJ Swepson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Fraser-McGurk
+    - 15.1:
+        non_striker: J Fraser-McGurk
+        bowler: PM Siddle
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Rizwan
+    - 15.2:
+        non_striker: Mohammad Rizwan
+        bowler: PM Siddle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Fraser-McGurk
+    - 15.3:
+        non_striker: Mohammad Rizwan
+        bowler: PM Siddle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Fraser-McGurk
+    - 15.4:
+        non_striker: Mohammad Rizwan
+        bowler: PM Siddle
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Fraser-McGurk
+    - 15.5:
+        non_striker: J Fraser-McGurk
+        bowler: PM Siddle
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Rizwan
+    - 15.6:
+        non_striker: Mohammad Rizwan
+        bowler: PM Siddle
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Fraser-McGurk
+    - 16.1:
+        non_striker: Mohammad Rizwan
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Fraser-McGurk
+    - 16.2:
+        non_striker: J Fraser-McGurk
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Rizwan
+        wicket:
+          player_out: Mohammad Rizwan
+          fielders:
+          - TK Curran
+          kind: caught
+    - 16.3:
+        non_striker: J Fraser-McGurk
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Hassan Khan
+    - 16.4:
+        non_striker: J Fraser-McGurk
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hassan Khan
+    - 16.5:
+        non_striker: J Fraser-McGurk
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hassan Khan
+    - 16.6:
+        non_striker: Hassan Khan
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Fraser-McGurk
+    - 17.1:
+        non_striker: J Fraser-McGurk
+        bowler: PM Siddle
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Hassan Khan
+    - 17.2:
+        non_striker: J Fraser-McGurk
+        bowler: PM Siddle
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Hassan Khan
+    - 17.3:
+        non_striker: J Fraser-McGurk
+        bowler: PM Siddle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hassan Khan
+        wicket:
+          player_out: Hassan Khan
+          fielders:
+          - TF Rogers
+          kind: caught
+    - 17.4:
+        non_striker: J Fraser-McGurk
+        bowler: PM Siddle
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: OJ Peake
+    - 17.5:
+        non_striker: OJ Peake
+        bowler: PM Siddle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Fraser-McGurk
+        wicket:
+          player_out: J Fraser-McGurk
+          fielders:
+          - MP Stoinis
+          kind: caught
+    - 17.6:
+        non_striker: OJ Peake
+        bowler: PM Siddle
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Sutherland
+    - 18.1:
+        non_striker: OJ Peake
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: W Sutherland
+    - 18.2:
+        non_striker: OJ Peake
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Sutherland
+    - 18.3:
+        non_striker: W Sutherland
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OJ Peake
+    - 18.4:
+        non_striker: W Sutherland
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: OJ Peake
+    - 18.5:
+        non_striker: W Sutherland
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: OJ Peake
+    - 18.6:
+        non_striker: W Sutherland
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: OJ Peake
+        wicket:
+          player_out: OJ Peake
+          fielders:
+          - SB Harper
+          - BD Macdonald
+          kind: run out
+    - 19.1:
+        non_striker: M Spoors
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: W Sutherland
+    - 19.2:
+        non_striker: M Spoors
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: W Sutherland
+    - 19.3:
+        non_striker: M Spoors
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Sutherland
+    - 19.4:
+        non_striker: W Sutherland
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Spoors
+    - 19.5:
+        non_striker: M Spoors
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: W Sutherland

@@ -1,0 +1,1936 @@
+---
+meta:
+  data_version: 0.92
+  created: '2026-01-02'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Adelaide
+  competition: Big Bash League
+  dates:
+  - '2025-12-31'
+  gender: male
+  match_type: T20
+  outcome:
+    winner: Adelaide Strikers
+    by:
+      wickets: 7
+  overs: 20
+  player_of_match:
+  - L Scott
+  players:
+    Brisbane Heat:
+    - C Munro
+    - JD Wildermuth
+    - LD Hearne
+    - MT Renshaw
+    - M Bryant
+    - HD Weibgen
+    - JJ Peirson
+    - XC Bartlett
+    - MP Kuhnemann
+    - Thomas Balkin
+    - O Patterson
+    Adelaide Strikers:
+    - MW Short
+    - CA Lynn
+    - MW Harvey
+    - J Wadia
+    - L Scott
+    - JJS Sangha
+    - J Overton
+    - HJ Manenti
+    - L Wood
+    - Hasan Ali
+    - L Pope
+  registry:
+    people:
+      C Munro: af2c687b
+      CA Lynn: 45eda7c8
+      Eloise Sheridan: d8d43840
+      GA Abood: a4af5528
+      HD Weibgen: 2535b30f
+      HJ Manenti: 0e56c514
+      Hasan Ali: 2911de16
+      J Overton: 59559bc2
+      J Wadia: 6ef38020
+      JD Wildermuth: f1c61793
+      JJ Peirson: 2b55c3b4
+      JJS Sangha: 8e3cb0e9
+      L Pope: 616a8149
+      L Scott: 0ebb3444
+      L Wood: 65b6943c
+      LD Hearne: 7f2163a0
+      M Bryant: f32012f4
+      MP Kuhnemann: 7b953689
+      MT Renshaw: 218d4d78
+      MW Graham-Smith: 18aca3ce
+      MW Harvey: 47dc9794
+      MW Short: a90e53ec
+      O Patterson: '069a5170'
+      SJ Davis: bc71b0b2
+      Thomas Balkin: 61c4f340
+      Troy Penman: 0aa42c26
+      XC Bartlett: 3b53243a
+  teams:
+  - Brisbane Heat
+  - Adelaide Strikers
+  toss:
+    winner: Adelaide Strikers
+    decision: field
+  umpires:
+  - MW Graham-Smith
+  - Troy Penman
+  venue: Adelaide Oval
+innings:
+- 1st innings:
+    team: Brisbane Heat
+    deliveries:
+    - 0.1:
+        non_striker: JD Wildermuth
+        bowler: L Wood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Munro
+    - 0.2:
+        non_striker: C Munro
+        bowler: L Wood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JD Wildermuth
+    - 0.3:
+        non_striker: C Munro
+        bowler: L Wood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JD Wildermuth
+    - 0.4:
+        non_striker: JD Wildermuth
+        bowler: L Wood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Munro
+    - 0.5:
+        non_striker: JD Wildermuth
+        bowler: L Wood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Munro
+    - 0.6:
+        non_striker: JD Wildermuth
+        bowler: L Wood
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: C Munro
+    - 1.1:
+        non_striker: C Munro
+        bowler: L Scott
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JD Wildermuth
+    - 1.2:
+        non_striker: JD Wildermuth
+        bowler: L Scott
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Munro
+    - 1.3:
+        non_striker: C Munro
+        bowler: L Scott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JD Wildermuth
+    - 1.4:
+        non_striker: C Munro
+        bowler: L Scott
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: JD Wildermuth
+    - 1.5:
+        non_striker: C Munro
+        bowler: L Scott
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JD Wildermuth
+    - 1.6:
+        non_striker: JD Wildermuth
+        bowler: L Scott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Munro
+        wicket:
+          player_out: C Munro
+          fielders:
+          - J Overton
+          kind: caught
+    - 1.7:
+        non_striker: JD Wildermuth
+        bowler: L Scott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LD Hearne
+    - 2.1:
+        non_striker: LD Hearne
+        bowler: L Wood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JD Wildermuth
+    - 2.2:
+        non_striker: JD Wildermuth
+        bowler: L Wood
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: LD Hearne
+    - 2.3:
+        non_striker: JD Wildermuth
+        bowler: L Wood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LD Hearne
+        wicket:
+          player_out: LD Hearne
+          fielders:
+          - J Overton
+          kind: caught
+    - 2.4:
+        non_striker: JD Wildermuth
+        bowler: L Wood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MT Renshaw
+    - 2.5:
+        non_striker: JD Wildermuth
+        bowler: L Wood
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MT Renshaw
+    - 2.6:
+        non_striker: JD Wildermuth
+        bowler: L Wood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MT Renshaw
+    - 3.1:
+        non_striker: MT Renshaw
+        bowler: L Scott
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: JD Wildermuth
+    - 3.2:
+        non_striker: MT Renshaw
+        bowler: L Scott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JD Wildermuth
+    - 3.3:
+        non_striker: MT Renshaw
+        bowler: L Scott
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JD Wildermuth
+    - 3.4:
+        non_striker: JD Wildermuth
+        bowler: L Scott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MT Renshaw
+    - 3.5:
+        non_striker: JD Wildermuth
+        bowler: L Scott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MT Renshaw
+    - 3.6:
+        non_striker: JD Wildermuth
+        bowler: L Scott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MT Renshaw
+    - 3.7:
+        non_striker: JD Wildermuth
+        bowler: L Scott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MT Renshaw
+    - 4.1:
+        non_striker: MT Renshaw
+        bowler: J Overton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JD Wildermuth
+    - 4.2:
+        non_striker: MT Renshaw
+        bowler: J Overton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JD Wildermuth
+        wicket:
+          player_out: JD Wildermuth
+          fielders:
+          - L Wood
+          kind: caught
+    - 4.3:
+        non_striker: MT Renshaw
+        bowler: J Overton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Bryant
+    - 4.4:
+        non_striker: M Bryant
+        bowler: J Overton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MT Renshaw
+    - 4.5:
+        non_striker: M Bryant
+        bowler: J Overton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MT Renshaw
+    - 4.6:
+        non_striker: MT Renshaw
+        bowler: J Overton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Bryant
+    - 5.1:
+        non_striker: M Bryant
+        bowler: L Scott
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MT Renshaw
+    - 5.2:
+        non_striker: MT Renshaw
+        bowler: L Scott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Bryant
+    - 5.3:
+        non_striker: MT Renshaw
+        bowler: L Scott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Bryant
+        wicket:
+          player_out: MT Renshaw
+          fielders:
+          - CA Lynn
+          kind: run out
+    - 5.4:
+        non_striker: M Bryant
+        bowler: L Scott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HD Weibgen
+    - 5.5:
+        non_striker: M Bryant
+        bowler: L Scott
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HD Weibgen
+    - 5.6:
+        non_striker: HD Weibgen
+        bowler: L Scott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Bryant
+        wicket:
+          player_out: M Bryant
+          fielders:
+          - MW Harvey
+          kind: caught
+    - 6.1:
+        non_striker: JJ Peirson
+        bowler: J Overton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HD Weibgen
+    - 6.2:
+        non_striker: JJ Peirson
+        bowler: J Overton
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: HD Weibgen
+    - 6.3:
+        non_striker: JJ Peirson
+        bowler: J Overton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HD Weibgen
+    - 6.4:
+        non_striker: HD Weibgen
+        bowler: J Overton
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: JJ Peirson
+    - 6.5:
+        non_striker: HD Weibgen
+        bowler: J Overton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Peirson
+    - 6.6:
+        non_striker: JJ Peirson
+        bowler: J Overton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HD Weibgen
+    - 6.7:
+        non_striker: HD Weibgen
+        bowler: J Overton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Peirson
+    - 6.8:
+        non_striker: JJ Peirson
+        bowler: J Overton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HD Weibgen
+    - 7.1:
+        non_striker: JJ Peirson
+        bowler: L Scott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HD Weibgen
+    - 7.2:
+        non_striker: JJ Peirson
+        bowler: L Scott
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: HD Weibgen
+    - 7.3:
+        non_striker: JJ Peirson
+        bowler: L Scott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HD Weibgen
+    - 7.4:
+        non_striker: JJ Peirson
+        bowler: L Scott
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HD Weibgen
+    - 7.5:
+        non_striker: HD Weibgen
+        bowler: L Scott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Peirson
+    - 7.6:
+        non_striker: HD Weibgen
+        bowler: L Scott
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Peirson
+    - 7.7:
+        non_striker: JJ Peirson
+        bowler: L Scott
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HD Weibgen
+    - 8.1:
+        non_striker: JJ Peirson
+        bowler: Hasan Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HD Weibgen
+    - 8.2:
+        non_striker: HD Weibgen
+        bowler: Hasan Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Peirson
+    - 8.3:
+        non_striker: HD Weibgen
+        bowler: Hasan Ali
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JJ Peirson
+    - 8.4:
+        non_striker: HD Weibgen
+        bowler: Hasan Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Peirson
+    - 8.5:
+        non_striker: JJ Peirson
+        bowler: Hasan Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HD Weibgen
+    - 8.6:
+        non_striker: HD Weibgen
+        bowler: Hasan Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Peirson
+    - 9.1:
+        non_striker: HD Weibgen
+        bowler: L Pope
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Peirson
+    - 9.2:
+        non_striker: JJ Peirson
+        bowler: L Pope
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HD Weibgen
+    - 9.3:
+        non_striker: HD Weibgen
+        bowler: L Pope
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Peirson
+    - 9.4:
+        non_striker: JJ Peirson
+        bowler: L Pope
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HD Weibgen
+    - 9.5:
+        non_striker: JJ Peirson
+        bowler: L Pope
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HD Weibgen
+    - 9.6:
+        non_striker: HD Weibgen
+        bowler: L Pope
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JJ Peirson
+    - 10.1:
+        non_striker: JJ Peirson
+        bowler: Hasan Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HD Weibgen
+    - 10.2:
+        non_striker: HD Weibgen
+        bowler: Hasan Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Peirson
+        wicket:
+          player_out: JJ Peirson
+          kind: bowled
+    - 10.3:
+        non_striker: HD Weibgen
+        bowler: Hasan Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: XC Bartlett
+    - 10.4:
+        non_striker: HD Weibgen
+        bowler: Hasan Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: XC Bartlett
+    - 10.5:
+        non_striker: HD Weibgen
+        bowler: Hasan Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: XC Bartlett
+    - 10.6:
+        non_striker: HD Weibgen
+        bowler: Hasan Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: XC Bartlett
+    - 11.1:
+        non_striker: HD Weibgen
+        bowler: L Pope
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: XC Bartlett
+    - 11.2:
+        non_striker: XC Bartlett
+        bowler: L Pope
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HD Weibgen
+    - 11.3:
+        non_striker: HD Weibgen
+        bowler: L Pope
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: XC Bartlett
+    - 11.4:
+        non_striker: HD Weibgen
+        bowler: L Pope
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: XC Bartlett
+    - 11.5:
+        non_striker: HD Weibgen
+        bowler: L Pope
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: XC Bartlett
+    - 11.6:
+        non_striker: HD Weibgen
+        bowler: L Pope
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: XC Bartlett
+    - 12.1:
+        non_striker: HD Weibgen
+        bowler: J Overton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: XC Bartlett
+        wicket:
+          player_out: XC Bartlett
+          fielders:
+          - L Pope
+          kind: caught
+    - 12.2:
+        non_striker: HD Weibgen
+        bowler: J Overton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Kuhnemann
+    - 12.3:
+        non_striker: HD Weibgen
+        bowler: J Overton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Kuhnemann
+    - 12.4:
+        non_striker: HD Weibgen
+        bowler: J Overton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP Kuhnemann
+    - 12.5:
+        non_striker: MP Kuhnemann
+        bowler: J Overton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HD Weibgen
+    - 12.6:
+        non_striker: MP Kuhnemann
+        bowler: J Overton
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HD Weibgen
+    - 13.1:
+        non_striker: HD Weibgen
+        bowler: L Wood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP Kuhnemann
+    - 13.2:
+        non_striker: MP Kuhnemann
+        bowler: L Wood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HD Weibgen
+    - 13.3:
+        non_striker: MP Kuhnemann
+        bowler: L Wood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HD Weibgen
+    - 13.4:
+        non_striker: MP Kuhnemann
+        bowler: L Wood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HD Weibgen
+    - 13.5:
+        non_striker: MP Kuhnemann
+        bowler: L Wood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HD Weibgen
+    - 13.6:
+        non_striker: HD Weibgen
+        bowler: L Wood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Kuhnemann
+    - 14.1:
+        non_striker: MP Kuhnemann
+        bowler: Hasan Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HD Weibgen
+    - 14.2:
+        non_striker: HD Weibgen
+        bowler: Hasan Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP Kuhnemann
+    - 14.3:
+        non_striker: MP Kuhnemann
+        bowler: Hasan Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HD Weibgen
+    - 14.4:
+        non_striker: HD Weibgen
+        bowler: Hasan Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP Kuhnemann
+    - 14.5:
+        non_striker: MP Kuhnemann
+        bowler: Hasan Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HD Weibgen
+    - 14.6:
+        non_striker: MP Kuhnemann
+        bowler: Hasan Ali
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: HD Weibgen
+    - 15.1:
+        non_striker: HD Weibgen
+        bowler: L Pope
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Kuhnemann
+    - 15.2:
+        non_striker: HD Weibgen
+        bowler: L Pope
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP Kuhnemann
+    - 15.3:
+        non_striker: MP Kuhnemann
+        bowler: L Pope
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HD Weibgen
+    - 15.4:
+        non_striker: MP Kuhnemann
+        bowler: L Pope
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HD Weibgen
+    - 15.5:
+        non_striker: HD Weibgen
+        bowler: L Pope
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MP Kuhnemann
+    - 15.6:
+        non_striker: HD Weibgen
+        bowler: L Pope
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MP Kuhnemann
+    - 16.1:
+        non_striker: MP Kuhnemann
+        bowler: J Overton
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: HD Weibgen
+    - 16.2:
+        non_striker: MP Kuhnemann
+        bowler: J Overton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HD Weibgen
+    - 16.3:
+        non_striker: MP Kuhnemann
+        bowler: J Overton
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: HD Weibgen
+    - 16.4:
+        non_striker: MP Kuhnemann
+        bowler: J Overton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HD Weibgen
+    - 16.5:
+        non_striker: MP Kuhnemann
+        bowler: J Overton
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: HD Weibgen
+    - 16.6:
+        non_striker: MP Kuhnemann
+        bowler: J Overton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HD Weibgen
+    - 16.7:
+        non_striker: MP Kuhnemann
+        bowler: J Overton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HD Weibgen
+        wicket:
+          player_out: HD Weibgen
+          fielders:
+          - MW Harvey
+          kind: caught
+    - 16.8:
+        non_striker: MP Kuhnemann
+        bowler: J Overton
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Thomas Balkin
+    - 16.9:
+        non_striker: MP Kuhnemann
+        bowler: J Overton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Thomas Balkin
+    - 16.10:
+        non_striker: MP Kuhnemann
+        bowler: J Overton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Thomas Balkin
+    - 17.1:
+        non_striker: MP Kuhnemann
+        bowler: Hasan Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Thomas Balkin
+        wicket:
+          player_out: Thomas Balkin
+          kind: bowled
+    - 17.2:
+        non_striker: MP Kuhnemann
+        bowler: Hasan Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: O Patterson
+    - 17.3:
+        non_striker: O Patterson
+        bowler: Hasan Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Kuhnemann
+    - 17.4:
+        non_striker: O Patterson
+        bowler: Hasan Ali
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MP Kuhnemann
+    - 17.5:
+        non_striker: O Patterson
+        bowler: Hasan Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Kuhnemann
+    - 17.6:
+        non_striker: O Patterson
+        bowler: Hasan Ali
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MP Kuhnemann
+    - 18.1:
+        non_striker: MP Kuhnemann
+        bowler: L Wood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Patterson
+    - 18.2:
+        non_striker: MP Kuhnemann
+        bowler: L Wood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: O Patterson
+    - 18.3:
+        non_striker: O Patterson
+        bowler: L Wood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Kuhnemann
+    - 18.4:
+        non_striker: O Patterson
+        bowler: L Wood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Kuhnemann
+    - 18.5:
+        non_striker: O Patterson
+        bowler: L Wood
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MP Kuhnemann
+    - 18.6:
+        non_striker: O Patterson
+        bowler: L Wood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP Kuhnemann
+    - 19.1:
+        non_striker: O Patterson
+        bowler: MW Short
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Kuhnemann
+    - 19.2:
+        non_striker: O Patterson
+        bowler: MW Short
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Kuhnemann
+    - 19.3:
+        non_striker: O Patterson
+        bowler: MW Short
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP Kuhnemann
+    - 19.4:
+        non_striker: MP Kuhnemann
+        bowler: MW Short
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Patterson
+        wicket:
+          player_out: O Patterson
+          fielders:
+          - HJ Manenti
+          kind: caught
+- 2nd innings:
+    team: Adelaide Strikers
+    deliveries:
+    - 0.1:
+        non_striker: CA Lynn
+        bowler: O Patterson
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MW Short
+    - 0.2:
+        non_striker: CA Lynn
+        bowler: O Patterson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MW Short
+    - 0.3:
+        non_striker: CA Lynn
+        bowler: O Patterson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MW Short
+    - 0.4:
+        non_striker: CA Lynn
+        bowler: O Patterson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MW Short
+    - 0.5:
+        non_striker: MW Short
+        bowler: O Patterson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CA Lynn
+    - 0.6:
+        non_striker: CA Lynn
+        bowler: O Patterson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MW Short
+    - 0.7:
+        non_striker: CA Lynn
+        bowler: O Patterson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MW Short
+    - 1.1:
+        non_striker: MW Short
+        bowler: XC Bartlett
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: CA Lynn
+    - 1.2:
+        non_striker: MW Short
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CA Lynn
+    - 1.3:
+        non_striker: MW Short
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: CA Lynn
+    - 1.4:
+        non_striker: MW Short
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CA Lynn
+    - 1.5:
+        non_striker: CA Lynn
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MW Short
+    - 1.6:
+        non_striker: CA Lynn
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MW Short
+    - 1.7:
+        non_striker: CA Lynn
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MW Short
+    - 2.1:
+        non_striker: CA Lynn
+        bowler: JD Wildermuth
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MW Short
+    - 2.2:
+        non_striker: CA Lynn
+        bowler: JD Wildermuth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MW Short
+    - 2.3:
+        non_striker: CA Lynn
+        bowler: JD Wildermuth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MW Short
+    - 2.4:
+        non_striker: CA Lynn
+        bowler: JD Wildermuth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MW Short
+    - 2.5:
+        non_striker: CA Lynn
+        bowler: JD Wildermuth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MW Short
+    - 2.6:
+        non_striker: CA Lynn
+        bowler: JD Wildermuth
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MW Short
+    - 2.7:
+        non_striker: MW Short
+        bowler: JD Wildermuth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Lynn
+    - 3.1:
+        non_striker: CA Lynn
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MW Short
+    - 3.2:
+        non_striker: CA Lynn
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MW Short
+    - 3.3:
+        non_striker: CA Lynn
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MW Short
+    - 3.4:
+        non_striker: CA Lynn
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MW Short
+    - 3.5:
+        non_striker: CA Lynn
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: MW Short
+    - 3.6:
+        non_striker: MW Short
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: CA Lynn
+    - 4.1:
+        non_striker: CA Lynn
+        bowler: JD Wildermuth
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: MW Short
+    - 4.2:
+        non_striker: MW Short
+        bowler: JD Wildermuth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Lynn
+    - 4.3:
+        non_striker: MW Short
+        bowler: JD Wildermuth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Lynn
+    - 4.4:
+        non_striker: MW Short
+        bowler: JD Wildermuth
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CA Lynn
+    - 4.5:
+        non_striker: MW Short
+        bowler: JD Wildermuth
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CA Lynn
+    - 4.6:
+        non_striker: CA Lynn
+        bowler: JD Wildermuth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MW Short
+    - 5.1:
+        non_striker: MW Short
+        bowler: Thomas Balkin
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: CA Lynn
+    - 5.2:
+        non_striker: MW Short
+        bowler: Thomas Balkin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Lynn
+    - 5.3:
+        non_striker: MW Short
+        bowler: Thomas Balkin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Lynn
+    - 5.4:
+        non_striker: MW Short
+        bowler: Thomas Balkin
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: CA Lynn
+    - 5.5:
+        non_striker: CA Lynn
+        bowler: Thomas Balkin
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MW Short
+    - 5.6:
+        non_striker: CA Lynn
+        bowler: Thomas Balkin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MW Short
+    - 5.7:
+        non_striker: CA Lynn
+        bowler: Thomas Balkin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MW Short
+    - 6.1:
+        non_striker: CA Lynn
+        bowler: MP Kuhnemann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MW Short
+    - 6.2:
+        non_striker: CA Lynn
+        bowler: MP Kuhnemann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MW Short
+    - 6.3:
+        non_striker: MW Short
+        bowler: MP Kuhnemann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Lynn
+    - 6.4:
+        non_striker: MW Short
+        bowler: MP Kuhnemann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CA Lynn
+    - 6.5:
+        non_striker: CA Lynn
+        bowler: MP Kuhnemann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MW Short
+    - 6.6:
+        non_striker: MW Short
+        bowler: MP Kuhnemann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Lynn
+    - 7.1:
+        non_striker: CA Lynn
+        bowler: O Patterson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MW Short
+        wicket:
+          player_out: MW Short
+          fielders:
+          - MP Kuhnemann
+          kind: caught
+    - 7.2:
+        non_striker: CA Lynn
+        bowler: O Patterson
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MW Harvey
+    - 7.3:
+        non_striker: CA Lynn
+        bowler: O Patterson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MW Harvey
+    - 7.4:
+        non_striker: CA Lynn
+        bowler: O Patterson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MW Harvey
+    - 7.5:
+        non_striker: CA Lynn
+        bowler: O Patterson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MW Harvey
+    - 7.6:
+        non_striker: CA Lynn
+        bowler: O Patterson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MW Harvey
+    - 7.7:
+        non_striker: MW Harvey
+        bowler: O Patterson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CA Lynn
+    - 8.1:
+        non_striker: CA Lynn
+        bowler: MP Kuhnemann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MW Harvey
+    - 8.2:
+        non_striker: MW Harvey
+        bowler: MP Kuhnemann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Lynn
+    - 8.3:
+        non_striker: MW Harvey
+        bowler: MP Kuhnemann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Lynn
+    - 8.4:
+        non_striker: MW Harvey
+        bowler: MP Kuhnemann
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CA Lynn
+    - 8.5:
+        non_striker: MW Harvey
+        bowler: MP Kuhnemann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Lynn
+    - 8.6:
+        non_striker: MW Harvey
+        bowler: MP Kuhnemann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Lynn
+    - 9.1:
+        non_striker: CA Lynn
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MW Harvey
+    - 9.2:
+        non_striker: MW Harvey
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Lynn
+    - 9.3:
+        non_striker: MW Harvey
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CA Lynn
+    - 9.4:
+        non_striker: CA Lynn
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MW Harvey
+    - 9.5:
+        non_striker: CA Lynn
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MW Harvey
+    - 9.6:
+        non_striker: MW Harvey
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CA Lynn
+    - 10.1:
+        non_striker: CA Lynn
+        bowler: JD Wildermuth
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MW Harvey
+    - 10.2:
+        non_striker: MW Harvey
+        bowler: JD Wildermuth
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CA Lynn
+    - 10.3:
+        non_striker: MW Harvey
+        bowler: JD Wildermuth
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CA Lynn
+    - 10.4:
+        non_striker: MW Harvey
+        bowler: JD Wildermuth
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CA Lynn
+    - 10.5:
+        non_striker: MW Harvey
+        bowler: JD Wildermuth
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CA Lynn
+    - 10.6:
+        non_striker: MW Harvey
+        bowler: JD Wildermuth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Lynn
+    - 11.1:
+        non_striker: CA Lynn
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MW Harvey
+    - 11.2:
+        non_striker: CA Lynn
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MW Harvey
+        wicket:
+          player_out: MW Harvey
+          fielders:
+          - HD Weibgen
+          kind: caught
+    - 11.3:
+        non_striker: CA Lynn
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Wadia
+    - 11.4:
+        non_striker: J Wadia
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Lynn
+    - 11.5:
+        non_striker: J Wadia
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CA Lynn
+    - 11.6:
+        non_striker: J Wadia
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CA Lynn
+    - 12.1:
+        non_striker: CA Lynn
+        bowler: Thomas Balkin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Wadia
+        wicket:
+          player_out: J Wadia
+          kind: caught and bowled
+    - 12.2:
+        non_striker: CA Lynn
+        bowler: Thomas Balkin
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: L Scott
+    - 12.3:
+        non_striker: CA Lynn
+        bowler: Thomas Balkin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Scott
+    - 12.4:
+        non_striker: CA Lynn
+        bowler: Thomas Balkin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Scott
+    - 12.5:
+        non_striker: L Scott
+        bowler: Thomas Balkin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CA Lynn
+    - 12.6:
+        non_striker: CA Lynn
+        bowler: Thomas Balkin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Scott
+    - 12.7:
+        non_striker: L Scott
+        bowler: Thomas Balkin
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: CA Lynn
+    - 12.8:
+        non_striker: L Scott
+        bowler: Thomas Balkin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CA Lynn
+    - 13.1:
+        non_striker: L Scott
+        bowler: MP Kuhnemann
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: CA Lynn
+    - 13.2:
+        non_striker: L Scott
+        bowler: MP Kuhnemann
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: CA Lynn
+    - 13.3:
+        non_striker: L Scott
+        bowler: MP Kuhnemann
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: CA Lynn
+    - 13.4:
+        non_striker: L Scott
+        bowler: MP Kuhnemann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Lynn
+    - 13.5:
+        non_striker: L Scott
+        bowler: MP Kuhnemann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CA Lynn
+    - 13.6:
+        non_striker: CA Lynn
+        bowler: MP Kuhnemann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Scott
+    - 14.1:
+        non_striker: CA Lynn
+        bowler: MT Renshaw
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Scott

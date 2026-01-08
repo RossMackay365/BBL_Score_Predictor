@@ -1,0 +1,2177 @@
+---
+meta:
+  data_version: 0.92
+  created: '2026-01-02'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Brisbane
+  competition: Big Bash League
+  dates:
+  - '2026-01-02'
+  gender: male
+  match_type: T20
+  outcome:
+    winner: Brisbane Heat
+    by:
+      wickets: 4
+  overs: 20
+  player_of_match:
+  - M Bryant
+  players:
+    Melbourne Stars:
+    - SB Harper
+    - TF Rogers
+    - MP Stoinis
+    - C Kellaway
+    - GJ Maxwell
+    - HWR Cartwright
+    - TK Curran
+    - BD Macdonald
+    - MJ Swepson
+    - Haris Rauf
+    - PM Siddle
+    Brisbane Heat:
+    - JD Wildermuth
+    - C Munro
+    - NA McSweeney
+    - MT Renshaw
+    - M Bryant
+    - HD Weibgen
+    - JJ Peirson
+    - XC Bartlett
+    - MP Kuhnemann
+    - Thomas Balkin
+    - O Patterson
+  registry:
+    people:
+      BD Macdonald: 28147cdc
+      C Kellaway: 60c28835
+      C Munro: af2c687b
+      GA Abood: a4af5528
+      GJ Maxwell: b681e71e
+      HD Weibgen: 2535b30f
+      HWR Cartwright: ab965cad
+      Haris Rauf: 24bb1c2f
+      J Broadbent: f3266bb5
+      JD Wildermuth: f1c61793
+      JJ Peirson: 2b55c3b4
+      M Bryant: f32012f4
+      MH Wessels: 90f47cf2
+      MJ Swepson: 86b4bf88
+      MP Kuhnemann: 7b953689
+      MP Stoinis: d9273ee7
+      MT Renshaw: 218d4d78
+      NA McSweeney: e94d2d50
+      O Patterson: '069a5170'
+      PM Siddle: bd93fea4
+      Roberto Howard: eec90c4b
+      SB Harper: a756e61a
+      TF Rogers: 7f232d46
+      TK Curran: e86754b2
+      Thomas Balkin: 61c4f340
+      Troy Penman: 0aa42c26
+      XC Bartlett: 3b53243a
+  teams:
+  - Melbourne Stars
+  - Brisbane Heat
+  toss:
+    winner: Brisbane Heat
+    decision: field
+  umpires:
+  - Roberto Howard
+  - Troy Penman
+  venue: Brisbane Cricket Ground, Woolloongabba, Brisbane
+innings:
+- 1st innings:
+    team: Melbourne Stars
+    deliveries:
+    - 0.1:
+        non_striker: TF Rogers
+        bowler: JD Wildermuth
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SB Harper
+    - 0.2:
+        non_striker: TF Rogers
+        bowler: JD Wildermuth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SB Harper
+    - 0.3:
+        non_striker: TF Rogers
+        bowler: JD Wildermuth
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SB Harper
+    - 0.4:
+        non_striker: TF Rogers
+        bowler: JD Wildermuth
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SB Harper
+    - 0.5:
+        non_striker: TF Rogers
+        bowler: JD Wildermuth
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SB Harper
+    - 0.6:
+        non_striker: TF Rogers
+        bowler: JD Wildermuth
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SB Harper
+    - 0.7:
+        non_striker: SB Harper
+        bowler: JD Wildermuth
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TF Rogers
+    - 1.1:
+        non_striker: TF Rogers
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SB Harper
+    - 1.2:
+        non_striker: SB Harper
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TF Rogers
+    - 1.3:
+        non_striker: TF Rogers
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SB Harper
+    - 1.4:
+        non_striker: TF Rogers
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SB Harper
+    - 1.5:
+        non_striker: TF Rogers
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SB Harper
+    - 1.6:
+        non_striker: TF Rogers
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SB Harper
+    - 2.1:
+        non_striker: TF Rogers
+        bowler: O Patterson
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: SB Harper
+    - 2.2:
+        non_striker: SB Harper
+        bowler: O Patterson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TF Rogers
+    - 2.3:
+        non_striker: SB Harper
+        bowler: O Patterson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TF Rogers
+    - 2.4:
+        non_striker: TF Rogers
+        bowler: O Patterson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SB Harper
+    - 2.5:
+        non_striker: SB Harper
+        bowler: O Patterson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TF Rogers
+    - 2.6:
+        non_striker: TF Rogers
+        bowler: O Patterson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SB Harper
+    - 3.1:
+        non_striker: TF Rogers
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SB Harper
+    - 3.2:
+        non_striker: TF Rogers
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SB Harper
+    - 3.3:
+        non_striker: TF Rogers
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SB Harper
+    - 3.4:
+        non_striker: TF Rogers
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SB Harper
+    - 3.5:
+        non_striker: SB Harper
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TF Rogers
+    - 3.6:
+        non_striker: SB Harper
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TF Rogers
+    - 4.1:
+        non_striker: TF Rogers
+        bowler: MP Kuhnemann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SB Harper
+    - 4.2:
+        non_striker: TF Rogers
+        bowler: MP Kuhnemann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SB Harper
+    - 4.3:
+        non_striker: TF Rogers
+        bowler: MP Kuhnemann
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SB Harper
+    - 4.4:
+        non_striker: TF Rogers
+        bowler: MP Kuhnemann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SB Harper
+    - 4.5:
+        non_striker: TF Rogers
+        bowler: MP Kuhnemann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SB Harper
+    - 4.6:
+        non_striker: SB Harper
+        bowler: MP Kuhnemann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TF Rogers
+    - 5.1:
+        non_striker: SB Harper
+        bowler: Thomas Balkin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TF Rogers
+    - 5.2:
+        non_striker: SB Harper
+        bowler: Thomas Balkin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TF Rogers
+    - 5.3:
+        non_striker: TF Rogers
+        bowler: Thomas Balkin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SB Harper
+        wicket:
+          player_out: SB Harper
+          fielders:
+          - JD Wildermuth
+          kind: caught
+    - 5.4:
+        non_striker: TF Rogers
+        bowler: Thomas Balkin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Stoinis
+    - 5.5:
+        non_striker: TF Rogers
+        bowler: Thomas Balkin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Stoinis
+    - 5.6:
+        non_striker: TF Rogers
+        bowler: Thomas Balkin
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MP Stoinis
+    - 6.1:
+        non_striker: MP Stoinis
+        bowler: MT Renshaw
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TF Rogers
+    - 6.2:
+        non_striker: MP Stoinis
+        bowler: MT Renshaw
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TF Rogers
+        wicket:
+          player_out: TF Rogers
+          kind: bowled
+    - 6.3:
+        non_striker: MP Stoinis
+        bowler: MT Renshaw
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Kellaway
+    - 6.4:
+        non_striker: C Kellaway
+        bowler: MT Renshaw
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP Stoinis
+    - 6.5:
+        non_striker: MP Stoinis
+        bowler: MT Renshaw
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Kellaway
+    - 6.6:
+        non_striker: C Kellaway
+        bowler: MT Renshaw
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP Stoinis
+    - 7.1:
+        non_striker: C Kellaway
+        bowler: O Patterson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Stoinis
+    - 7.2:
+        non_striker: C Kellaway
+        bowler: O Patterson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Stoinis
+    - 7.3:
+        non_striker: C Kellaway
+        bowler: O Patterson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Stoinis
+    - 7.4:
+        non_striker: C Kellaway
+        bowler: O Patterson
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: MP Stoinis
+    - 7.5:
+        non_striker: MP Stoinis
+        bowler: O Patterson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Kellaway
+    - 7.6:
+        non_striker: MP Stoinis
+        bowler: O Patterson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Kellaway
+    - 8.1:
+        non_striker: C Kellaway
+        bowler: MT Renshaw
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP Stoinis
+    - 8.2:
+        non_striker: MP Stoinis
+        bowler: MT Renshaw
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Kellaway
+    - 8.3:
+        non_striker: C Kellaway
+        bowler: MT Renshaw
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MP Stoinis
+    - 8.4:
+        non_striker: C Kellaway
+        bowler: MT Renshaw
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP Stoinis
+    - 8.5:
+        non_striker: MP Stoinis
+        bowler: MT Renshaw
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Kellaway
+    - 8.6:
+        non_striker: C Kellaway
+        bowler: MT Renshaw
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP Stoinis
+    - 9.1:
+        non_striker: C Kellaway
+        bowler: MP Kuhnemann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Stoinis
+    - 9.2:
+        non_striker: C Kellaway
+        bowler: MP Kuhnemann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP Stoinis
+    - 9.3:
+        non_striker: MP Stoinis
+        bowler: MP Kuhnemann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Kellaway
+    - 9.4:
+        non_striker: C Kellaway
+        bowler: MP Kuhnemann
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MP Stoinis
+    - 9.5:
+        non_striker: C Kellaway
+        bowler: MP Kuhnemann
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MP Stoinis
+    - 9.6:
+        non_striker: C Kellaway
+        bowler: MP Kuhnemann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Stoinis
+    - 10.1:
+        non_striker: MP Stoinis
+        bowler: JD Wildermuth
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Kellaway
+    - 10.2:
+        non_striker: MP Stoinis
+        bowler: JD Wildermuth
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Kellaway
+    - 10.3:
+        non_striker: MP Stoinis
+        bowler: JD Wildermuth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Kellaway
+    - 10.4:
+        non_striker: MP Stoinis
+        bowler: JD Wildermuth
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Kellaway
+    - 10.5:
+        non_striker: MP Stoinis
+        bowler: JD Wildermuth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Kellaway
+    - 10.6:
+        non_striker: MP Stoinis
+        bowler: JD Wildermuth
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Kellaway
+    - 11.1:
+        non_striker: C Kellaway
+        bowler: Thomas Balkin
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MP Stoinis
+    - 11.2:
+        non_striker: C Kellaway
+        bowler: Thomas Balkin
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MP Stoinis
+    - 11.3:
+        non_striker: C Kellaway
+        bowler: Thomas Balkin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP Stoinis
+    - 11.4:
+        non_striker: MP Stoinis
+        bowler: Thomas Balkin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Kellaway
+        wicket:
+          player_out: C Kellaway
+          fielders:
+          - M Bryant
+          kind: caught
+    - 11.5:
+        non_striker: MP Stoinis
+        bowler: Thomas Balkin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GJ Maxwell
+    - 11.6:
+        non_striker: GJ Maxwell
+        bowler: Thomas Balkin
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MP Stoinis
+    - 12.1:
+        non_striker: MP Stoinis
+        bowler: MP Kuhnemann
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: GJ Maxwell
+    - 12.2:
+        non_striker: MP Stoinis
+        bowler: MP Kuhnemann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GJ Maxwell
+        wicket:
+          player_out: GJ Maxwell
+          fielders:
+          - JJ Peirson
+          kind: caught
+    - 12.3:
+        non_striker: MP Stoinis
+        bowler: MP Kuhnemann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HWR Cartwright
+    - 12.4:
+        non_striker: HWR Cartwright
+        bowler: MP Kuhnemann
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MP Stoinis
+    - 12.5:
+        non_striker: HWR Cartwright
+        bowler: MP Kuhnemann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Stoinis
+    - 12.6:
+        non_striker: HWR Cartwright
+        bowler: MP Kuhnemann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP Stoinis
+    - 12.7:
+        non_striker: MP Stoinis
+        bowler: MP Kuhnemann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HWR Cartwright
+    - 13.1:
+        non_striker: MP Stoinis
+        bowler: Thomas Balkin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HWR Cartwright
+    - 13.2:
+        non_striker: HWR Cartwright
+        bowler: Thomas Balkin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Stoinis
+    - 13.3:
+        non_striker: HWR Cartwright
+        bowler: Thomas Balkin
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MP Stoinis
+    - 13.4:
+        non_striker: HWR Cartwright
+        bowler: Thomas Balkin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Stoinis
+    - 13.5:
+        non_striker: HWR Cartwright
+        bowler: Thomas Balkin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP Stoinis
+    - 13.6:
+        non_striker: MP Stoinis
+        bowler: Thomas Balkin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HWR Cartwright
+    - 14.1:
+        non_striker: HWR Cartwright
+        bowler: MP Kuhnemann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Stoinis
+    - 14.2:
+        non_striker: HWR Cartwright
+        bowler: MP Kuhnemann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Stoinis
+    - 14.3:
+        non_striker: HWR Cartwright
+        bowler: MP Kuhnemann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Stoinis
+    - 14.4:
+        non_striker: HWR Cartwright
+        bowler: MP Kuhnemann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP Stoinis
+    - 14.5:
+        non_striker: MP Stoinis
+        bowler: MP Kuhnemann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HWR Cartwright
+    - 14.6:
+        non_striker: MP Stoinis
+        bowler: MP Kuhnemann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HWR Cartwright
+    - 15.1:
+        non_striker: MP Stoinis
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HWR Cartwright
+    - 15.2:
+        non_striker: MP Stoinis
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HWR Cartwright
+    - 15.3:
+        non_striker: HWR Cartwright
+        bowler: XC Bartlett
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MP Stoinis
+    - 15.4:
+        non_striker: HWR Cartwright
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP Stoinis
+    - 15.5:
+        non_striker: MP Stoinis
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HWR Cartwright
+    - 15.6:
+        non_striker: HWR Cartwright
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Stoinis
+        wicket:
+          player_out: MP Stoinis
+          fielders:
+          - Thomas Balkin
+          kind: caught
+    - 15.7:
+        non_striker: HWR Cartwright
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TK Curran
+    - 16.1:
+        non_striker: TK Curran
+        bowler: O Patterson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HWR Cartwright
+    - 16.2:
+        non_striker: HWR Cartwright
+        bowler: O Patterson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TK Curran
+        wicket:
+          player_out: TK Curran
+          fielders:
+          - C Munro
+          kind: caught
+    - 16.3:
+        non_striker: HWR Cartwright
+        bowler: O Patterson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BD Macdonald
+    - 16.4:
+        non_striker: HWR Cartwright
+        bowler: O Patterson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BD Macdonald
+    - 16.5:
+        non_striker: BD Macdonald
+        bowler: O Patterson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HWR Cartwright
+    - 16.6:
+        non_striker: BD Macdonald
+        bowler: O Patterson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HWR Cartwright
+    - 17.1:
+        non_striker: BD Macdonald
+        bowler: Thomas Balkin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HWR Cartwright
+    - 17.2:
+        non_striker: BD Macdonald
+        bowler: Thomas Balkin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HWR Cartwright
+    - 17.3:
+        non_striker: HWR Cartwright
+        bowler: Thomas Balkin
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BD Macdonald
+    - 17.4:
+        non_striker: HWR Cartwright
+        bowler: Thomas Balkin
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: BD Macdonald
+    - 17.5:
+        non_striker: BD Macdonald
+        bowler: Thomas Balkin
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          legbyes: 2
+        batsman: HWR Cartwright
+    - 17.6:
+        non_striker: BD Macdonald
+        bowler: Thomas Balkin
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HWR Cartwright
+    - 18.1:
+        non_striker: HWR Cartwright
+        bowler: O Patterson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BD Macdonald
+    - 18.2:
+        non_striker: HWR Cartwright
+        bowler: O Patterson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BD Macdonald
+    - 18.3:
+        non_striker: HWR Cartwright
+        bowler: O Patterson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BD Macdonald
+    - 18.4:
+        non_striker: HWR Cartwright
+        bowler: O Patterson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BD Macdonald
+    - 18.5:
+        non_striker: HWR Cartwright
+        bowler: O Patterson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BD Macdonald
+    - 18.6:
+        non_striker: HWR Cartwright
+        bowler: O Patterson
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: BD Macdonald
+    - 19.1:
+        non_striker: BD Macdonald
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: HWR Cartwright
+    - 19.2:
+        non_striker: BD Macdonald
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HWR Cartwright
+    - 19.3:
+        non_striker: HWR Cartwright
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: BD Macdonald
+    - 19.4:
+        non_striker: HWR Cartwright
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BD Macdonald
+    - 19.5:
+        non_striker: BD Macdonald
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HWR Cartwright
+    - 19.6:
+        non_striker: BD Macdonald
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: HWR Cartwright
+- 2nd innings:
+    team: Brisbane Heat
+    deliveries:
+    - 0.1:
+        non_striker: C Munro
+        bowler: GJ Maxwell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JD Wildermuth
+    - 0.2:
+        non_striker: C Munro
+        bowler: GJ Maxwell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JD Wildermuth
+    - 0.3:
+        non_striker: C Munro
+        bowler: GJ Maxwell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JD Wildermuth
+    - 0.4:
+        non_striker: JD Wildermuth
+        bowler: GJ Maxwell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Munro
+    - 0.5:
+        non_striker: JD Wildermuth
+        bowler: GJ Maxwell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Munro
+    - 0.6:
+        non_striker: C Munro
+        bowler: GJ Maxwell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JD Wildermuth
+    - 1.1:
+        non_striker: JD Wildermuth
+        bowler: TK Curran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Munro
+    - 1.2:
+        non_striker: JD Wildermuth
+        bowler: TK Curran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Munro
+    - 1.3:
+        non_striker: C Munro
+        bowler: TK Curran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JD Wildermuth
+    - 1.4:
+        non_striker: C Munro
+        bowler: TK Curran
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JD Wildermuth
+    - 1.5:
+        non_striker: C Munro
+        bowler: TK Curran
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JD Wildermuth
+    - 1.6:
+        non_striker: C Munro
+        bowler: TK Curran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JD Wildermuth
+    - 2.1:
+        non_striker: C Munro
+        bowler: PM Siddle
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JD Wildermuth
+    - 2.2:
+        non_striker: JD Wildermuth
+        bowler: PM Siddle
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Munro
+    - 2.3:
+        non_striker: C Munro
+        bowler: PM Siddle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JD Wildermuth
+        wicket:
+          player_out: JD Wildermuth
+          fielders:
+          - HWR Cartwright
+          kind: caught
+    - 2.4:
+        non_striker: C Munro
+        bowler: PM Siddle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NA McSweeney
+    - 2.5:
+        non_striker: C Munro
+        bowler: PM Siddle
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NA McSweeney
+    - 2.6:
+        non_striker: C Munro
+        bowler: PM Siddle
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NA McSweeney
+    - 3.1:
+        non_striker: C Munro
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NA McSweeney
+    - 3.2:
+        non_striker: C Munro
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NA McSweeney
+    - 3.3:
+        non_striker: C Munro
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NA McSweeney
+    - 3.4:
+        non_striker: C Munro
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NA McSweeney
+    - 3.5:
+        non_striker: C Munro
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: NA McSweeney
+    - 3.6:
+        non_striker: C Munro
+        bowler: Haris Rauf
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: NA McSweeney
+    - 3.7:
+        non_striker: C Munro
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NA McSweeney
+    - 4.1:
+        non_striker: NA McSweeney
+        bowler: TK Curran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Munro
+        wicket:
+          player_out: C Munro
+          fielders:
+          - SB Harper
+          kind: caught
+    - 4.2:
+        non_striker: NA McSweeney
+        bowler: TK Curran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MT Renshaw
+    - 4.3:
+        non_striker: MT Renshaw
+        bowler: TK Curran
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NA McSweeney
+    - 4.4:
+        non_striker: MT Renshaw
+        bowler: TK Curran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NA McSweeney
+    - 4.5:
+        non_striker: MT Renshaw
+        bowler: TK Curran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NA McSweeney
+    - 4.6:
+        non_striker: NA McSweeney
+        bowler: TK Curran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MT Renshaw
+    - 5.1:
+        non_striker: NA McSweeney
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MT Renshaw
+    - 5.2:
+        non_striker: MT Renshaw
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NA McSweeney
+    - 5.3:
+        non_striker: MT Renshaw
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NA McSweeney
+    - 5.4:
+        non_striker: MT Renshaw
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: NA McSweeney
+    - 5.5:
+        non_striker: MT Renshaw
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: NA McSweeney
+    - 5.6:
+        non_striker: MT Renshaw
+        bowler: MP Stoinis
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: NA McSweeney
+    - 6.1:
+        non_striker: MT Renshaw
+        bowler: MJ Swepson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NA McSweeney
+    - 6.2:
+        non_striker: NA McSweeney
+        bowler: MJ Swepson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MT Renshaw
+    - 6.3:
+        non_striker: MT Renshaw
+        bowler: MJ Swepson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NA McSweeney
+    - 6.4:
+        non_striker: MT Renshaw
+        bowler: MJ Swepson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NA McSweeney
+    - 6.5:
+        non_striker: NA McSweeney
+        bowler: MJ Swepson
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MT Renshaw
+    - 6.6:
+        non_striker: NA McSweeney
+        bowler: MJ Swepson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MT Renshaw
+    - 6.7:
+        non_striker: NA McSweeney
+        bowler: MJ Swepson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MT Renshaw
+    - 7.1:
+        non_striker: NA McSweeney
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MT Renshaw
+    - 7.2:
+        non_striker: MT Renshaw
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NA McSweeney
+    - 7.3:
+        non_striker: NA McSweeney
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MT Renshaw
+    - 7.4:
+        non_striker: MT Renshaw
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NA McSweeney
+    - 7.5:
+        non_striker: NA McSweeney
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MT Renshaw
+    - 7.6:
+        non_striker: NA McSweeney
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MT Renshaw
+    - 8.1:
+        non_striker: NA McSweeney
+        bowler: GJ Maxwell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MT Renshaw
+    - 8.2:
+        non_striker: MT Renshaw
+        bowler: GJ Maxwell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NA McSweeney
+    - 8.3:
+        non_striker: NA McSweeney
+        bowler: GJ Maxwell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MT Renshaw
+    - 8.4:
+        non_striker: NA McSweeney
+        bowler: GJ Maxwell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MT Renshaw
+    - 8.5:
+        non_striker: MT Renshaw
+        bowler: GJ Maxwell
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: NA McSweeney
+    - 8.6:
+        non_striker: MT Renshaw
+        bowler: GJ Maxwell
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          legbyes: 2
+        batsman: NA McSweeney
+    - 9.1:
+        non_striker: NA McSweeney
+        bowler: TK Curran
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MT Renshaw
+    - 9.2:
+        non_striker: NA McSweeney
+        bowler: TK Curran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MT Renshaw
+    - 9.3:
+        non_striker: MT Renshaw
+        bowler: TK Curran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NA McSweeney
+    - 9.4:
+        non_striker: NA McSweeney
+        bowler: TK Curran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MT Renshaw
+    - 9.5:
+        non_striker: MT Renshaw
+        bowler: TK Curran
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NA McSweeney
+    - 9.6:
+        non_striker: MT Renshaw
+        bowler: TK Curran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NA McSweeney
+    - 10.1:
+        non_striker: NA McSweeney
+        bowler: GJ Maxwell
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MT Renshaw
+    - 10.2:
+        non_striker: NA McSweeney
+        bowler: GJ Maxwell
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MT Renshaw
+    - 10.3:
+        non_striker: NA McSweeney
+        bowler: GJ Maxwell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MT Renshaw
+    - 10.4:
+        non_striker: NA McSweeney
+        bowler: GJ Maxwell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MT Renshaw
+    - 10.5:
+        non_striker: NA McSweeney
+        bowler: GJ Maxwell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MT Renshaw
+    - 10.6:
+        non_striker: NA McSweeney
+        bowler: GJ Maxwell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MT Renshaw
+    - 11.1:
+        non_striker: NA McSweeney
+        bowler: PM Siddle
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MT Renshaw
+    - 11.2:
+        non_striker: MT Renshaw
+        bowler: PM Siddle
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: NA McSweeney
+    - 11.3:
+        non_striker: MT Renshaw
+        bowler: PM Siddle
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NA McSweeney
+    - 11.4:
+        non_striker: NA McSweeney
+        bowler: PM Siddle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MT Renshaw
+    - 11.5:
+        non_striker: NA McSweeney
+        bowler: PM Siddle
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MT Renshaw
+    - 11.6:
+        non_striker: MT Renshaw
+        bowler: PM Siddle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NA McSweeney
+        wicket:
+          player_out: NA McSweeney
+          fielders:
+          - MP Stoinis
+          kind: caught
+    - 12.1:
+        non_striker: M Bryant
+        bowler: MJ Swepson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MT Renshaw
+    - 12.2:
+        non_striker: M Bryant
+        bowler: MJ Swepson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MT Renshaw
+        wicket:
+          player_out: MT Renshaw
+          fielders:
+          - C Kellaway
+          kind: caught
+    - 12.3:
+        non_striker: M Bryant
+        bowler: MJ Swepson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HD Weibgen
+    - 12.4:
+        non_striker: HD Weibgen
+        bowler: MJ Swepson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Bryant
+    - 12.5:
+        non_striker: HD Weibgen
+        bowler: MJ Swepson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Bryant
+    - 12.6:
+        non_striker: M Bryant
+        bowler: MJ Swepson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HD Weibgen
+        wicket:
+          player_out: HD Weibgen
+          fielders:
+          - SB Harper
+          kind: caught
+    - 13.1:
+        non_striker: JJ Peirson
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Bryant
+    - 13.2:
+        non_striker: JJ Peirson
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Bryant
+    - 13.3:
+        non_striker: JJ Peirson
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Bryant
+    - 13.4:
+        non_striker: M Bryant
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Peirson
+    - 13.5:
+        non_striker: M Bryant
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Peirson
+    - 13.6:
+        non_striker: M Bryant
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Peirson
+    - 14.1:
+        non_striker: M Bryant
+        bowler: PM Siddle
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: JJ Peirson
+    - 14.2:
+        non_striker: M Bryant
+        bowler: PM Siddle
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JJ Peirson
+    - 14.3:
+        non_striker: M Bryant
+        bowler: PM Siddle
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JJ Peirson
+    - 14.4:
+        non_striker: M Bryant
+        bowler: PM Siddle
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Peirson
+    - 14.5:
+        non_striker: JJ Peirson
+        bowler: PM Siddle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Bryant
+    - 14.6:
+        non_striker: JJ Peirson
+        bowler: PM Siddle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Bryant
+    - 14.7:
+        non_striker: JJ Peirson
+        bowler: PM Siddle
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Bryant
+    - 15.1:
+        non_striker: JJ Peirson
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: M Bryant
+    - 15.2:
+        non_striker: JJ Peirson
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Bryant
+    - 15.3:
+        non_striker: M Bryant
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JJ Peirson
+    - 15.4:
+        non_striker: M Bryant
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Peirson
+        wicket:
+          player_out: JJ Peirson
+          fielders:
+          - TK Curran
+          kind: caught
+    - 15.5:
+        non_striker: M Bryant
+        bowler: Haris Rauf
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: XC Bartlett
+    - 15.6:
+        non_striker: M Bryant
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: XC Bartlett
+    - 15.7:
+        non_striker: XC Bartlett
+        bowler: Haris Rauf
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: M Bryant
+    - 16.1:
+        non_striker: XC Bartlett
+        bowler: MJ Swepson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Bryant
+    - 16.2:
+        non_striker: XC Bartlett
+        bowler: MJ Swepson
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M Bryant
+    - 16.3:
+        non_striker: XC Bartlett
+        bowler: MJ Swepson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Bryant
+    - 16.4:
+        non_striker: M Bryant
+        bowler: MJ Swepson
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: XC Bartlett
+    - 16.5:
+        non_striker: M Bryant
+        bowler: MJ Swepson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: XC Bartlett
+    - 16.6:
+        non_striker: M Bryant
+        bowler: MJ Swepson
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: XC Bartlett
+    - 16.7:
+        non_striker: XC Bartlett
+        bowler: MJ Swepson
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M Bryant
+    - 16.8:
+        non_striker: XC Bartlett
+        bowler: MJ Swepson
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M Bryant
+    - 16.9:
+        non_striker: XC Bartlett
+        bowler: MJ Swepson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Bryant
+    - 17.1:
+        non_striker: XC Bartlett
+        bowler: PM Siddle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Bryant
+    - 17.2:
+        non_striker: XC Bartlett
+        bowler: PM Siddle
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Bryant
+    - 17.3:
+        non_striker: XC Bartlett
+        bowler: PM Siddle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Bryant
+    - 17.4:
+        non_striker: XC Bartlett
+        bowler: PM Siddle
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Bryant
+    - 17.5:
+        non_striker: XC Bartlett
+        bowler: PM Siddle
+        runs:
+          extras: 1
+          total: 5
+          batsman: 4
+        extras:
+          noballs: 1
+        batsman: M Bryant
+    - 17.6:
+        non_striker: XC Bartlett
+        bowler: PM Siddle
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: M Bryant
+    - 17.7:
+        non_striker: XC Bartlett
+        bowler: PM Siddle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Bryant
+    - 18.1:
+        non_striker: M Bryant
+        bowler: TK Curran
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: XC Bartlett
+    - 18.2:
+        non_striker: M Bryant
+        bowler: TK Curran
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: XC Bartlett
+    - 18.3:
+        non_striker: M Bryant
+        bowler: TK Curran
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: XC Bartlett
+    - 18.4:
+        non_striker: M Bryant
+        bowler: TK Curran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: XC Bartlett
+    - 18.5:
+        non_striker: XC Bartlett
+        bowler: TK Curran
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: M Bryant
+    - 18.6:
+        non_striker: XC Bartlett
+        bowler: TK Curran
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Bryant
+    - 19.1:
+        non_striker: M Bryant
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: XC Bartlett
+    - 19.2:
+        non_striker: XC Bartlett
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Bryant
+    - 19.3:
+        non_striker: XC Bartlett
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: M Bryant
+    - 19.4:
+        non_striker: XC Bartlett
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Bryant

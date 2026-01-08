@@ -1,0 +1,2030 @@
+---
+meta:
+  data_version: 0.92
+  created: '2025-12-28'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Melbourne
+  competition: Big Bash League
+  dates:
+  - '2025-12-18'
+  gender: male
+  match_type: T20
+  outcome:
+    winner: Melbourne Stars
+    by:
+      wickets: 8
+  overs: 20
+  player_of_match:
+  - MP Stoinis
+  players:
+    Hobart Hurricanes:
+    - MJ Owen
+    - Nikhil Chaudhary
+    - Rehan Ahmed
+    - BR McDermott
+    - TH David
+    - MS Wade
+    - CJ Jordan
+    - NT Ellis
+    - Rishad Hossain
+    - RP Meredith
+    - B Stanlake
+    Melbourne Stars:
+    - TF Rogers
+    - JM Clarke
+    - C Kellaway
+    - MP Stoinis
+    - SB Harper
+    - GJ Maxwell
+    - HWR Cartwright
+    - TK Curran
+    - MJ Swepson
+    - Haris Rauf
+    - PM Siddle
+  registry:
+    people:
+      B Stanlake: 6834d1f2
+      BR McDermott: c41043e6
+      C Grant: 876ed858
+      C Kellaway: 60c28835
+      CJ Jordan: ffe699c0
+      DM Koch: 6d10c034
+      Eloise Sheridan: d8d43840
+      GJ Maxwell: b681e71e
+      HWR Cartwright: ab965cad
+      Haris Rauf: 24bb1c2f
+      JM Clarke: 2eca67f5
+      MJ Owen: f2c936d7
+      MJ Swepson: 86b4bf88
+      MP Stoinis: d9273ee7
+      MS Wade: afa7e784
+      NT Ellis: 9eb1455b
+      Nikhil Chaudhary: 1f84183a
+      PM Siddle: bd93fea4
+      RL Parry: 86d151dc
+      RP Meredith: '64775749'
+      Rehan Ahmed: 0ecb4de6
+      Rishad Hossain: 5935d694
+      SB Harper: a756e61a
+      SJ Nogajski: 9b3f9323
+      TF Rogers: 7f232d46
+      TH David: f1f99156
+      TK Curran: e86754b2
+  teams:
+  - Hobart Hurricanes
+  - Melbourne Stars
+  toss:
+    winner: Melbourne Stars
+    decision: field
+  umpires:
+  - DM Koch
+  - SJ Nogajski
+  venue: Melbourne Cricket Ground
+innings:
+- 1st innings:
+    team: Hobart Hurricanes
+    deliveries:
+    - 0.1:
+        non_striker: Nikhil Chaudhary
+        bowler: GJ Maxwell
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MJ Owen
+    - 0.2:
+        non_striker: Nikhil Chaudhary
+        bowler: GJ Maxwell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Owen
+    - 0.3:
+        non_striker: Nikhil Chaudhary
+        bowler: GJ Maxwell
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MJ Owen
+    - 0.4:
+        non_striker: Nikhil Chaudhary
+        bowler: GJ Maxwell
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MJ Owen
+    - 0.5:
+        non_striker: Nikhil Chaudhary
+        bowler: GJ Maxwell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Owen
+        wicket:
+          player_out: MJ Owen
+          fielders:
+          - HWR Cartwright
+          kind: caught
+    - 0.6:
+        non_striker: Nikhil Chaudhary
+        bowler: GJ Maxwell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rehan Ahmed
+    - 0.7:
+        non_striker: Nikhil Chaudhary
+        bowler: GJ Maxwell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rehan Ahmed
+    - 1.1:
+        non_striker: Nikhil Chaudhary
+        bowler: TK Curran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rehan Ahmed
+        wicket:
+          player_out: Rehan Ahmed
+          fielders:
+          - SB Harper
+          kind: caught
+    - 1.2:
+        non_striker: Nikhil Chaudhary
+        bowler: TK Curran
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BR McDermott
+    - 1.3:
+        non_striker: Nikhil Chaudhary
+        bowler: TK Curran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BR McDermott
+    - 1.4:
+        non_striker: Nikhil Chaudhary
+        bowler: TK Curran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BR McDermott
+    - 1.5:
+        non_striker: Nikhil Chaudhary
+        bowler: TK Curran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BR McDermott
+    - 1.6:
+        non_striker: Nikhil Chaudhary
+        bowler: TK Curran
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: BR McDermott
+    - 2.1:
+        non_striker: Nikhil Chaudhary
+        bowler: PM Siddle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BR McDermott
+    - 2.2:
+        non_striker: Nikhil Chaudhary
+        bowler: PM Siddle
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BR McDermott
+    - 2.3:
+        non_striker: Nikhil Chaudhary
+        bowler: PM Siddle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BR McDermott
+    - 2.4:
+        non_striker: Nikhil Chaudhary
+        bowler: PM Siddle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BR McDermott
+    - 2.5:
+        non_striker: Nikhil Chaudhary
+        bowler: PM Siddle
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: BR McDermott
+    - 2.6:
+        non_striker: BR McDermott
+        bowler: PM Siddle
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nikhil Chaudhary
+    - 2.7:
+        non_striker: Nikhil Chaudhary
+        bowler: PM Siddle
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BR McDermott
+    - 3.1:
+        non_striker: Nikhil Chaudhary
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BR McDermott
+    - 3.2:
+        non_striker: Nikhil Chaudhary
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BR McDermott
+    - 3.3:
+        non_striker: Nikhil Chaudhary
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BR McDermott
+    - 3.4:
+        non_striker: BR McDermott
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nikhil Chaudhary
+    - 3.5:
+        non_striker: BR McDermott
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nikhil Chaudhary
+    - 3.6:
+        non_striker: BR McDermott
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nikhil Chaudhary
+    - 4.1:
+        non_striker: Nikhil Chaudhary
+        bowler: MJ Swepson
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: BR McDermott
+    - 4.2:
+        non_striker: BR McDermott
+        bowler: MJ Swepson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Nikhil Chaudhary
+    - 4.3:
+        non_striker: BR McDermott
+        bowler: MJ Swepson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nikhil Chaudhary
+    - 4.4:
+        non_striker: Nikhil Chaudhary
+        bowler: MJ Swepson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BR McDermott
+    - 4.5:
+        non_striker: BR McDermott
+        bowler: MJ Swepson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nikhil Chaudhary
+    - 4.6:
+        non_striker: BR McDermott
+        bowler: MJ Swepson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nikhil Chaudhary
+    - 5.1:
+        non_striker: BR McDermott
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Nikhil Chaudhary
+    - 5.2:
+        non_striker: BR McDermott
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nikhil Chaudhary
+        wicket:
+          player_out: Nikhil Chaudhary
+          fielders:
+          - C Kellaway
+          kind: caught
+    - 5.3:
+        non_striker: BR McDermott
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TH David
+    - 5.4:
+        non_striker: BR McDermott
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TH David
+    - 5.5:
+        non_striker: BR McDermott
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TH David
+    - 5.6:
+        non_striker: TH David
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BR McDermott
+    - 6.1:
+        non_striker: TH David
+        bowler: MJ Swepson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BR McDermott
+    - 6.2:
+        non_striker: BR McDermott
+        bowler: MJ Swepson
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        batsman: TH David
+    - 6.3:
+        non_striker: BR McDermott
+        bowler: MJ Swepson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TH David
+    - 6.4:
+        non_striker: TH David
+        bowler: MJ Swepson
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: BR McDermott
+    - 6.5:
+        non_striker: TH David
+        bowler: MJ Swepson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BR McDermott
+    - 6.6:
+        non_striker: TH David
+        bowler: MJ Swepson
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: BR McDermott
+    - 6.7:
+        non_striker: BR McDermott
+        bowler: MJ Swepson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TH David
+    - 6.8:
+        non_striker: BR McDermott
+        bowler: MJ Swepson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TH David
+    - 7.1:
+        non_striker: BR McDermott
+        bowler: TK Curran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TH David
+    - 7.2:
+        non_striker: TH David
+        bowler: TK Curran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BR McDermott
+    - 7.3:
+        non_striker: BR McDermott
+        bowler: TK Curran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TH David
+    - 7.4:
+        non_striker: BR McDermott
+        bowler: TK Curran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TH David
+    - 7.5:
+        non_striker: TH David
+        bowler: TK Curran
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BR McDermott
+    - 7.6:
+        non_striker: TH David
+        bowler: TK Curran
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BR McDermott
+    - 8.1:
+        non_striker: BR McDermott
+        bowler: GJ Maxwell
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: TH David
+    - 8.2:
+        non_striker: BR McDermott
+        bowler: GJ Maxwell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TH David
+    - 8.3:
+        non_striker: TH David
+        bowler: GJ Maxwell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BR McDermott
+    - 8.4:
+        non_striker: BR McDermott
+        bowler: GJ Maxwell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TH David
+    - 8.5:
+        non_striker: TH David
+        bowler: GJ Maxwell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BR McDermott
+    - 8.6:
+        non_striker: BR McDermott
+        bowler: GJ Maxwell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TH David
+    - 8.7:
+        non_striker: TH David
+        bowler: GJ Maxwell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BR McDermott
+    - 9.1:
+        non_striker: TH David
+        bowler: PM Siddle
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BR McDermott
+    - 9.2:
+        non_striker: BR McDermott
+        bowler: PM Siddle
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TH David
+    - 9.3:
+        non_striker: TH David
+        bowler: PM Siddle
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BR McDermott
+    - 9.4:
+        non_striker: BR McDermott
+        bowler: PM Siddle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TH David
+    - 9.5:
+        non_striker: BR McDermott
+        bowler: PM Siddle
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TH David
+    - 9.6:
+        non_striker: TH David
+        bowler: PM Siddle
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BR McDermott
+    - 10.1:
+        non_striker: TH David
+        bowler: GJ Maxwell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BR McDermott
+    - 10.2:
+        non_striker: BR McDermott
+        bowler: GJ Maxwell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TH David
+    - 10.3:
+        non_striker: TH David
+        bowler: GJ Maxwell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BR McDermott
+    - 10.4:
+        non_striker: TH David
+        bowler: GJ Maxwell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BR McDermott
+    - 10.5:
+        non_striker: BR McDermott
+        bowler: GJ Maxwell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TH David
+    - 10.6:
+        non_striker: TH David
+        bowler: GJ Maxwell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BR McDermott
+    - 11.1:
+        non_striker: TH David
+        bowler: TK Curran
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: BR McDermott
+    - 11.2:
+        non_striker: TH David
+        bowler: TK Curran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BR McDermott
+    - 11.3:
+        non_striker: BR McDermott
+        bowler: TK Curran
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TH David
+    - 11.4:
+        non_striker: BR McDermott
+        bowler: TK Curran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TH David
+    - 11.5:
+        non_striker: TH David
+        bowler: TK Curran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BR McDermott
+    - 11.6:
+        non_striker: BR McDermott
+        bowler: TK Curran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TH David
+    - 11.7:
+        non_striker: BR McDermott
+        bowler: TK Curran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TH David
+    - 12.1:
+        non_striker: BR McDermott
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TH David
+    - 12.2:
+        non_striker: BR McDermott
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TH David
+    - 12.3:
+        non_striker: BR McDermott
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TH David
+    - 12.4:
+        non_striker: TH David
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BR McDermott
+    - 12.5:
+        non_striker: TH David
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BR McDermott
+    - 12.6:
+        non_striker: TH David
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BR McDermott
+    - 13.1:
+        non_striker: BR McDermott
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TH David
+    - 13.2:
+        non_striker: TH David
+        bowler: MP Stoinis
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: BR McDermott
+    - 13.3:
+        non_striker: TH David
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BR McDermott
+    - 13.4:
+        non_striker: BR McDermott
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TH David
+    - 13.5:
+        non_striker: TH David
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BR McDermott
+    - 13.6:
+        non_striker: TH David
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BR McDermott
+    - 13.7:
+        non_striker: TH David
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BR McDermott
+    - 14.1:
+        non_striker: TH David
+        bowler: MJ Swepson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BR McDermott
+    - 14.2:
+        non_striker: BR McDermott
+        bowler: MJ Swepson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TH David
+    - 14.3:
+        non_striker: TH David
+        bowler: MJ Swepson
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: BR McDermott
+    - 14.4:
+        non_striker: TH David
+        bowler: MJ Swepson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BR McDermott
+    - 14.5:
+        non_striker: BR McDermott
+        bowler: MJ Swepson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TH David
+    - 14.6:
+        non_striker: TH David
+        bowler: MJ Swepson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BR McDermott
+    - 15.1:
+        non_striker: BR McDermott
+        bowler: PM Siddle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TH David
+    - 15.2:
+        non_striker: BR McDermott
+        bowler: PM Siddle
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TH David
+    - 15.3:
+        non_striker: BR McDermott
+        bowler: PM Siddle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TH David
+        wicket:
+          player_out: TH David
+          fielders:
+          - TF Rogers
+          kind: caught
+    - 15.4:
+        non_striker: BR McDermott
+        bowler: PM Siddle
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MS Wade
+    - 15.5:
+        non_striker: BR McDermott
+        bowler: PM Siddle
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MS Wade
+    - 15.6:
+        non_striker: BR McDermott
+        bowler: PM Siddle
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MS Wade
+    - 16.1:
+        non_striker: MS Wade
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BR McDermott
+    - 16.2:
+        non_striker: MS Wade
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BR McDermott
+    - 16.3:
+        non_striker: BR McDermott
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Wade
+    - 16.4:
+        non_striker: MS Wade
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BR McDermott
+    - 16.5:
+        non_striker: MS Wade
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: BR McDermott
+    - 16.6:
+        non_striker: MS Wade
+        bowler: Haris Rauf
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: BR McDermott
+    - 16.7:
+        non_striker: MS Wade
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BR McDermott
+    - 17.1:
+        non_striker: MS Wade
+        bowler: MP Stoinis
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: BR McDermott
+    - 17.2:
+        non_striker: MS Wade
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BR McDermott
+    - 17.3:
+        non_striker: MS Wade
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BR McDermott
+        wicket:
+          player_out: BR McDermott
+          fielders:
+          - MJ Swepson
+          kind: caught
+    - 17.4:
+        non_striker: MS Wade
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CJ Jordan
+    - 17.5:
+        non_striker: MS Wade
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CJ Jordan
+    - 17.6:
+        non_striker: CJ Jordan
+        bowler: MP Stoinis
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MS Wade
+    - 17.7:
+        non_striker: CJ Jordan
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Wade
+    - 17.8:
+        non_striker: MS Wade
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CJ Jordan
+    - 18.1:
+        non_striker: MS Wade
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CJ Jordan
+    - 18.2:
+        non_striker: CJ Jordan
+        bowler: Haris Rauf
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MS Wade
+    - 18.3:
+        non_striker: CJ Jordan
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Wade
+    - 18.4:
+        non_striker: MS Wade
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CJ Jordan
+    - 18.5:
+        non_striker: MS Wade
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CJ Jordan
+        wicket:
+          player_out: CJ Jordan
+          fielders:
+          - C Kellaway
+          kind: caught
+    - 18.6:
+        non_striker: MS Wade
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NT Ellis
+        wicket:
+          player_out: NT Ellis
+          fielders:
+          - C Kellaway
+          kind: caught
+    - 18.7:
+        non_striker: MS Wade
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rishad Hossain
+    - 19.1:
+        non_striker: Rishad Hossain
+        bowler: PM Siddle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Wade
+        wicket:
+          player_out: MS Wade
+          fielders:
+          - GJ Maxwell
+          kind: caught
+    - 19.2:
+        non_striker: Rishad Hossain
+        bowler: PM Siddle
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RP Meredith
+    - 19.3:
+        non_striker: RP Meredith
+        bowler: PM Siddle
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Rishad Hossain
+    - 19.4:
+        non_striker: RP Meredith
+        bowler: PM Siddle
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rishad Hossain
+    - 19.5:
+        non_striker: Rishad Hossain
+        bowler: PM Siddle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RP Meredith
+        wicket:
+          player_out: RP Meredith
+          fielders:
+          - SB Harper
+          kind: caught
+    - 19.6:
+        non_striker: Rishad Hossain
+        bowler: PM Siddle
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Stanlake
+- 2nd innings:
+    team: Melbourne Stars
+    deliveries:
+    - 0.1:
+        non_striker: TF Rogers
+        bowler: RP Meredith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Clarke
+    - 0.2:
+        non_striker: JM Clarke
+        bowler: RP Meredith
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TF Rogers
+    - 0.3:
+        non_striker: JM Clarke
+        bowler: RP Meredith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TF Rogers
+    - 0.4:
+        non_striker: JM Clarke
+        bowler: RP Meredith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TF Rogers
+    - 0.5:
+        non_striker: JM Clarke
+        bowler: RP Meredith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TF Rogers
+    - 0.6:
+        non_striker: JM Clarke
+        bowler: RP Meredith
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TF Rogers
+    - 1.1:
+        non_striker: TF Rogers
+        bowler: B Stanlake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Clarke
+    - 1.2:
+        non_striker: TF Rogers
+        bowler: B Stanlake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Clarke
+    - 1.3:
+        non_striker: TF Rogers
+        bowler: B Stanlake
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JM Clarke
+    - 1.4:
+        non_striker: TF Rogers
+        bowler: B Stanlake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Clarke
+    - 1.5:
+        non_striker: TF Rogers
+        bowler: B Stanlake
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: JM Clarke
+    - 1.6:
+        non_striker: JM Clarke
+        bowler: B Stanlake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TF Rogers
+    - 2.1:
+        non_striker: TF Rogers
+        bowler: RP Meredith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Clarke
+    - 2.2:
+        non_striker: TF Rogers
+        bowler: RP Meredith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Clarke
+    - 2.3:
+        non_striker: TF Rogers
+        bowler: RP Meredith
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: JM Clarke
+    - 2.4:
+        non_striker: JM Clarke
+        bowler: RP Meredith
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TF Rogers
+    - 2.5:
+        non_striker: JM Clarke
+        bowler: RP Meredith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TF Rogers
+    - 2.6:
+        non_striker: TF Rogers
+        bowler: RP Meredith
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JM Clarke
+    - 3.1:
+        non_striker: JM Clarke
+        bowler: NT Ellis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TF Rogers
+    - 3.2:
+        non_striker: TF Rogers
+        bowler: NT Ellis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Clarke
+    - 3.3:
+        non_striker: JM Clarke
+        bowler: NT Ellis
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TF Rogers
+    - 3.4:
+        non_striker: JM Clarke
+        bowler: NT Ellis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TF Rogers
+    - 3.5:
+        non_striker: JM Clarke
+        bowler: NT Ellis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TF Rogers
+    - 3.6:
+        non_striker: TF Rogers
+        bowler: NT Ellis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Clarke
+    - 4.1:
+        non_striker: JM Clarke
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TF Rogers
+    - 4.2:
+        non_striker: TF Rogers
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Clarke
+    - 4.3:
+        non_striker: JM Clarke
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TF Rogers
+    - 4.4:
+        non_striker: JM Clarke
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TF Rogers
+    - 4.5:
+        non_striker: JM Clarke
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TF Rogers
+    - 4.6:
+        non_striker: TF Rogers
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Clarke
+    - 5.1:
+        non_striker: JM Clarke
+        bowler: Rishad Hossain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TF Rogers
+    - 5.2:
+        non_striker: TF Rogers
+        bowler: Rishad Hossain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Clarke
+    - 5.3:
+        non_striker: JM Clarke
+        bowler: Rishad Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TF Rogers
+        wicket:
+          player_out: TF Rogers
+          fielders:
+          - Nikhil Chaudhary
+          kind: caught
+    - 5.4:
+        non_striker: JM Clarke
+        bowler: Rishad Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Kellaway
+    - 5.5:
+        non_striker: JM Clarke
+        bowler: Rishad Hossain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Kellaway
+    - 5.6:
+        non_striker: C Kellaway
+        bowler: Rishad Hossain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Clarke
+    - 6.1:
+        non_striker: C Kellaway
+        bowler: B Stanlake
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JM Clarke
+    - 6.2:
+        non_striker: C Kellaway
+        bowler: B Stanlake
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Clarke
+    - 6.3:
+        non_striker: JM Clarke
+        bowler: B Stanlake
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Kellaway
+    - 6.4:
+        non_striker: C Kellaway
+        bowler: B Stanlake
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: JM Clarke
+    - 6.5:
+        non_striker: C Kellaway
+        bowler: B Stanlake
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Clarke
+    - 6.6:
+        non_striker: JM Clarke
+        bowler: B Stanlake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Kellaway
+    - 6.7:
+        non_striker: JM Clarke
+        bowler: B Stanlake
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: C Kellaway
+    - 7.1:
+        non_striker: JM Clarke
+        bowler: Rishad Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Kellaway
+    - 7.2:
+        non_striker: JM Clarke
+        bowler: Rishad Hossain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Kellaway
+    - 7.3:
+        non_striker: C Kellaway
+        bowler: Rishad Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Clarke
+        wicket:
+          player_out: JM Clarke
+          fielders:
+          - RP Meredith
+          kind: caught
+    - 7.4:
+        non_striker: C Kellaway
+        bowler: Rishad Hossain
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MP Stoinis
+    - 7.5:
+        non_striker: C Kellaway
+        bowler: Rishad Hossain
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: MP Stoinis
+    - 7.6:
+        non_striker: MP Stoinis
+        bowler: Rishad Hossain
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: C Kellaway
+    - 8.1:
+        non_striker: C Kellaway
+        bowler: B Stanlake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Stoinis
+    - 8.2:
+        non_striker: C Kellaway
+        bowler: B Stanlake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Stoinis
+    - 8.3:
+        non_striker: C Kellaway
+        bowler: B Stanlake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Stoinis
+    - 8.4:
+        non_striker: C Kellaway
+        bowler: B Stanlake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Stoinis
+    - 8.5:
+        non_striker: C Kellaway
+        bowler: B Stanlake
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP Stoinis
+    - 8.6:
+        non_striker: MP Stoinis
+        bowler: B Stanlake
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: C Kellaway
+    - 9.1:
+        non_striker: C Kellaway
+        bowler: Rishad Hossain
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MP Stoinis
+    - 9.2:
+        non_striker: C Kellaway
+        bowler: Rishad Hossain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP Stoinis
+    - 9.3:
+        non_striker: MP Stoinis
+        bowler: Rishad Hossain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Kellaway
+    - 9.4:
+        non_striker: C Kellaway
+        bowler: Rishad Hossain
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MP Stoinis
+    - 9.5:
+        non_striker: C Kellaway
+        bowler: Rishad Hossain
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MP Stoinis
+    - 9.6:
+        non_striker: C Kellaway
+        bowler: Rishad Hossain
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MP Stoinis
+    - 9.7:
+        non_striker: C Kellaway
+        bowler: Rishad Hossain
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MP Stoinis
+    - 10.1:
+        non_striker: MP Stoinis
+        bowler: NT Ellis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Kellaway
+    - 10.2:
+        non_striker: C Kellaway
+        bowler: NT Ellis
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MP Stoinis
+    - 10.3:
+        non_striker: C Kellaway
+        bowler: NT Ellis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP Stoinis
+    - 10.4:
+        non_striker: MP Stoinis
+        bowler: NT Ellis
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Kellaway
+    - 10.5:
+        non_striker: MP Stoinis
+        bowler: NT Ellis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Kellaway
+    - 10.6:
+        non_striker: MP Stoinis
+        bowler: NT Ellis
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Kellaway
+    - 11.1:
+        non_striker: C Kellaway
+        bowler: Rehan Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP Stoinis
+    - 11.2:
+        non_striker: MP Stoinis
+        bowler: Rehan Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Kellaway
+    - 11.3:
+        non_striker: C Kellaway
+        bowler: Rehan Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP Stoinis
+    - 11.4:
+        non_striker: MP Stoinis
+        bowler: Rehan Ahmed
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: C Kellaway
+    - 11.5:
+        non_striker: MP Stoinis
+        bowler: Rehan Ahmed
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: C Kellaway
+    - 11.6:
+        non_striker: C Kellaway
+        bowler: Rehan Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP Stoinis
+    - 11.7:
+        non_striker: MP Stoinis
+        bowler: Rehan Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Kellaway
+    - 12.1:
+        non_striker: MP Stoinis
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Kellaway
+    - 12.2:
+        non_striker: C Kellaway
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Stoinis
+    - 12.3:
+        non_striker: C Kellaway
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP Stoinis
+    - 12.4:
+        non_striker: MP Stoinis
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Kellaway
+    - 12.5:
+        non_striker: C Kellaway
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP Stoinis
+    - 12.6:
+        non_striker: MP Stoinis
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Kellaway
+    - 13.1:
+        non_striker: C Kellaway
+        bowler: Rehan Ahmed
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MP Stoinis
+    - 13.2:
+        non_striker: C Kellaway
+        bowler: Rehan Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP Stoinis
+    - 13.3:
+        non_striker: MP Stoinis
+        bowler: Rehan Ahmed
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Kellaway
+    - 13.4:
+        non_striker: MP Stoinis
+        bowler: Rehan Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Kellaway
+    - 13.5:
+        non_striker: MP Stoinis
+        bowler: Rehan Ahmed
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: C Kellaway
+    - 13.6:
+        non_striker: MP Stoinis
+        bowler: Rehan Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Kellaway
+    - 14.1:
+        non_striker: MP Stoinis
+        bowler: NT Ellis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Kellaway
+    - 14.2:
+        non_striker: C Kellaway
+        bowler: NT Ellis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Stoinis
+    - 14.3:
+        non_striker: C Kellaway
+        bowler: NT Ellis
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MP Stoinis
+    - 14.4:
+        non_striker: C Kellaway
+        bowler: NT Ellis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP Stoinis
+    - 14.5:
+        non_striker: MP Stoinis
+        bowler: NT Ellis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Kellaway
+    - 14.6:
+        non_striker: C Kellaway
+        bowler: NT Ellis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP Stoinis
+    - 14.7:
+        non_striker: MP Stoinis
+        bowler: NT Ellis
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Kellaway
+    - 15.1:
+        non_striker: C Kellaway
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MP Stoinis
+    - 15.2:
+        non_striker: C Kellaway
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MP Stoinis
+    - 15.3:
+        non_striker: C Kellaway
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MP Stoinis
+    - 15.4:
+        non_striker: C Kellaway
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MP Stoinis
+    - 15.5:
+        non_striker: C Kellaway
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MP Stoinis
+    - 15.6:
+        non_striker: C Kellaway
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MP Stoinis
