@@ -22,7 +22,7 @@ def process_game(file_name):
 
   data = []
 
-  for inning in innings:
+  for idx, inning in enumerate(innings):
     inning_name, inning_data = next(iter(inning.items()))
     deliveries = inning_data["deliveries"]
 
@@ -58,6 +58,7 @@ def process_game(file_name):
           "wicket_count": wicket_count,
           "batsman1_runs": batsman_runs.get(striker, 0),
           "batsman2_runs": batsman_runs.get(non_striker, 0),
+          "innings": idx + 1,
       }
 
     # Total Innings Runs
@@ -73,12 +74,13 @@ def process_game(file_name):
             row["wicket_count"],
             row["batsman1_runs"],
             row["batsman2_runs"],
+            row["innings"],
             row["year"],
             row["total_runs"],
         ])
 
-    # Write Data to CSV
-    save_data(data)
+  # Write Data to CSV
+  save_data(data)
 
   return data
 
